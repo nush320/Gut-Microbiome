@@ -1,0 +1,182 @@
+---
+title: "Study 6 Cheney - DADA Feb 1,2025"
+output: html_document
+date: "2025-02-01"
+---
+
+```{r}
+library(dada2)
+packageVersion("dada2")
+library(ShortRead)
+packageVersion("ShortRead")
+library(Biostrings)
+packageVersion("Biostrings")
+```
+
+```{r}
+path <- "6-fastq"
+list.files(path)
+```
+
+```{r}
+fnFs <- sort(list.files(path, pattern = "_1.fastq", full.names = TRUE))
+fnRs <- sort(list.files(path, pattern = "_2.fastq", full.names = TRUE))
+```
+
+# Identify Primers
+```{r}
+FWD <- "GTGCCAGCMGCCGCGGTAA" # 515F
+REV <- "GGACTACHVGGGTWTCTAAT" # 806R
+```
+
+```{r}
+allOrients <- function(primer) {
+    # Create all orientations of the input sequence
+    require(Biostrings)
+    dna <- DNAString(primer)  # The Biostrings works w/ DNAString objects rather than character vectors
+    orients <- c(Forward = dna, Complement = Biostrings::complement(dna), Reverse = Biostrings::reverse(dna),
+        RevComp = Biostrings::reverseComplement(dna))
+    return(sapply(orients, toString))  # Convert back to character vector
+}
+FWD.orients <- allOrients(FWD)
+REV.orients <- allOrients(REV)
+FWD.orients
+```
+
+```{r}
+# Pre-filter to remove Ns
+fnFs.filtN <- file.path(path, "filtN", basename(fnFs))
+fnRs.filtN <- file.path(path, "filtN", basename(fnRs))
+filterAndTrim(fnFs, fnFs.filtN, fnRs, fnRs.filtN, maxN = 0, multithread = TRUE)
+```
+
+```{r}
+# Primer checking function
+primerHits <- function(primer, fn) {
+    nhits <- vcountPattern(primer, sread(readFastq(fn)), fixed = FALSE)
+    return(sum(nhits > 0))
+}
+```
+
+```{r}
+# Check primer orientations
+rbind(
+    FWD.ForwardReads = sapply(FWD.orients, primerHits, fn = fnFs.filtN[[1]]),
+    FWD.ReverseReads = sapply(FWD.orients, primerHits, fn = fnRs.filtN[[1]]),
+    REV.ForwardReads = sapply(REV.orients, primerHits, fn = fnFs.filtN[[1]]),
+    REV.ReverseReads = sapply(REV.orients, primerHits, fn = fnRs.filtN[[1]])
+)
+```
+## no primers so will not perform trimming
+
+```{r}
+plotQualityProfile(fnFs[1:2])
+```
+
+```{r}
+plotQualityProfile(fnRs[1:2])
+```
+
+```{r}
+# Place filtered files in filtered/ subdirectory
+sample.names <- sapply(strsplit(basename(fnFs), "_"), `[`, 1)
+
+filtFs <- file.path(path, "filtered", paste0(sample.names, "_F_filt.fastq.gz"))
+filtRs <- file.path(path, "filtered", paste0(sample.names, "_R_filt.fastq.gz"))
+names(filtFs) <- sample.names
+names(filtRs) <- sample.names
+```
+
+```{r}
+out <- filterAndTrim(fnFs, filtFs, fnRs, filtRs, truncLen=c(250,230),
+              maxN=0, maxEE=c(2,2), truncQ=2, rm.phix=TRUE,
+              compress=TRUE, multithread=TRUE) # On Windows set multithread=FALSE
+head(out)
+```
+
+```{r}
+errF <- learnErrors(filtFs, multithread=TRUE)
+```
+
+```{r}
+errR <- learnErrors(filtRs, multithread = TRUE)
+```
+
+```{r}
+plotErrors(errF, nominalQ = TRUE)
+```
+
+```{r}
+dadaFs <- dada(filtFs, err = errF, multithread = TRUE)
+dadaRs <- dada(filtRs, err = errR, multithread = TRUE)
+```
+
+```{r}
+mergers <- mergePairs(dadaFs, filtFs, dadaRs, filtRs, verbose=TRUE)
+```
+
+
+```{r}
+# Inspect the merger data.frame from the first sample
+head(mergers[[7]])
+```
+## Construct Sequence Table
+```{r}
+seqtab <- makeSequenceTable(mergers)
+dim(seqtab)
+```
+## Remove chimeras
+```{r}
+seqtab.nochim <- removeBimeraDenovo(seqtab, method="consensus", multithread=TRUE, verbose=TRUE)
+```
+### Inspect distribution of sequence lengths
+```{r}
+table(nchar(getSequences(seqtab.nochim)))
+```
+## Track Reads through the pipeline
+```{r}
+getN <- function(x) sum(getUniques(x))
+track <- cbind(out, sapply(dadaFs, getN), sapply(dadaRs, getN), sapply(mergers, getN),
+    rowSums(seqtab.nochim))
+# If processing a single sample, remove the sapply calls: e.g. replace
+# sapply(dadaFs, getN) with getN(dadaFs)
+colnames(track) <- c("input", "filtered", "denoisedF", "denoisedR", "merged", "nonchim")
+rownames(track) <- sample.names
+head(track)
+```
+## Taxonomy Assignment
+```{r}
+taxa <- assignTaxonomy(seqtab.nochim, "../silva_nr99_v138.1_train_set.fa.gz", multithread=TRUE)
+```
+
+```{r}
+taxa.print <- taxa # Removing sequence rownames for display only
+rownames(taxa.print) <- NULL
+head(taxa.print)
+```
+
+## Species Level Assignment
+```{r}
+set.seed(123)
+taxa.species <- addSpecies(taxa, "../silva_species_assignment_v138.1.fa.gz")
+```
+
+```{r}
+taxa.print <- taxa.species # Removing sequence rownames for display only
+rownames(taxa.print) <- NULL
+head(taxa.print)
+```
+
+```{r}
+table(taxa.print[,1]) # Show the different kingdoms (should be only bacteria)
+table(taxa.print[,2]) # Show the different phyla
+table(is.na(taxa.print[,2])) # is there any NA phyla?
+```
+
+```{r}
+## saving the seqtab.nochim and taxa as rds
+saveRDS(seqtab.nochim, file.path(path, "seqtab.nochim_6.rds"))
+saveRDS(taxa, file.path(path, "taxa_6.rds"))
+saveRDS(taxa.species, file.path(path, "taxa.species_6.rds"))
+```
+

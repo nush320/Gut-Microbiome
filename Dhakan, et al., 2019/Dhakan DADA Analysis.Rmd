@@ -1,0 +1,137 @@
+---
+title: "trying again without primer filtering"
+output: html_document
+date: "2025-01-31"
+---
+
+## starting from original dada tutorial where files were filtered
+
+```{r}
+path <- "filt_fastq"
+list.files(path)
+```
+
+```{r}
+fnFs <- sort(list.files(path, pattern="_1.fastq", full.names = TRUE))
+fnRs <- sort(list.files(path, pattern="_2.fastq", full.names = TRUE))
+# Extract sample names, assuming filenames have format: SAMPLENAME_XXX.fastq
+sample.names <- sapply(strsplit(basename(fnFs), "_"), `[`, 1)
+```
+
+```{r}
+FiltFs <- list.files(path = "filtered_gz", full.names = TRUE, pattern = "_F_filt.fastq.gz")
+FiltRs <- list.files(path = "filtered_gz", full.names = TRUE, pattern = "_R_filt.fastq.gz")
+
+# Make sure your sample names match your filtered files
+sample.names <- gsub("_F_filt.fastq.gz", "", basename(FiltFs))
+
+# Set names for the filtered files
+names(FiltFs) <- sample.names
+names(FiltRs) <- sample.names
+```
+
+```{r}
+# Use these paths in the filterAndTrim function
+out <- filterAndTrim(fnFs, FiltFs, fnRs, FiltRs, truncLen=c(150,150),
+              maxN=0, maxEE=c(2,2), truncQ=2, rm.phix=TRUE,
+              compress=TRUE, multithread=FALSE) # On Windows set multithread=FALSE
+head(out)
+```
+
+```{r}
+errF <- learnErrors(FiltFs, multithread=TRUE)
+```
+
+```{r}
+errR <- learnErrors(FiltRs, multithread=TRUE)
+```
+
+```{r}
+plotErrors(errF, nominalQ=TRUE)
+```
+
+```{r}
+dadaFs <- dada(FiltFs, err=errF, multithread=TRUE)
+```
+
+```{r}
+dadaRs <- dada(FiltRs, err=errR, multithread=TRUE)
+```
+
+```{r}
+dadaFs[[1]]
+```
+
+```{r}
+mergers <- mergePairs(dadaFs, FiltFs, dadaRs, FiltRs, verbose=TRUE)
+```
+
+```{r}
+# Inspect the merger data.frame from the first sample
+head(mergers[[1]])
+```
+
+```{r}
+seqtab <- makeSequenceTable(mergers)
+dim(seqtab)
+```
+
+```{r}
+# Inspect distribution of sequence lengths
+table(nchar(getSequences(seqtab)))
+```
+
+```{r}
+seqtab.nochim <- removeBimeraDenovo(seqtab, method="consensus", multithread=TRUE, verbose=TRUE)
+```
+
+```{r}
+dim(seqtab.nochim)
+```
+
+```{r}
+getN <- function(x) sum(getUniques(x))
+track <- cbind(out, sapply(dadaFs, getN), sapply(dadaRs, getN), sapply(mergers, getN), rowSums(seqtab.nochim))
+# If processing a single sample, remove the sapply calls: e.g. replace sapply(dadaFs, getN) with getN(dadaFs)
+colnames(track) <- c("input", "filtered", "denoisedF", "denoisedR", "merged", "nonchim")
+rownames(track) <- sample.names
+head(track)
+```
+
+
+```{r}
+taxa_1 <- assignTaxonomy(seqtab.nochim, "../silva_nr99_v138.1_train_set.fa.gz", multithread=TRUE)
+```
+
+```{r}
+taxa.print <- taxa_1 # Removing sequence rownames for display only
+rownames(taxa.print) <- NULL
+head(taxa.print)
+```
+
+## Species Level Assignment
+```{r}
+set.seed(123)
+taxa.species_1 <- addSpecies(taxa, "../silva_species_assignment_v138.1.fa.gz")
+```
+
+```{r}
+taxa.print_sp <- taxa.species_1 # Removing sequence rownames for display only
+rownames(taxa.print_sp) <- NULL
+head(taxa.print_sp)
+```
+
+```{r}
+table(taxa.print[,1]) # Show the different kingdoms (should be only bacteria)
+table(taxa.print[,2]) # Show the different phyla
+table(is.na(taxa.print[,2])) # is there any NA phyla?
+```
+
+```{r}
+## saving the seqtab.nochim and taxa as rds
+saveRDS(seqtab.nochim, file.path(path, "seqtab.nochim_1.rds"))
+saveRDS(taxa_1, file.path(path, "taxa_1.rds"))
+saveRDS(taxa.species_1, file.path(path, "taxa.species_1.rds"))
+```
+
+
