@@ -1,0 +1,200 @@
+---
+title: "DADA2 Analysis Study 11"
+author: "Anushka KC"
+date: "2024-10-28"
+output: html_document
+---
+
+```{r}
+library(dada2); packageVersion("dada2")
+```
+
+```{r}
+path <- "C:/Users/akc79.1000SUNNY/Documents/Master's Thesis Research/Masters Thesis Research-laptop/R Analysis/Study11 - Vandoni et al., 2023/11-fastq_filt"
+list.files(path)
+```
+
+```{r}
+fnFs <- sort(list.files(path, pattern="_1.fastq", full.names = TRUE))
+fnRs <- sort(list.files(path, pattern="_2.fastq", full.names = TRUE))
+# Extract sample names, assuming filenames have format: SAMPLENAME_XXX.fastq
+sample.names <- sapply(strsplit(basename(fnFs), "_"), `[`, 1)
+```
+
+
+```{r}
+# Place filtered files in filtered/ subdirectory
+filtFs <- file.path(path, "filtered", paste0(sample.names, "_F_filt.fastq.gz"))
+filtRs <- file.path(path, "filtered", paste0(sample.names, "_R_filt.fastq.gz"))
+names(filtFs) <- sample.names
+names(filtRs) <- sample.names
+```
+
+```{r}
+out <- filterAndTrim(fnFs, filtFs, fnRs, filtRs, truncLen=c(230, 230),
+              maxN=0, maxEE=c(2,2), truncQ=2, rm.phix=TRUE,
+              compress=TRUE, multithread=FALSE) # On Windows set multithread=FALSE
+head(out)
+```
+
+```{r}
+errF <- learnErrors(filtFs, multithread=TRUE)
+```
+
+```{r}
+errR <- learnErrors(filtRs, multithread=TRUE)
+```
+
+```{r}
+plotErrors(errF, nominalQ=TRUE)
+```
+
+```{r}
+dadaFs <- dada(filtFs, err=errF, multithread=TRUE)
+```
+
+```{r}
+dadaRs <- dada(filtRs, err=errR, multithread=TRUE)
+```
+
+```{r}
+dadaFs[[1]]
+```
+
+```{r}
+mergers <- mergePairs(dadaFs, filtFs, dadaRs, filtRs, verbose=TRUE)
+```
+
+```{r}
+# Inspect the merger data.frame from the first sample
+head(mergers[[1]])
+```
+
+```{r}
+seqtab <- makeSequenceTable(mergers)
+dim(seqtab)
+```
+
+```{r}
+# Inspect distribution of sequence lengths
+table(nchar(getSequences(seqtab)))
+```
+
+```{r}
+seqtab.nochim <- removeBimeraDenovo(seqtab, method="consensus", multithread=TRUE, verbose=TRUE)
+```
+
+```{r}
+dim(seqtab.nochim)
+```
+
+```{r}
+getN <- function(x) sum(getUniques(x))
+track <- cbind(out, sapply(dadaFs, getN), sapply(dadaRs, getN), sapply(mergers, getN), rowSums(seqtab.nochim))
+# If processing a single sample, remove the sapply calls: e.g. replace sapply(dadaFs, getN) with getN(dadaFs)
+colnames(track) <- c("input", "filtered", "denoisedF", "denoisedR", "merged", "nonchim")
+rownames(track) <- sample.names
+head(track)
+```
+
+```{r}
+taxa <- assignTaxonomy(seqtab.nochim, "../silva_nr99_v138.1_train_set.fa.gz", multithread=TRUE)
+```
+
+```{r}
+taxa.print <- taxa # Removing sequence rownames for display only
+rownames(taxa.print) <- NULL
+head(taxa.print)
+```
+# Species Level Assignment
+```{r}
+set.seed(123)
+taxa.species <- addSpecies(taxa, "../silva_species_assignment_v138.1.fa.gz")
+```
+
+```{r}
+taxa.print <- taxa.species # Removing sequence rownames for display only
+rownames(taxa.print) <- NULL
+head(taxa.print)
+```
+
+```{r}
+table(taxa.print[,1]) # Show the different kingdoms (should be only bacteria)
+table(taxa.print[,2]) # Show the different phyla
+table(is.na(taxa.print[,2])) # is there any NA phyla?
+```
+
+```{r}
+## saving the seqtab.nochim and taxa as rds
+saveRDS(seqtab.nochim, file.path(path, "seqtab.nochim_11.rds"))
+saveRDS(taxa, file.path(path, "taxa_11.rds"))
+saveRDS(taxa.species, file.path(path, "taxa.species_11.rds"))
+```
+
+### Loading Metadata
+```{r}
+mdata <- read.csv("11-metadata.csv")
+```
+
+```{r}
+mdata2 <- mdata[match(rownames(seqtab.nochim), mdata$Run), ]
+rownames(mdata2) <- mdata2$Run
+```
+
+### Creating Phyloseq Object
+```{r}
+library(phyloseq); packageVersion("phyloseq")
+```
+
+```{r}
+ps <- phyloseq(
+             otu_table(seqtab.nochim, taxa_are_rows=FALSE),
+             sample_data(mdata2),
+             tax_table(taxa)
+           )
+
+ps
+```
+
+## Remove eukaryotes and unassigned phyla
+```{r}
+ps <- subset_taxa(ps, Kingdom != "Eukaryota")
+ps <- subset_taxa(ps, !is.na(Phylum))
+```
+
+## Remove samples with less than 500 reads
+```{r}
+ps <- prune_samples(sample_sums(ps)>=500, ps) 
+
+# Some taxa might have been present only in these low-count samples, so we will make sure to remove taxa that are absent in all samples
+ps <- prune_taxa(taxa_sums(ps)>0, ps)
+```
+
+
+```{r}
+library(dplyr)
+library(ggplot2)
+```
+### Brief look at data analysis
+```{r}
+# Absolute abundance
+# plot_bar(ps, fill = "Phylum")+ facet_wrap("host_disease", scales="free_x") + theme(axis.text.x = element_blank())
+
+# Relative abundance for Phylum
+phylum.table <- ps %>%
+  tax_glom(taxrank = "Phylum") %>%                     # agglomerate at phylum level
+  transform_sample_counts(function(x) {x/sum(x)} ) %>% # Transform to rel. abundance
+  psmelt()                                             # Melt to long format
+
+ggplot(phylum.table, aes(x = reorder(Sample, Sample, function(x) mean(phylum.table[Sample == x & Phylum == 'Firmicutes', 'Abundance'])),
+                         y = Abundance, fill = Phylum))+
+  facet_wrap(~ Study.Group, scales = "free") + # scales = "free" removes empty lines
+  geom_bar(stat = "identity") +
+  theme(axis.text.x = element_text(size = 2, angle = -90))+
+  labs(x = "Samples", y = "Relative abundance")
+```
+
+```{r}
+saveRDS(ps, "ps_11.rds")
+```
+
