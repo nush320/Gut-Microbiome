@@ -1,0 +1,645 @@
+Run,BioProject,Age,Sex,BMI,Country,Continent,Ethnicity,Study.Group,,City
+SRR18588257,PRJNA812699,48,F,22.01007843,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588258,PRJNA812699,19,F,19.64848137,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588261,PRJNA812699,34,F,22,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588264,PRJNA812699,28,F,25,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588266,PRJNA812699,21,F,26.60288048,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588268,PRJNA812699,33,F,29,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588271,PRJNA812699,48,F,26,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588274,PRJNA812699,26,F,25.85991478,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588277,PRJNA812699,18,F,24.22646332,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588278,PRJNA812699,44,F,25.73322678,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588283,PRJNA812699,24,F,23,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588285,PRJNA812699,25,F,25,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588288,PRJNA812699,30,F,32.02555466,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588290,PRJNA812699,29,F,20,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588293,PRJNA812699,28,F,23,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588295,PRJNA812699,18,F,20,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588297,PRJNA812699,30,F,19,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588300,PRJNA812699,18,F,23.2030735,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588301,PRJNA812699,23,F,22,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588304,PRJNA812699,41,F,29,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588307,PRJNA812699,45,F,24,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588310,PRJNA812699,22,F,19.1196785,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588311,PRJNA812699,19,M,24.20798874,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588312,PRJNA812699,21,F,24.48120308,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588315,PRJNA812699,24,F,29,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588318,PRJNA812699,57,F,26,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588321,PRJNA812699,53,F,39.90000153,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588323,PRJNA812699,58,F,25.39999962,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588324,PRJNA812699,44,F,25.59423065,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588325,PRJNA812699,20,F,27.74187851,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588326,PRJNA812699,20,F,35.11959457,USA,North America,Black,Healthy,,Los Angeles
+SRR18588327,PRJNA812699,27,F,35.01269531,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588328,PRJNA812699,32,F,29.88847923,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588329,PRJNA812699,20,F,25.2377739,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588330,PRJNA812699,33,F,25.27993011,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588331,PRJNA812699,19,M,29.56032753,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588332,PRJNA812699,27,M,27.71545982,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588333,PRJNA812699,32,M,34.79986572,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588334,PRJNA812699,20,F,31.66589355,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588335,PRJNA812699,44,M,32.13946915,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588336,PRJNA812699,20,M,31.73756981,USA,North America,Black,Healthy,,Los Angeles
+SRR18588337,PRJNA812699,27,F,24.3821907,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588338,PRJNA812699,41,F,32.31847382,USA,North America,Black,Healthy,,Los Angeles
+SRR18588339,PRJNA812699,50,M,31.46947289,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588341,PRJNA812699,19,F,33.38645935,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588342,PRJNA812699,24,F,26.18120766,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588343,PRJNA812699,25,M,33.67993927,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588344,PRJNA812699,26,M,26.87863541,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588345,PRJNA812699,23,M,26.99459076,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588346,PRJNA812699,20,F,25.7008152,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588347,PRJNA812699,45,M,33.83707428,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588348,PRJNA812699,30,M,27.87569618,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588349,PRJNA812699,27,M,29.63462067,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588350,PRJNA812699,21,F,32.49370575,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588351,PRJNA812699,20,F,25.2377739,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588352,PRJNA812699,32,M,37.23487473,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588353,PRJNA812699,48,F,22.01007843,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588354,PRJNA812699,48,F,22.01007843,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588355,PRJNA812699,34,F,22,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588356,PRJNA812699,28,F,25,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588357,PRJNA812699,33,F,29,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588358,PRJNA812699,24,M,22.89999962,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588359,PRJNA812699,27,F,24.15982628,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588360,PRJNA812699,26,F,25.27930641,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588361,PRJNA812699,24,F,32.94898987,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588362,PRJNA812699,23,F,24.50624275,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588363,PRJNA812699,26,F,22.72784042,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588364,PRJNA812699,50,F,37.8345871,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588366,PRJNA812699,43,M,24.90198517,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588368,PRJNA812699,44,M,23.24185181,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588369,PRJNA812699,36,F,20.54623413,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588370,PRJNA812699,45,F,19.54084778,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588371,PRJNA812699,35,F,20.33471107,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588373,PRJNA812699,26,F,25.85991478,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588375,PRJNA812699,26,F,25.85991478,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588376,PRJNA812699,44,F,25.73322678,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588378,PRJNA812699,44,F,25.73322678,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588379,PRJNA812699,34,F,28.20679092,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588380,PRJNA812699,28,F,21,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588381,PRJNA812699,24,F,23,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588382,PRJNA812699,24,F,22.15160561,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588383,PRJNA812699,25,F,25,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588384,PRJNA812699,55,F,23,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588386,PRJNA812699,40,F,30.61585808,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588387,PRJNA812699,40,F,30.61585808,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588388,PRJNA812699,41,F,26,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588389,PRJNA812699,33,F,24.14047813,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588390,PRJNA812699,21,M,25.01492119,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588391,PRJNA812699,45,F,35.18432617,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588393,PRJNA812699,51,M,32.43870544,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588394,PRJNA812699,54,F,25.21460724,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588395,PRJNA812699,19,M,20.68828583,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588396,PRJNA812699,34,F,22,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588397,PRJNA812699,52,M,29.26582527,USA,North America,Black,Healthy,,Los Angeles
+SRR18588398,PRJNA812699,21,F,22.30418396,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588400,PRJNA812699,29,F,20,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588401,PRJNA812699,40,F,28.3391552,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588403,PRJNA812699,33,F,23.4089489,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588404,PRJNA812699,43,F,20.16412926,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588405,PRJNA812699,29,F,20.63242531,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588406,PRJNA812699,28,F,23,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588407,PRJNA812699,25,M,23.30957222,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588409,PRJNA812699,32,M,24.54433632,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588411,PRJNA812699,29,F,24.16286659,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588413,PRJNA812699,42,F,26.43115234,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588415,PRJNA812699,29,F,25.04286957,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588416,PRJNA812699,18,F,20,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588417,PRJNA812699,31,M,20.5,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588418,PRJNA812699,44,F,27.99887085,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588419,PRJNA812699,40,M,23.9,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588420,PRJNA812699,38,M,20.9,USA,North America,Black,Healthy,,Los Angeles
+SRR18588421,PRJNA812699,31,F,22.8,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588422,PRJNA812699,38,F,20.8,USA,North America,Black,Healthy,,Los Angeles
+SRR18588423,PRJNA812699,38,F,22.7,USA,North America,Black,Healthy,,Los Angeles
+SRR18588424,PRJNA812699,31,F,21.1,USA,North America,Black,Healthy,,Los Angeles
+SRR18588425,PRJNA812699,38,F,24.9,USA,North America,Black,Healthy,,Los Angeles
+SRR18588426,PRJNA812699,38,M,20.8,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588427,PRJNA812699,38,F,21.2,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588428,PRJNA812699,38,F,23.5,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588430,PRJNA812699,38,M,25.1,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588431,PRJNA812699,38,M,24.7,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588432,PRJNA812699,28,M,22.9,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588433,PRJNA812699,38,M,24.3,USA,North America,Black,Healthy,,Los Angeles
+SRR18588434,PRJNA812699,38,M,20.2,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588435,PRJNA812699,30,M,26.8,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588436,PRJNA812699,38,F,23.4,USA,North America,Black,Healthy,,Los Angeles
+SRR18588437,PRJNA812699,35,F,25.3,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588438,PRJNA812699,22,F,20.72335625,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588439,PRJNA812699,45,M,23.51469421,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588440,PRJNA812699,20,F,24.00773048,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588441,PRJNA812699,33,F,21.96321487,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588442,PRJNA812699,28,F,20.61558723,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588443,PRJNA812699,60,M,26.54530716,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588444,PRJNA812699,29,M,16.91334343,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588445,PRJNA812699,25,F,20.85314941,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588446,PRJNA812699,38,M,23.89248466,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588447,PRJNA812699,55,F,30.38137627,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588448,PRJNA812699,22,M,35.01269531,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588449,PRJNA812699,42,M,29.12428665,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588450,PRJNA812699,23,M,37.42843628,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588451,PRJNA812699,39,M,22.99549675,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588452,PRJNA812699,37,F,38.82529449,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588453,PRJNA812699,32,M,37.5638504,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588454,PRJNA812699,25,F,20.46603584,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588455,PRJNA812699,20,F,23.17754555,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588456,PRJNA812699,23,F,20.28902435,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588457,PRJNA812699,18,F,21.9219532,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588458,PRJNA812699,20,F,25.45775223,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588460,PRJNA812699,51,M,21.89999962,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588463,PRJNA812699,69,F,18.60000038,USA,North America,Black,Irritable bowel syndrome,,Buffalo
+SRR18588465,PRJNA812699,41,F,25.10000038,USA,North America,Hispanic,Irritable bowel syndrome,,Buffalo
+SRR18588467,PRJNA812699,51,M,27.10000038,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588468,PRJNA812699,44,M,25.23730278,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588469,PRJNA812699,22,F,39.49578857,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588470,PRJNA812699,22,F,29.48440361,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588471,PRJNA812699,31,F,31.8804245,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588472,PRJNA812699,28,F,27.18821144,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588473,PRJNA812699,47,F,32.23633194,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588474,PRJNA812699,26,F,35.04184723,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588475,PRJNA812699,32,F,43.70678329,USA,North America,Black,Healthy,,Los Angeles
+SRR18588476,PRJNA812699,54,F,34.6986618,USA,North America,Black,Healthy,,Los Angeles
+SRR18588477,PRJNA812699,33,F,30.99647331,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588478,PRJNA812699,22,F,34.10175323,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588479,PRJNA812699,22,M,28.58857346,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588480,PRJNA812699,25,F,32.50688553,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588481,PRJNA812699,28,M,30.66345215,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588482,PRJNA812699,23,M,30.67488289,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588483,PRJNA812699,34,F,29.2611866,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588484,PRJNA812699,30,F,33.94458008,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588485,PRJNA812699,18,M,29.41984749,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588486,PRJNA812699,45,F,27.38489151,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588487,PRJNA812699,45,F,25.32464027,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588488,PRJNA812699,31,F,39.10026169,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588489,PRJNA812699,38,F,31.97105789,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588490,PRJNA812699,24,F,19.01977158,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588491,PRJNA812699,41,F,42.06295395,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588492,PRJNA812699,51,F,28.47500801,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588493,PRJNA812699,37,F,36.40000153,USA,North America,Black,Healthy,,Los Angeles
+SRR18588494,PRJNA812699,34,F,25.95541,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588495,PRJNA812699,40,F,25.87285423,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588496,PRJNA812699,30,F,32.34347153,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588497,PRJNA812699,28,M,29.52478218,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588498,PRJNA812699,34,F,47.53992081,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588499,PRJNA812699,28,F,26.54197884,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588500,PRJNA812699,35,F,27.29460907,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588501,PRJNA812699,60,M,33.14316559,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588503,PRJNA812699,20,M,23.62162209,USA,North America,Black,Healthy,,Los Angeles
+SRR18588504,PRJNA812699,19,F,22.62911224,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588505,PRJNA812699,19,M,24.8535347,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588506,PRJNA812699,50,M,29.28473282,USA,North America,Native_American,Irritable bowel syndrome,,Los Angeles
+SRR18588507,PRJNA812699,21,M,29.73722076,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588508,PRJNA812699,34,F,24.79717827,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588509,PRJNA812699,19,F,20.96520805,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588510,PRJNA812699,26,M,22.64679718,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588511,PRJNA812699,22,F,19.00410843,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588512,PRJNA812699,36,F,21.63076973,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588513,PRJNA812699,33,F,20.0737648,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588514,PRJNA812699,20,F,20.78204727,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588515,PRJNA812699,21,F,25.01555252,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588516,PRJNA812699,60,M,25.32857895,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588517,PRJNA812699,29,M,22.29442596,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588518,PRJNA812699,24,F,23.00593185,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588519,PRJNA812699,22,F,18.80212975,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588520,PRJNA812699,23,F,23.29467392,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588521,PRJNA812699,31,F,24.53326607,USA,North America,Black,Healthy,,Los Angeles
+SRR18588522,PRJNA812699,24,F,26.09117889,USA,North America,Black,Healthy,,Los Angeles
+SRR18588523,PRJNA812699,51,M,23.14403343,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588524,PRJNA812699,20,F,21,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588525,PRJNA812699,31,M,25.1071434,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588526,PRJNA812699,34,F,29.31012344,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588527,PRJNA812699,26,M,22.69018555,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588528,PRJNA812699,26,M,22.69018555,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588529,PRJNA812699,28,F,34.55198669,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588530,PRJNA812699,33,M,25.84016037,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588533,PRJNA812699,27,M,22.10185623,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588534,PRJNA812699,24,F,27,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588535,PRJNA812699,41,F,19.09476662,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588537,PRJNA812699,24,F,18,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588538,PRJNA812699,25,F,32.19415283,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588539,PRJNA812699,29,F,30.55897903,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588540,PRJNA812699,29,M,23.6207428,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588542,PRJNA812699,28,M,20.82518959,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588543,PRJNA812699,29,M,23.6207428,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588544,PRJNA812699,54,M,26.71985626,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588545,PRJNA812699,19,F,30.7598381,USA,North America,Black,Healthy,,Los Angeles
+SRR18588546,PRJNA812699,34,F,21,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588547,PRJNA812699,25,M,23.62318611,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588548,PRJNA812699,21,M,25.39718628,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588549,PRJNA812699,21,M,23.70156288,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588550,PRJNA812699,52,F,33.79973221,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588551,PRJNA812699,20,M,22.64679718,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588552,PRJNA812699,32,F,20,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588553,PRJNA812699,21,F,21,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588554,PRJNA812699,27,M,37.33903885,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588555,PRJNA812699,32,F,30,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588556,PRJNA812699,27,F,18.92832947,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588557,PRJNA812699,29,F,33.39936447,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588558,PRJNA812699,28,F,21.11687279,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588559,PRJNA812699,33,F,25.51628685,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588560,PRJNA812699,32,M,32.00286865,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588561,PRJNA812699,29,M,22.14829063,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588562,PRJNA812699,24,M,27.36135483,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588563,PRJNA812699,30,M,16.59168816,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588564,PRJNA812699,18,F,25,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588565,PRJNA812699,18,F,25.45427513,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588566,PRJNA812699,20,F,21.98827744,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588567,PRJNA812699,21,M,24.16417313,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588568,PRJNA812699,29,F,20.90047836,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588569,PRJNA812699,24,F,19,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588570,PRJNA812699,24,F,18.79260445,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588571,PRJNA812699,23,M,25.49546623,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588573,PRJNA812699,26,M,26.01734924,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588574,PRJNA812699,26,F,19.96686363,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588576,PRJNA812699,24,F,19.05102539,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588577,PRJNA812699,21,F,20.21526527,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588579,PRJNA812699,22,M,24.10000038,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588580,PRJNA812699,27,F,22.59412384,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588581,PRJNA812699,45,F,20,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588582,PRJNA812699,30,F,27,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588583,PRJNA812699,38,F,25,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588584,PRJNA812699,51,M,36.61637878,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588585,PRJNA812699,52,M,36.67636108,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588586,PRJNA812699,28,F,23,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588587,PRJNA812699,26,F,23.7317276,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588588,PRJNA812699,25,F,25,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588589,PRJNA812699,52,F,23.93819809,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588590,PRJNA812699,32,F,22.10000038,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588591,PRJNA812699,52,F,23.93819809,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588592,PRJNA812699,43,M,32.3564415,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588593,PRJNA812699,31,F,22,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588594,PRJNA812699,31,F,19.52656746,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588595,PRJNA812699,25,M,21.98395348,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588596,PRJNA812699,45,F,28,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588597,PRJNA812699,55,F,19.20500374,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588599,PRJNA812699,39,M,22.32103157,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588600,PRJNA812699,64,F,27,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588601,PRJNA812699,20,F,26.0790329,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588602,PRJNA812699,28,F,28.69387817,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588603,PRJNA812699,54,F,28.40815163,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588605,PRJNA812699,46,M,27.31657219,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588606,PRJNA812699,32,F,24,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588607,PRJNA812699,56,F,0,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588608,PRJNA812699,21,F,25,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588609,PRJNA812699,23,F,27,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588610,PRJNA812699,20,F,24.34958458,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588611,PRJNA812699,18,M,23.55767441,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588612,PRJNA812699,55,F,20,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588613,PRJNA812699,20,F,22.99853516,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588614,PRJNA812699,60,F,26,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588615,PRJNA812699,26,F,20.52104187,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588617,PRJNA812699,26,F,20.52104187,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588618,PRJNA812699,22,F,21,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588619,PRJNA812699,23,F,19,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588620,PRJNA812699,28,F,23.92060471,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588621,PRJNA812699,35,F,26.61998558,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588623,PRJNA812699,57,F,24,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588624,PRJNA812699,29,M,26.4674015,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588625,PRJNA812699,46,F,23.45261955,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588626,PRJNA812699,48,F,34.36180496,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588627,PRJNA812699,52,M,25.46969604,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588628,PRJNA812699,56,M,25.85540581,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588629,PRJNA812699,38,M,34.06539536,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588631,PRJNA812699,24,F,26.25952148,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588633,PRJNA812699,46,F,19.79877472,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588635,PRJNA812699,20,F,25.74462891,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588637,PRJNA812699,24,M,31.22755241,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588638,PRJNA812699,24,F,20.82850266,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588639,PRJNA812699,24,F,21.14167976,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588641,PRJNA812699,21,F,21.28527832,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588643,PRJNA812699,32,F,19.41902351,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588645,PRJNA812699,34,M,22.23775482,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588646,PRJNA812699,34,F,19.13491058,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588648,PRJNA812699,47,F,40.45482635,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588649,PRJNA812699,18,F,22.09666252,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588651,PRJNA812699,26,M,28.66226006,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588652,PRJNA812699,38,F,23.23849869,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588653,PRJNA812699,23,F,26.92265129,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588654,PRJNA812699,18,F,25.33769608,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588655,PRJNA812699,19,F,25,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588656,PRJNA812699,18,F,21.88814163,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588657,PRJNA812699,21,M,17.89805222,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588658,PRJNA812699,34,F,19.36639214,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588660,PRJNA812699,30,M,33.26206207,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588661,PRJNA812699,28,F,21.10583305,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588662,PRJNA812699,20,F,24.24137878,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588663,PRJNA812699,27,F,37.0894928,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588664,PRJNA812699,20,F,24.09488869,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588665,PRJNA812699,20,F,22.17358398,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588666,PRJNA812699,32,F,20.63242531,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588667,PRJNA812699,18,F,21.21985817,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588668,PRJNA812699,20,F,22.70000076,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588669,PRJNA812699,20,F,20.90852356,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588670,PRJNA812699,37,F,20.64634895,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588671,PRJNA812699,47,F,27.19771767,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588673,PRJNA812699,22,F,22.24661064,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588674,PRJNA812699,20,F,21.48818016,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588675,PRJNA812699,38,M,21.5,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588676,PRJNA812699,32,M,24,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588677,PRJNA812699,38,F,20,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588678,PRJNA812699,38,F,21.6,USA,North America,Black,Healthy,,Los Angeles
+SRR18588679,PRJNA812699,32,F,24.5,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588680,PRJNA812699,32,M,25.2,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588681,PRJNA812699,34,F,19.36639214,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588682,PRJNA812699,52,M,29.99310303,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588683,PRJNA812699,30,F,29.33496857,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588684,PRJNA812699,60,M,33.14316559,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588685,PRJNA812699,26,F,40.16885757,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588686,PRJNA812699,29,F,20.66854477,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588687,PRJNA812699,44,M,25.23730278,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588688,PRJNA812699,22,M,28.58857346,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588691,PRJNA812699,18,F,25.45427513,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588692,PRJNA812699,30,F,18.2366848,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588693,PRJNA812699,32,M,23.74341583,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588696,PRJNA812699,24,F,18.79260445,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588699,PRJNA812699,45,F,20,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588702,PRJNA812699,38,F,25,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588704,PRJNA812699,21,F,22.59502792,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588706,PRJNA812699,28,F,23,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588711,PRJNA812699,52,F,23.93819809,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588714,PRJNA812699,31,F,22,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588715,PRJNA812699,19,F,23.56089973,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588718,PRJNA812699,41,F,42.79999924,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588719,PRJNA812699,45,F,31.39999962,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588721,PRJNA812699,37,F,28.68572617,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588722,PRJNA812699,22,F,32.90000153,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588724,PRJNA812699,47,F,23.29999924,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588726,PRJNA812699,46,F,17.70000076,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588728,PRJNA812699,24,M,24.29999924,USA,North America,Multiracial,Irritable bowel syndrome,,Buffalo
+SRR18588730,PRJNA812699,53,F,32.40000153,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588732,PRJNA812699,23,M,22.55112457,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588733,PRJNA812699,37,M,23.79999924,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588735,PRJNA812699,40,F,29.79999924,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588737,PRJNA812699,40,M,29.39999962,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588739,PRJNA812699,40,M,21.89999962,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588741,PRJNA812699,43,F,25.70000076,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588743,PRJNA812699,35,M,31.46623421,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588744,PRJNA812699,26,F,16.70000076,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588746,PRJNA812699,55,M,30.20000076,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588748,PRJNA812699,46,F,35.90000153,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588749,PRJNA812699,51,F,27.79999924,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588751,PRJNA812699,68,F,33.5,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588753,PRJNA812699,58,M,35.59999847,USA,North America,Multiracial,Irritable bowel syndrome,,Buffalo
+SRR18588755,PRJNA812699,34,F,28.20000076,USA,North America,Black,Irritable bowel syndrome,,Buffalo
+SRR18588756,PRJNA812699,26,F,41.10469055,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588758,PRJNA812699,26,F,21.5,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588760,PRJNA812699,55,F,35.59999847,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588762,PRJNA812699,25,F,27.79999924,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588764,PRJNA812699,21,F,24.89999962,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588767,PRJNA812699,29,F,20.66854477,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588768,PRJNA812699,34,F,21,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588770,PRJNA812699,62,F,31,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588772,PRJNA812699,52,F,18.60000038,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588774,PRJNA812699,67,M,25.10000038,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588776,PRJNA812699,20,F,20.20000076,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588778,PRJNA812699,20,F,28,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588779,PRJNA812699,43,F,28.79999924,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588781,PRJNA812699,27,F,21.29999924,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588782,PRJNA812699,20,F,25.33718491,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588783,PRJNA812699,22,F,30.18997192,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588785,PRJNA812699,34,F,35.63380051,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588786,PRJNA812699,39,M,30.0405407,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588787,PRJNA812699,36,F,22.85554314,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588788,PRJNA812699,20,F,22.99821091,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588789,PRJNA812699,40,F,23.18034554,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588790,PRJNA812699,60,F,28.45627022,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588791,PRJNA812699,49,M,23.05497742,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588792,PRJNA812699,36,F,24.60499954,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588793,PRJNA812699,45,F,27.47810173,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588795,PRJNA812699,27,M,21.46079445,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588797,PRJNA812699,25,M,24.2741127,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588798,PRJNA812699,21,F,26.67468452,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588799,PRJNA812699,20,M,21.33683777,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588800,PRJNA812699,28,F,22.81163216,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588801,PRJNA812699,19,F,20.38284111,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588802,PRJNA812699,21,F,20.84859467,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588803,PRJNA812699,46,F,21.1105957,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588804,PRJNA812699,26,M,19.12837791,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588805,PRJNA812699,27,F,19.06835365,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588806,PRJNA812699,23,F,26.54494095,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588807,PRJNA812699,20,F,31.22585678,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588810,PRJNA812699,26,F,23.08319092,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588811,PRJNA812699,30,F,34.46912003,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588812,PRJNA812699,27,F,26.11142921,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588813,PRJNA812699,22,F,24.14343452,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588814,PRJNA812699,24,F,21.07760048,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588815,PRJNA812699,21,M,20.76791382,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588816,PRJNA812699,28,M,22.095438,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588817,PRJNA812699,28,F,23.52738953,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588818,PRJNA812699,34,F,NA,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588819,PRJNA812699,50,F,30.84591866,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588820,PRJNA812699,26,F,19.38553619,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588821,PRJNA812699,21,M,22.54195023,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588822,PRJNA812699,35,F,23.04277802,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588823,PRJNA812699,39,M,24.32795143,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588824,PRJNA812699,24,F,22.72894859,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588825,PRJNA812699,27,F,21.12252808,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588826,PRJNA812699,19,F,20.69898224,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588828,PRJNA812699,33,F,30.0727787,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588829,PRJNA812699,22,M,25.82448959,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588831,PRJNA812699,32,M,22.87085915,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588832,PRJNA812699,20,F,20.92132187,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588833,PRJNA812699,23,M,21.13159752,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588834,PRJNA812699,20,M,24.2159214,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588835,PRJNA812699,55,F,23,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588838,PRJNA812699,32,F,24,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588841,PRJNA812699,23,F,27,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588844,PRJNA812699,55,F,20,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588845,PRJNA812699,26,M,26.19498062,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588850,PRJNA812699,26,F,20.52104187,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588853,PRJNA812699,22,F,21,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588856,PRJNA812699,19,F,23.51342773,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588857,PRJNA812699,41,F,26,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588860,PRJNA812699,23,F,20,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588864,PRJNA812699,34,F,22,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588867,PRJNA812699,49,F,25,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588869,PRJNA812699,21,F,20.54923058,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588871,PRJNA812699,33,F,22,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588874,PRJNA812699,20,F,22,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588877,PRJNA812699,46,F,21,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588878,PRJNA812699,40,F,29,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588880,PRJNA812699,27,F,22.71399689,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18588882,PRJNA812699,44,F,24,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588887,PRJNA812699,24,F,18,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588891,PRJNA812699,21,F,19.83740997,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18588893,PRJNA812699,32,F,20,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588896,PRJNA812699,32,F,30,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588899,PRJNA812699,39,M,33.70000076,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588901,PRJNA812699,57,F,21.29999924,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588903,PRJNA812699,51,F,23.20000076,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588904,PRJNA812699,33,F,33.47411346,USA,North America,Black,Healthy,,Los Angeles
+SRR18588905,PRJNA812699,57,F,19.59297371,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588907,PRJNA812699,70,F,35.70000076,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588909,PRJNA812699,47,F,29.29999924,USA,North America,Hispanic,Irritable bowel syndrome,,Buffalo
+SRR18588911,PRJNA812699,65,F,16.70000076,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588913,PRJNA812699,47,F,37.59999847,USA,North America,Black,Irritable bowel syndrome,,Buffalo
+SRR18588915,PRJNA812699,53,F,29.20000076,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588916,PRJNA812699,26,F,40.16885757,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18588918,PRJNA812699,47,F,38.29999924,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588920,PRJNA812699,30,F,20.20000076,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588922,PRJNA812699,54,F,29.10000038,USA,North America,Black,Irritable bowel syndrome,,Buffalo
+SRR18588924,PRJNA812699,33,M,25,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588926,PRJNA812699,55,F,25.10000038,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588929,PRJNA812699,52,F,29,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Buffalo
+SRR18588931,PRJNA812699,34,F,36.76280975,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588932,PRJNA812699,38,F,29.7093029,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588933,PRJNA812699,47,M,30.39863014,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588934,PRJNA812699,19,F,28.49072266,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588935,PRJNA812699,48,F,29.40923691,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588936,PRJNA812699,53,F,31.50473976,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588937,PRJNA812699,25,F,45.28294754,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588938,PRJNA812699,20,F,29.43779373,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588939,PRJNA812699,54,F,29.05023384,USA,North America,Black,Healthy,,Los Angeles
+SRR18588940,PRJNA812699,23,F,17.44658661,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588941,PRJNA812699,54,F,36.55599976,USA,North America,Black,Healthy,,Los Angeles
+SRR18588942,PRJNA812699,23,F,33.78305435,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588943,PRJNA812699,25,F,30.00627518,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588944,PRJNA812699,37,F,25.64011574,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588945,PRJNA812699,27,F,25.38611031,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588946,PRJNA812699,34,F,35.596241,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588947,PRJNA812699,20,F,30.30980873,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588948,PRJNA812699,34,F,38.54783249,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588949,PRJNA812699,28,F,31.8820858,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588950,PRJNA812699,39,F,36.23616028,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588952,PRJNA812699,62,F,25,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588953,PRJNA812699,31,F,30.60000038,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588954,PRJNA812699,50,F,29.27552605,USA,North America,Black,Healthy,,Los Angeles
+SRR18588955,PRJNA812699,54,F,28.23571205,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588956,PRJNA812699,21,F,27.27689552,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588957,PRJNA812699,47,F,40.71918869,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588958,PRJNA812699,32,F,39.48588943,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588959,PRJNA812699,21,F,27.1367569,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588960,PRJNA812699,21,M,24.79885674,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588961,PRJNA812699,30,M,30.59674644,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588962,PRJNA812699,21,M,29.00694275,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588963,PRJNA812699,31,F,40.88395691,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588964,PRJNA812699,36,F,16.28692436,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588965,PRJNA812699,19,F,26.6027832,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588966,PRJNA812699,53,F,29.33496857,USA,North America,Black,Healthy,,Los Angeles
+SRR18588967,PRJNA812699,33,F,29.33478355,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588968,PRJNA812699,52,M,37.67917252,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588969,PRJNA812699,38,F,37.30801392,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588970,PRJNA812699,30,F,39.47515869,USA,North America,Black,Healthy,,Los Angeles
+SRR18588971,PRJNA812699,48,F,34.92292404,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588972,PRJNA812699,21,M,29.28514099,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588973,PRJNA812699,24,M,25.9389019,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588974,PRJNA812699,24,M,27.5659256,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588976,PRJNA812699,45,M,29.8138485,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588977,PRJNA812699,60,M,25.32857895,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588978,PRJNA812699,31,M,25.1071434,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588979,PRJNA812699,34,F,29.31012344,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588980,PRJNA812699,28,F,34.55198669,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588981,PRJNA812699,43,M,32.3564415,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588982,PRJNA812699,51,M,32.43870544,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588983,PRJNA812699,41,F,27.24947929,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588984,PRJNA812699,25,F,32.19415283,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588985,PRJNA812699,29,F,30.55897903,USA,North America,Asian,Healthy,,Los Angeles
+SRR18588986,PRJNA812699,49,F,26.62285614,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18588987,PRJNA812699,19,F,30.7598381,USA,North America,Black,Healthy,,Los Angeles
+SRR18588988,PRJNA812699,29,F,33.39936447,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588989,PRJNA812699,24,M,27.36135483,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588990,PRJNA812699,24,M,31.22755241,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18588991,PRJNA812699,26,M,28.66226006,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588992,PRJNA812699,23,F,26.92265129,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588993,PRJNA812699,30,M,33.26206207,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18588994,PRJNA812699,33,F,35.38433456,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18588995,PRJNA812699,37,F,31.90501595,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588997,PRJNA812699,30,F,19,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588998,PRJNA812699,23,F,22,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18588999,PRJNA812699,41,F,29,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18589000,PRJNA812699,45,F,24,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18589001,PRJNA812699,21,F,20,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589002,PRJNA812699,22,F,19.1196785,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589003,PRJNA812699,19,F,20.84298134,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589005,PRJNA812699,24,F,29,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18589006,PRJNA812699,57,F,26,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18589007,PRJNA812699,29,F,29,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18589008,PRJNA812699,44,F,0,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589009,PRJNA812699,28,F,22.06948853,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589010,PRJNA812699,49,F,25,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589011,PRJNA812699,33,F,22,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589012,PRJNA812699,20,F,22,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589013,PRJNA812699,24,F,23,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18589014,PRJNA812699,46,F,21,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589015,PRJNA812699,37,F,19.72305489,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589016,PRJNA812699,40,F,29,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589017,PRJNA812699,40,F,19.47697639,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589018,PRJNA812699,41,F,27.24947929,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18589019,PRJNA812699,42,M,22.33550453,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589021,PRJNA812699,44,F,24,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18589022,PRJNA812699,30,F,24.21849442,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589023,PRJNA812699,19,F,23.38494873,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18589025,PRJNA812699,39,M,28.54291153,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589026,PRJNA812699,30,M,22.94001007,USA,North America,Asian,Healthy,,Los Angeles
+SRR18589027,PRJNA812699,36,M,23.21786499,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589028,PRJNA812699,18,F,22.59412384,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18589029,PRJNA812699,21,F,23.70528984,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18589030,PRJNA812699,22,F,19.04361725,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589032,PRJNA812699,22,F,24.60803413,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589033,PRJNA812699,48,F,27.77640533,USA,North America,Black,Healthy,,Los Angeles
+SRR18589034,PRJNA812699,25,F,20.97166061,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589035,PRJNA812699,27,M,28.85408211,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589036,PRJNA812699,22,F,16.64819336,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589037,PRJNA812699,53,F,24.65561676,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18589038,PRJNA812699,21,M,25.03307343,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589039,PRJNA812699,20,M,32.49556732,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589040,PRJNA812699,21,F,24.02272987,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18589041,PRJNA812699,21,F,20.66571236,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589042,PRJNA812699,23,M,19.43035698,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18589043,PRJNA812699,21,M,20.78567505,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589044,PRJNA812699,19,F,21.48055649,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18589045,PRJNA812699,20,F,20.92132187,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589046,PRJNA812699,22,M,22.23775482,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589047,PRJNA812699,25,M,21.54008675,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589048,PRJNA812699,25,F,27.98100853,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589049,PRJNA812699,21,M,19.93913269,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589050,PRJNA812699,42,F,32.43823242,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18589051,PRJNA812699,19,F,26.49310493,USA,North America,Non_Hispanic_White,Healthy,,Los Angeles
+SRR18589052,PRJNA812699,28,F,17.80378723,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589053,PRJNA812699,33,F,20.33471107,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18589054,PRJNA812699,27,F,30.92338181,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589055,PRJNA812699,18,M,22.29636574,USA,North America,Black,Healthy,,Los Angeles
+SRR18589056,PRJNA812699,51,F,27.98538589,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589057,PRJNA812699,25,F,17.41913414,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589058,PRJNA812699,18,F,29.9502964,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18589059,PRJNA812699,23,M,30.51215363,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18589060,PRJNA812699,21,F,22.67170525,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589061,PRJNA812699,38,M,23.77294731,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589062,PRJNA812699,23,F,24.37838173,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18589064,PRJNA812699,34,F,28.20679092,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18589065,PRJNA812699,31,M,24.25864792,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18589066,PRJNA812699,28,F,21.29150963,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589067,PRJNA812699,41,M,22.11917686,USA,North America,Native_American,Irritable bowel syndrome,,Los Angeles
+SRR18589068,PRJNA812699,30,M,33.26206207,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18589069,PRJNA812699,28,F,21.10583305,USA,North America,Asian,Healthy,,Los Angeles
+SRR18589070,PRJNA812699,32,F,20.63242531,USA,North America,Asian,Healthy,,Los Angeles
+SRR18589071,PRJNA812699,18,F,21.21985817,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18589072,PRJNA812699,20,F,22.70000076,USA,North America,Asian,Healthy,,Los Angeles
+SRR18589073,PRJNA812699,20,F,20.90852356,USA,North America,Asian,Healthy,,Los Angeles
+SRR18589074,PRJNA812699,22,F,22.24661064,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589075,PRJNA812699,20,F,24.00773048,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589076,PRJNA812699,31,M,25.22973633,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589077,PRJNA812699,31,M,24.25864792,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18589078,PRJNA812699,31,M,25.22973633,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589079,PRJNA812699,30,F,18.2366848,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589080,PRJNA812699,21,F,22.59502792,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589081,PRJNA812699,21,F,26.60288048,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589082,PRJNA812699,18,F,24.22646332,USA,North America,Hispanic,Healthy,,Los Angeles
+SRR18589083,PRJNA812699,30,F,32.02555466,USA,North America,Multiracial,Healthy,,Los Angeles
+SRR18589084,PRJNA812699,26,M,26.19498062,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589085,PRJNA812699,19,F,23.51342773,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18589086,PRJNA812699,19,M,24.20798874,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589087,PRJNA812699,31,F,19,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589088,PRJNA812699,27,F,22.71399689,USA,North America,Multiracial,Irritable bowel syndrome,,Los Angeles
+SRR18589089,PRJNA812699,21,F,19.83740997,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589090,PRJNA812699,33,F,33.47411346,USA,North America,Black,Healthy,,Los Angeles
+SRR18589091,PRJNA812699,18,F,21.88814163,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589094,PRJNA812699,25,M,29.45112419,USA,North America,Asian,Irritable bowel syndrome,,Los Angeles
+SRR18589095,PRJNA812699,30,F,18.2366848,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589098,PRJNA812699,20,F,28,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589101,PRJNA812699,20,F,25.2377739,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589104,PRJNA812699,28,F,21,USA,North America,Hispanic,Irritable bowel syndrome,,Los Angeles
+SRR18589105,PRJNA812699,37,F,29.61751556,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
+SRR18589108,PRJNA812699,21,F,21,USA,North America,Black,Irritable bowel syndrome,,Los Angeles
+SRR18589111,PRJNA812699,62,F,25,USA,North America,Non_Hispanic_White,Irritable bowel syndrome,,Los Angeles
