@@ -1,10 +1,9 @@
 ---
-title: "Study 3 - Metadata"
+title: "Metadata Cleaning and Object Creation"
 output: html_document
-date: "2025-02-02"
+date: "2025-02-03"
 ---
-note: I forgot to create project before
-
+        
 ```{r}
 library(tidyverse)
 ```
@@ -14,12 +13,10 @@ metadata <- read.csv("metadata.csv")
 head(metadata)
 str(metadata)
 ```
-
 ```{r}
 # Check for missing values in each column
 colSums(is.na(metadata))
 ```
-
 ```{r}
 # Keep relevant columns
 # Using column names
@@ -32,9 +29,8 @@ head(metadata_subset)
 
 ```{r}
 # save dataframe
-write.csv(metadata_subset, "3-metadata.csv", row.names=FALSE)
+write.csv(metadata_subset, "metadata.csv", row.names=FALSE)
 
 # save as rds
-saveRDS(metadata_subset, "3-metadata.rds")
+saveRDS(metadata_subset, "metadata.rds")
 ```
-

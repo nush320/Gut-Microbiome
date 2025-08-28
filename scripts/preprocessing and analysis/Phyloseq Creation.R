@@ -1,9 +1,9 @@
 ---
-title: "Study 10 - Phyloseq"
+title: "Phyloseq Creation"
 output: html_document
 date: "2025-02-03"
 ---
-
+        
 ```{r}
 library(phyloseq); packageVersion("phyloseq")
 library(Biostrings); packageVersion("Biostrings")
@@ -11,9 +11,9 @@ library(ggplot2); packageVersion("ggplot2")
 ```
 
 ```{r}
-md <- readRDS("metadata_10.rds") # metadata load
-seqtab <- readRDS("seqtab.nochim_10.rds") # seqtab.nochim
-taxa <- readRDS("taxa_10.rds") # genus level taxa
+md <- readRDS("metadata.rds") # metadata load
+seqtab <- readRDS("seqtab.nochim.rds") # seqtab.nochim
+taxa <- readRDS("taxa.rds") # genus level taxa
 ```
 
 ### some seqtab the sample name have _1.fastq so renaming
@@ -22,10 +22,10 @@ head(row.names(seqtab))
 ```
 
 ```{r}
-rownames(seqtab) <- gsub("_1.fastq", "", rownames(seqtab))
+#rownames(seqtab) <- gsub("_1.fastq", "", rownames(seqtab))
 ```
 
-## if samples not in md, subset from seqtab (tip: check # of rows in md vs seqtab)
+## if samples not in md, subset from seqtab
 ```{r}
 #seqtab <- seqtab[rownames(seqtab) %in% md$Run, ]
 ```
@@ -49,6 +49,7 @@ ps <- phyloseq(otu_table(seqtab, taxa_are_rows=FALSE),
 ps <- subset_taxa(ps, Kingdom != "Eukaryota")
 ps <- subset_taxa(ps, !is.na(Phylum))
 ```
+
 ## Remove samples with less than 500 reads
 ```{r}
 ps_filt <- prune_samples(sample_sums(ps)>=500, ps) 
@@ -67,21 +68,19 @@ library(dplyr)
 
 # Relative abundance for Phylum
 phylum.table <- ps_filt %>%
-  tax_glom(taxrank = "Phylum") %>%                     # agglomerate at phylum level
-  transform_sample_counts(function(x) {x/sum(x)} ) %>% # Transform to rel. abundance
-  psmelt()                                             # Melt to long format
+        tax_glom(taxrank = "Phylum") %>%                     # agglomerate at phylum level
+        transform_sample_counts(function(x) {x/sum(x)} ) %>% # Transform to rel. abundance
+        psmelt()                                             # Melt to long format
 
 ggplot(phylum.table, aes(x = reorder(Sample, Sample, function(x) mean(phylum.table[Sample == x & Phylum == 'Firmicutes', 'Abundance'])),
                          y = Abundance, fill = Phylum))+
-  facet_wrap(~ Study.Group, scales = "free") + # scales = "free" removes empty lines
-  geom_bar(stat = "identity") +
-  theme(axis.text.x = element_text(size = 2, angle = -90))+
-  labs(x = "Samples", y = "Relative abundance")
+        facet_wrap(~ Study.Group, scales = "free") + # scales = "free" removes empty lines
+        geom_bar(stat = "identity") +
+        theme(axis.text.x = element_text(size = 2, angle = -90))+
+        labs(x = "Samples", y = "Relative abundance")
 ```
 
 ```{r}
-saveRDS(ps, "ps_10.rds")
-saveRDS(ps_filt, "ps_filt_10.rds")
+saveRDS(ps, "ps.rds")
+saveRDS(ps_filt, "ps_filt.rds")
 ```
-
-

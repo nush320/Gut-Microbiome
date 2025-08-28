@@ -1,18 +1,19 @@
 ---
-title: "DADA2 Analysis Study 8"
-author: "Anushka KC"s
+title: "DADA2 Analysis Procedures"
+author: "Anushka KC"
 output: html_document
 ---
 
+# load library
 ```{r}
 library(dada2); packageVersion("dada2")
 ```
-
+# set path
 ```{r}
 path <- "fastq"
 list.files(path)
 ```
-
+#forward and reverse files
 ```{r}
 fnFs <- sort(list.files(path, pattern="_1.fastq", full.names = TRUE))
 fnRs <- sort(list.files(path, pattern="_2.fastq", full.names = TRUE))
@@ -39,8 +40,8 @@ names(filtRs) <- sample.names
 
 ```{r}
 out <- filterAndTrim(fnFs, filtFs, fnRs, filtRs, truncLen=c(230, 120), trimLeft=c(0,20),
-              maxN=0, maxEE=c(2,2), truncQ=2, rm.phix=TRUE,
-              compress=TRUE, multithread=FALSE) # On Windows set multithread=FALSE
+                     maxN=0, maxEE=c(2,2), truncQ=2, rm.phix=TRUE,
+                     compress=TRUE, multithread=FALSE) # On Windows set multithread=FALSE
 ```
 
 ```{r}
@@ -174,11 +175,11 @@ library(phyloseq); packageVersion("phyloseq")
 
 ```{r}
 ps <- phyloseq(
-             otu_table(tmp.seqtab, taxa_are_rows=FALSE),
-             sample_data(mdata2),
-             tax_table(tmp.taxa),
-             refseq(ASVs.nochim),
-             phy_tree(fitGTR$tree))
+        otu_table(tmp.seqtab, taxa_are_rows=FALSE),
+        sample_data(mdata2),
+        tax_table(tmp.taxa),
+        refseq(ASVs.nochim),
+        phy_tree(fitGTR$tree))
 
 ps
 ```
@@ -196,7 +197,7 @@ OTUdf <- as.data.frame(OTU)
 ```
 
 ```{r}
-write.table(OTUdf, "ASV_OTU_Table_Study8.tsv", row.names = TRUE)
+write.table(OTUdf, "ASV_OTU_Table.tsv", row.names = TRUE)
 ```
 
 #### Taxonomy Table
@@ -208,7 +209,7 @@ taxonomydf <- as.data.frame(taxonomy)
 ```
 
 ```{r}
-write.table(taxonomy, "Taxonomy_Study8.tsv", row.names = TRUE)
+write.table(taxonomy, "Taxonomy.tsv", row.names = TRUE)
 ```
 
 ```{r}
@@ -217,5 +218,5 @@ write.csv(seqtab.nochim, "seqtab_nochim.csv", row.names = TRUE)
 
 ### Save SeqTab as RDS
 ```{r}
-saveRDS(seqtab.nochim, "8_seqtab.nochim.rds")
+saveRDS(seqtab.nochim, "seqtab.nochim.rds")
 ```
