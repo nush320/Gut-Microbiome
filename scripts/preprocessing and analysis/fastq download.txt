@@ -1,0 +1,23 @@
+Downloading fastq files method:
+
+download qiime env.
+
+conda activate qiime2-amplicon-2024.5
+
+cat SRR_Acc_List.txt | parallel fastq-dump -X 10000 --split-files {}
+
+mkdir fastq
+
+mv *.fastq fastq
+
+ls | wc -l # to check the number of files ensuring correct number downloaded
+
+#note: for McLoed data: seems the data was merged since length is 253 (2*153 but overlapped reads taken out)
+
+# for some reason for study 15 I was missing some files so I had to download the rest one by one using the following command:
+
+fastq-dump --split-files -X 10000 SRR2143837
+
+# I separated the files by the following command:
+# List all *_1.fastq files and get just the SRR numbers
+ls *_1.fastq | sed 's/_1.fastq//' > downloaded.txt
