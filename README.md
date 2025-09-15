@@ -44,8 +44,5 @@ This project is organized into the following directories and files:
 │       ├── DADA Analysis.R        # Processing raw sequencing data using DADA2 (QC, denoising, chimera removal, ASV table generation)  
 │       ├── Metadata processing.R  # Cleaning, formatting, and integrating microbiome sample metadata  
 │       └── Phyloseq Creation.R    # Constructing a phyloseq object by combining ASV tables, taxonomy, and metadata  
-│
-├── results/                       # Outputs, figures, and statistical summaries  
-├── docs/                          # Documentation, notes, and references  
 ├── .gitattributes                 # Git settings for handling text files/line endings  
 └── README.md                      # Project description (this file)  
