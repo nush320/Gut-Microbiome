@@ -1,0 +1,68 @@
+---
+title: "combining reduced md"
+author: "Anushka KC"
+date: "2025-01-12"
+output: html_document
+---
+
+### for this one I am combining the reduced md with just 11 columns I made common for each study
+### i made sure the md has all the data since I realized i could just take them out later if i want 
+### also realized i need to know if there is duplicated data so i chose to put subject column in 
+### they will be added by the code below if not present in other md
+
+```{r}
+path <- "C:/Users/akc79/Documents/Masters Thesis Research/R Analysis/metadata/reduced metadata"
+```
+
+```{r}
+list.files(path)
+```
+
+```{r}
+re_md1 <- read.csv("re_1_metadata w tod data.csv")
+re_md2 <- read.csv("re_2_metadata.csv")
+re_md3 <- read.csv("re_3_metadata.csv")
+re_md4 <- read.csv("re_4_metadata w both conditions.csv")
+re_md5 <- read.csv("re_5_metadata.csv")
+re_md6 <- read.csv("re_6_metadata.csv")
+re_md8 <- read.csv("re_8_metadata.csv")
+re_md9 <- read.csv("re_9_metadata_all.csv")
+re_md10 <- read.csv("re_10_metadata.csv")
+re_md11 <- read.csv("re_11_metadata with subject number.csv")
+```
+
+```{r}
+# Create a list of all your metadata dataframes
+re_md_list <- list(re_md1, re_md2, re_md3, re_md4, re_md5, re_md6, re_md8, re_md9, re_md10, re_md11)
+```
+
+```{r}
+# Look at all unique columns across all files
+all_columns <- unique(unlist(lapply(re_md_list, colnames)))
+print(all_columns)
+```
+
+```{r}
+# Now standardize the columns by adding missing ones with NA
+for(i in seq_along(re_md_list)) {
+  missing_cols <- setdiff(all_columns, colnames(re_md_list[[i]]))
+  if(length(missing_cols) > 0) {
+    for(col in missing_cols) {
+      re_md_list[[i]][[col]] <- NA
+    }
+  }
+}
+```
+
+```{r}
+# Now try combining again with standardized columns
+re_combined_metadata <- do.call(rbind, re_md_list)
+```
+
+```{r}
+saveRDS(re_combined_metadata, file = "re_combined_metadata.rds" )
+```
+
+```{r}
+write.csv(re_combined_metadata, file = "re_combined_metadata.csv")
+```

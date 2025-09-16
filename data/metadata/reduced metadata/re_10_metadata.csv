@@ -1,0 +1,35 @@
+Sample,BioProject,Country,Continent,City,Subject,Age,Gender,Ethnicity,BMI,Study.Group,Condition
+SRR12649537,PRJNA663708,USA,North America,California,16,56,F,Black or African American,35.18,Allergic,NA
+SRR12649538,PRJNA663708,USA,North America,California,16,56,F,Black or African American,35.76,Allergic,NA
+SRR12649539,PRJNA663708,USA,North America,California,15,58,M,White,36.12,Allergic,NA
+SRR12649540,PRJNA663708,USA,North America,California,15,58,M,White,34.35,Allergic,NA
+SRR12649541,PRJNA663708,USA,North America,California,14,57,M,White,34.44,Allergic,NA
+SRR12649542,PRJNA663708,USA,North America,California,14,57,M,White,35.7,Healthy,NA
+SRR12649543,PRJNA663708,USA,North America,California,12,70,F,White,28.59,Allergic,NA
+SRR12649544,PRJNA663708,USA,North America,California,12,70,F,White,25.97,Healthy,NA
+SRR12649550,PRJNA663708,USA,North America,California,9,57,M,White,31.37,Allergic,NA
+SRR12649551,PRJNA663708,USA,North America,California,9,57,F,White,29.35,Healthy,NA
+SRR12649552,PRJNA663708,USA,North America,California,8,48,F,Asian,26.63,Allergic,NA
+SRR12649553,PRJNA663708,USA,North America,California,8,48,F,Asian,27.79,Healthy,NA
+SRR12649554,PRJNA663708,USA,North America,California,7,58,M,Hispanic or Latino,26.87,Allergic,NA
+SRR12649555,PRJNA663708,USA,North America,California,7,58,M,Hispanic or Latino,27.62,Healthy,NA
+SRR12649556,PRJNA663708,USA,North America,California,6,5,F,White,13.75,Allergic,NA
+SRR12649557,PRJNA663708,USA,North America,California,6,5,F,White,13.1,Healthy,NA
+SRR12649558,PRJNA663708,USA,North America,California,1,57,M,White,26.7,Allergic,NA
+SRR12649559,PRJNA663708,USA,North America,California,1,57,M,White,25.77,Allergic,NA
+SRR12649526,PRJNA663708,USA,North America,California,5,5,M,Asian,15.08,Allergic,NA
+SRR12649527,PRJNA663708,USA,North America,California,5,5,M,Asian,15.09,Healthy,NA
+SRR12649528,PRJNA663708,USA,North America,California,4,1,F,White,16.82,Allergic,NA
+SRR12649529,PRJNA663708,USA,North America,California,4,1,F,White,17.55,Allergic,NA
+SRR12649530,PRJNA663708,USA,North America,California,3,6,F,Asian,,Allergic,NA
+SRR12649531,PRJNA663708,USA,North America,California,3,6,M,Asian,12.63,Healthy,NA
+SRR12649532,PRJNA663708,USA,North America,California,18,22,F,White,19.64,Allergic,NA
+SRR12649533,PRJNA663708,USA,North America,California,18,22,F,White,18.13,Healthy,NA
+SRR12649534,PRJNA663708,USA,North America,California,17,63,M,White,41.09,Allergic,NA
+SRR12649535,PRJNA663708,USA,North America,California,17,63,M,White,37.95,Allergic,NA
+SRR12649536,PRJNA663708,USA,North America,California,2,0.5,F,Asian and White,18.95,Allergic,NA
+SRR12649545,PRJNA663708,USA,North America,California,11,46,F,White,28.49,Allergic,NA
+SRR12649546,PRJNA663708,USA,North America,California,11,46,F,White,30.89,Healthy,NA
+SRR12649547,PRJNA663708,USA,North America,California,2,0.5,F,Asian and White,18.23,Healthy,NA
+SRR12649548,PRJNA663708,USA,North America,California,10,53,F,White,21.57,Allergic,NA
+SRR12649549,PRJNA663708,USA,North America,California,10,53,F,White,22.25,Healthy,NA

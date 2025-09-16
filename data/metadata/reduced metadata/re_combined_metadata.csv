@@ -1,0 +1,1340 @@
+Run,BioProject,Country,Continent,City,Ethnicity,Age,Condition,Study.Group,Gender,BMI,Subject,Timepoint
+SRR6166632,PRJNA397112,India,Asia,Bhopal,Indian,58,Non_veg,Healthy, M,19.2,NA,NA
+SRR6166639,PRJNA397112,India,Asia,Kasaragod,Indian,21,Non_veg,Healthy,M,22.18,NA,NA
+SRR6166648,PRJNA397112,India,Asia,Kasaragod,Indian,53,Non_veg,Healthy,M,23.83,NA,NA
+SRR6166649,PRJNA397112,India,Asia,Bhopal,Indian,24,Non_veg,Healthy,F,23.14,NA,NA
+SRR6166652,PRJNA397112,India,Asia,Bhopal,Indian,25,Veg,Healthy,F,22.6,NA,NA
+SRR6166653,PRJNA397112,India,Asia,Bhopal,Indian,28,Veg,Healthy,F,21.3,NA,NA
+SRR6166654,PRJNA397112,India,Asia,Bhopal,Indian,0.6,Veg,Healthy,F,NA,NA,NA
+SRR6166655,PRJNA397112,India,Asia,Bhopal,Indian,0.6,Veg,Healthy,F,NA,NA,NA
+SRR6166660,PRJNA397112,India,Asia,Kasaragod,Indian,7,Non_veg,Healthy,F,12.45,NA,NA
+SRR6166661,PRJNA397112,India,Asia,Kasaragod,Indian,4,Non_veg,Healthy,M,11.8,NA,NA
+SRR6166662,PRJNA397112,India,Asia,Kasaragod,Indian,12,Non_veg,Healthy,F,13.26,NA,NA
+SRR6166663,PRJNA397112,India,Asia,Kasaragod,Indian,9,Non_veg,Healthy,F,12.5,NA,NA
+SRR6166671,PRJNA397112,India,Asia,Kasaragod,Indian,60,Non_veg,Healthy,F,26.14,NA,NA
+SRR6166672,PRJNA397112,India,Asia,Kasaragod,Indian,55,Non_veg,Healthy,F,25.88,NA,NA
+SRR6166673,PRJNA397112,India,Asia,Kasaragod,Indian,21,Non_veg,Healthy,F,21.5,NA,NA
+SRR6166674,PRJNA397112,India,Asia,Kasaragod,Indian,27,Non_veg,Healthy,F,20.61,NA,NA
+SRR6166675,PRJNA397112,India,Asia,Kasaragod,Indian,23,Non_veg,Healthy,F,17.74,NA,NA
+SRR6166679,PRJNA397112,India,Asia,Kasaragod,Indian,26,Non_veg,Healthy,F,23.92,NA,NA
+SRR6166681,PRJNA397112,India,Asia,Kasaragod,Indian,30,Non_veg,Healthy,F,17.08,NA,NA
+SRR6166682,PRJNA397112,India,Asia,Kasaragod,Indian,29,Non_veg,Healthy,F,26.63,NA,NA
+SRR6166683,PRJNA397112,India,Asia,Kasaragod,Indian,20,Non_veg,Healthy,M,17.61,NA,NA
+SRR6166686,PRJNA397112,India,Asia,Kasaragod,Indian,19,Non_veg,Healthy,M,25.9,NA,NA
+SRR6166699,PRJNA397112,India,Asia,Bhopal,Indian,28,Veg,Healthy,M,25.51,NA,NA
+SRR6166703,PRJNA397112,India,Asia,Bhopal,Indian,22,Veg,Healthy,F,23.23,NA,NA
+SRR6166710,PRJNA397112,India,Asia,Kasaragod,Indian,12,Non_veg,Healthy,M,12.86,NA,NA
+SRR6166713,PRJNA397112,India,Asia,Kasaragod,Indian,10,Non_veg,Healthy,F,13.2,NA,NA
+SRR6166719,PRJNA397112,India,Asia,Bhopal,Indian,27,Non_veg,Healthy,F,21.5,NA,NA
+SRR6166720,PRJNA397112,India,Asia,Bhopal,Indian,30,Veg,Healthy,M,19.36,NA,NA
+SRR6166722,PRJNA397112,India,Asia,Bhopal,Indian,30,Non_veg,Healthy,M,22.47,NA,NA
+SRR6166723,PRJNA397112,India,Asia,Bhopal,Indian,30,Veg,Healthy,M,24.38,NA,NA
+SRR6166725,PRJNA397112,India,Asia,Bhopal,Indian,2.4,Veg,Healthy,F,11.12,NA,NA
+SRR6166728,PRJNA397112,India,Asia,Bhopal,Indian,28,Non_veg,Healthy,M,22.58,NA,NA
+SRR6166729,PRJNA397112,India,Asia,Bhopal,Indian,30,Non_veg,Healthy,M,23.38,NA,NA
+SRR6166730,PRJNA397112,India,Asia,Kasaragod,Indian,58,Non_veg,Healthy,F,25.7,NA,NA
+SRR6166735,PRJNA397112,India,Asia,Kasaragod,Indian,25,Non_veg,Healthy,M,20.61,NA,NA
+SRR6166631,PRJNA397112,India,Asia,Bhopal,Indian,61,Non_veg,Healthy,M,19.5,NA,NA
+SRR6166640,PRJNA397112,India,Asia,Bhopal,Indian,58,Non_veg,Healthy,F,19.9,NA,NA
+SRR6166641,PRJNA397112,India,Asia,Bhopal,Indian,29,Veg,Healthy,F,28.04,NA,NA
+SRR6166643,PRJNA397112,India,Asia,Kasaragod,Indian,56,Non_veg,Healthy,M,24.38,NA,NA
+SRR6166644,PRJNA397112,India,Asia,Kasaragod,Indian,58,Non_veg,Healthy,M,25.51,NA,NA
+SRR6166645,PRJNA397112,India,Asia,Kasaragod,Indian,53,Non_veg,Healthy,M,25.86,NA,NA
+SRR6166646,PRJNA397112,India,Asia,Kasaragod,Indian,53,Non_veg,Healthy,M,23.38,NA,NA
+SRR6166647,PRJNA397112,India,Asia,Kasaragod,Indian,60,Non_veg,Healthy,M,22.91,NA,NA
+SRR6166656,PRJNA397112,India,Asia,Bhopal,Indian,0.8,Veg,Healthy,F,NA,NA,NA
+SRR6166657,PRJNA397112,India,Asia,Kasaragod,Indian,11,Non_veg,Healthy,F,12.6,NA,NA
+SRR6166658,PRJNA397112,India,Asia,Kasaragod,Indian,12,Non_veg,Healthy,M,12.85,NA,NA
+SRR6166676,PRJNA397112,India,Asia,Kasaragod,Indian,30,Non_veg,Healthy,F,16.56,NA,NA
+SRR6166704,PRJNA397112,India,Asia,Bhopal,Indian,21,Veg,Healthy,F,28.12,NA,NA
+SRR6166705,PRJNA397112,India,Asia,Bhopal,Indian,27,Veg,Healthy,F,23.87,NA,NA
+SRR6166705,PRJNA397112,India,Asia,Bhopal,Indian,27,Veg,Healthy,M,22.5,NA,NA
+SRR6166706,PRJNA397112,India,Asia,Bhopal,Indian,21,Veg,Healthy,F,19.22,NA,NA
+SRR6166707,PRJNA397112,India,Asia,Bhopal,Indian,21,Veg,Healthy,F,28.84,NA,NA
+SRR6166716,PRJNA397112,India,Asia,Bhopal,Indian,26,Non_veg,Healthy,M,22.72,NA,NA
+SRR6166717,PRJNA397112,India,Asia,Kasaragod,Indian,3.5,Non_veg,Healthy,M,11.2,NA,NA
+SRR6166726,PRJNA397112,India,Asia,Bhopal,Indian,29,Veg,Healthy,M,23.4,NA,NA
+SRR6166727,PRJNA397112,India,Asia,Bhopal,Indian,26,Veg,Healthy,F,22.3,NA,NA
+SRR6166731,PRJNA397112,India,Asia,Bhopal,Indian,22,Veg,Healthy,M,22.23,NA,NA
+SRR6166732,PRJNA397112,India,Asia,Bhopal,Indian,29,Veg,Healthy,M,20.71,NA,NA
+SRR6166733,PRJNA397112,India,Asia,Kasaragod,Indian,52,Non_veg,Healthy,NA,NA,NA,NA
+SRR6166734,PRJNA397112,India,Asia,Kasaragod,Indian,53,Non_veg,Healthy,F,26.8,NA,NA
+SRR6166736,PRJNA397112,India,Asia,Kasaragod,Indian,30,Non_veg,Healthy,M,22.33,NA,NA
+SRR6166633,PRJNA397112,India,Asia,Bhopal,Indian,50,Non_veg,Healthy,F,17.9,NA,NA
+SRR6166634,PRJNA397112,India,Asia,Bhopal,Indian,62,Non_veg,Healthy,M,20.8,NA,NA
+SRR6166635,PRJNA397112,India,Asia,Bhopal,Indian,52,Non_veg,Healthy,F,23,NA,NA
+SRR6166636,PRJNA397112,India,Asia,Bhopal,Indian,71,Non_veg,Healthy,M,19.2,NA,NA
+SRR6166637,PRJNA397112,India,Asia,Bhopal,Indian,57,Non_veg,Healthy,F,20.8,NA,NA
+SRR6166638,PRJNA397112,India,Asia,Bhopal,Indian,57,Non_veg,Healthy,M,17.9,NA,NA
+SRR6166642,PRJNA397112,India,Asia,Kasaragod,Indian,50,Non_veg,Healthy,F,21.1,NA,NA
+SRR6166650,PRJNA397112,India,Asia,Bhopal,Indian,26,Veg,Healthy,M,22.22,NA,NA
+SRR6166651,PRJNA397112,India,Asia,Bhopal,Indian,25,Veg,Healthy,M,18.3,NA,NA
+SRR6166659,PRJNA397112,India,Asia,Kasaragod,Indian,11,Non_veg,Healthy,M,12.92,NA,NA
+SRR6166664,PRJNA397112,India,Asia,Kasaragod,Indian,16,Non_veg,Healthy,M,13.25,NA,NA
+SRR6166665,PRJNA397112,India,Asia,Kasaragod,Indian,5,Non_veg,Healthy,F,11.56,NA,NA
+SRR6166666,PRJNA397112,India,Asia,Kasaragod,Indian,6,Non_veg,Healthy,M,12.1,NA,NA
+SRR6166667,PRJNA397112,India,Asia,Bhopal,Indian,23,Veg,Healthy,M,23.52,NA,NA
+SRR6166668,PRJNA397112,India,Asia,Kasaragod,Indian,50,Non_veg,Healthy,F,25.47,NA,NA
+SRR6166669,PRJNA397112,India,Asia,Kasaragod,Indian,55,Non_veg,Healthy,F,24.97,NA,NA
+SRR6166670,PRJNA397112,India,Asia,Kasaragod,Indian,50,Non_veg,Healthy,F,27.1,NA,NA
+SRR6166677,PRJNA397112,India,Asia,Bhopal,Indian,64,Non_veg,Healthy,F,36.4,NA,NA
+SRR6166678,PRJNA397112,India,Asia,Bhopal,Indian,62,Non_veg,Healthy,F,22.9,NA,NA
+SRR6166680,PRJNA397112,India,Asia,Kasaragod,Indian,28,Non_veg,Healthy,F,24.32,NA,NA
+SRR6166684,PRJNA397112,India,Asia,Kasaragod,Indian,30,Non_veg,Healthy,F,23.3,NA,NA
+SRR6166685,PRJNA397112,India,Asia,Kasaragod,Indian,23,Non_veg,Healthy,M,28.82,NA,NA
+SRR6166687,PRJNA397112,India,Asia,Bhopal,Indian,23,Non_veg,Healthy,M,22.2,NA,NA
+SRR6166688,PRJNA397112,India,Asia,Kasaragod,Indian,23,Non_veg,Healthy,M,25.1,NA,NA
+SRR6166689,PRJNA397112,India,Asia,Kasaragod,Indian,50,Non_veg,Healthy,F,32.04,NA,NA
+SRR6166690,PRJNA397112,India,Asia,Kasaragod,Indian,23,Non_veg,Healthy,M,21.13,NA,NA
+SRR6166691,PRJNA397112,India,Asia,Kasaragod,Indian,25,Non_veg,Healthy,M,16.04,NA,NA
+SRR6166692,PRJNA397112,India,Asia,Bhopal,Indian,25,Veg,Healthy,M,21.71,NA,NA
+SRR6166693,PRJNA397112,India,Asia,Bhopal,Indian,26,Veg,Healthy,F,20.82,NA,NA
+SRR6166694,PRJNA397112,India,Asia,Bhopal,Indian,26,Veg,Healthy,F,22.03,NA,NA
+SRR6166695,PRJNA397112,India,Asia,Bhopal,Indian,23,Veg,Healthy,F,19.22,NA,NA
+SRR6166696,PRJNA397112,India,Asia,Kasaragod,Indian,24,Non_veg,Healthy,M,33.8,NA,NA
+SRR6166697,PRJNA397112,India,Asia,Kasaragod,Indian,30,Non_veg,Healthy,M,27.84,NA,NA
+SRR6166698,PRJNA397112,India,Asia,Bhopal,Indian,26,Veg,Healthy,M,22.65,NA,NA
+SRR6166700,PRJNA397112,India,Asia,Bhopal,Indian,23,Veg,Healthy,F,22.3,NA,NA
+SRR6166701,PRJNA397112,India,Asia,Bhopal,Indian,25,Veg,Healthy,F,21.26,NA,NA
+SRR6166702,PRJNA397112,India,Asia,Bhopal,Indian,24,Veg,Healthy,M,26.03,NA,NA
+SRR6166708,PRJNA397112,India,Asia,Bhopal,Indian,29,Veg,Healthy,F,22.03,NA,NA
+SRR6166709,PRJNA397112,India,Asia,Bhopal,Indian,24,Veg,Healthy,F,23.25,NA,NA
+SRR6166711,PRJNA397112,India,Asia,Kasaragod,Indian,7,Non_veg,Healthy,F,11.2,NA,NA
+SRR6166712,PRJNA397112,India,Asia,Kasaragod,Indian,6,Non_veg,Healthy,M,12.65,NA,NA
+SRR6166714,PRJNA397112,India,Asia,Kasaragod,Indian,5,Non_veg,Healthy,M,11.65,NA,NA
+SRR6166715,PRJNA397112,India,Asia,Kasaragod,Indian,9,Non_veg,Healthy,M,12.8,NA,NA
+SRR6166718,PRJNA397112,India,Asia,Bhopal,Indian,28,Veg,Healthy,F,19.28,NA,NA
+SRR6166721,PRJNA397112,India,Asia,Bhopal,Indian,26,Veg,Healthy,M,23.78,NA,NA
+SRR6166724,PRJNA397112,India,Asia,Bhopal,Indian,23,Veg,Healthy,M,27.88,NA,NA
+SRR6166737,PRJNA397112,India,Asia,Kasaragod,Indian,30,Non_veg,Healthy,F,22.43,NA,NA
+SRR6166738,PRJNA397112,India,Asia,Kasaragod,Indian,50,Non_veg,Healthy,F,25.1,NA,NA
+SRR6166739,PRJNA397112,India,Asia,Kasaragod,Indian,27,Non_veg,Healthy,F,20.42,NA,NA
+SRR22554580,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554584,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554585,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554586,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554587,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554592,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554613,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554614,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554653,PRJNA909313,USA,North America,Maryland,NA,38,NA,Carrier,NA,NA,NA,NA
+SRR22554654,PRJNA909313,USA,North America,Maryland,NA,38,NA,Carrier,NA,NA,NA,NA
+SRR22554655,PRJNA909313,USA,North America,Maryland,NA,38,NA,Carrier,NA,NA,NA,NA
+SRR22554656,PRJNA909313,USA,North America,Maryland,NA,38,NA,Carrier,NA,NA,NA,NA
+SRR22554660,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554661,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554662,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554663,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554668,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554669,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554670,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554671,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554675,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554676,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554692,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554693,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554694,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554695,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554696,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554697,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554698,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554699,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554712,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554713,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554714,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+SRR22554715,PRJNA909313,USA,North America,Maryland,NA,23,NA,CGD,NA,NA,NA,NA
+ERR3182410,PRJEB31439,USA,North America,Minnesota,White,81,Low Fiber High Sugar Diet,Healthy,F,29.68,NA,NA
+ERR3182413,PRJEB31439,USA,North America,Minnesota,White,81,Low Fiber High Sugar Diet,Healthy,F,29.68,NA,NA
+ERR3182416,PRJEB31439,USA,North America,Minnesota,White,56,Low Fiber High Sugar Diet,Healthy,F,39.48,NA,NA
+ERR3182419,PRJEB31439,USA,North America,Minnesota,White,56,Low Fiber High Sugar Diet,Healthy,F,39.48,NA,NA
+ERR3182422,PRJEB31439,USA,North America,Minnesota,White,82,Low Fiber High Sugar Diet,Healthy,F,22.94,NA,NA
+ERR3182425,PRJEB31439,USA,North America,Minnesota,White,82,Low Fiber High Sugar Diet,Healthy,F,22.94,NA,NA
+ERR3182428,PRJEB31439,USA,North America,Minnesota,White,47,Low Fiber High Sugar Diet,Healthy,F,22.48,NA,NA
+ERR3182431,PRJEB31439,USA,North America,Minnesota,White,47,Low Fiber High Sugar Diet,Healthy,F,22.48,NA,NA
+ERR3182434,PRJEB31439,USA,North America,Minnesota,Other,42,Low Fiber High Sugar Diet,Healthy,M,27.9,NA,NA
+ERR3182437,PRJEB31439,USA,North America,Minnesota,Other,42,Low Fiber High Sugar Diet,Healthy,M,27.9,NA,NA
+ERR3182440,PRJEB31439,USA,North America,Minnesota,White,52,Low Fiber High Sugar Diet,Healthy,M,24.4,NA,NA
+ERR3182443,PRJEB31439,USA,North America,Minnesota,White,52,Low Fiber High Sugar Diet,Healthy,M,24.4,NA,NA
+ERR3182446,PRJEB31439,USA,North America,Minnesota,White,18,Low Fiber High Sugar Diet,Healthy,F,27.47,NA,NA
+ERR3182449,PRJEB31439,USA,North America,Minnesota,White,18,Low Fiber High Sugar Diet,Healthy,F,27.47,NA,NA
+ERR3182452,PRJEB31439,USA,North America,Minnesota,White,53,Low Fiber High Sugar Diet,Healthy,F,35.7,NA,NA
+ERR3182455,PRJEB31439,USA,North America,Minnesota,White,53,Low Fiber High Sugar Diet,Healthy,F,35.7,NA,NA
+ERR3182458,PRJEB31439,USA,North America,Minnesota,White,36,Low Fiber High Sugar Diet,Healthy,F,15.79,NA,NA
+ERR3182461,PRJEB31439,USA,North America,Minnesota,White,36,Low Fiber High Sugar Diet,Healthy,F,15.79,NA,NA
+ERR3182464,PRJEB31439,USA,North America,Minnesota,White,30,Low Fiber High Sugar Diet,Healthy,M,41.15,NA,NA
+ERR3182467,PRJEB31439,USA,North America,Minnesota,White,30,Low Fiber High Sugar Diet,Healthy,M,41.15,NA,NA
+ERR3182470,PRJEB31439,USA,North America,Minnesota,White,49,Low Fiber High Sugar Diet,Healthy,F,34.95,NA,NA
+ERR3182473,PRJEB31439,USA,North America,Minnesota,White,49,Low Fiber High Sugar Diet,Healthy,F,34.95,NA,NA
+ERR3182476,PRJEB31439,USA,North America,Minnesota,White,78,Low Fiber High Sugar Diet,Healthy,F,24.02,NA,NA
+ERR3182479,PRJEB31439,USA,North America,Minnesota,White,78,Low Fiber High Sugar Diet,Healthy,F,24.02,NA,NA
+ERR3182482,PRJEB31439,USA,North America,Minnesota,White,59,Low Fiber High Sugar Diet,Healthy,F,37.02,NA,NA
+ERR3182485,PRJEB31439,USA,North America,Minnesota,White,59,Low Fiber High Sugar Diet,Healthy,F,37.02,NA,NA
+ERR3182488,PRJEB31439,USA,North America,Minnesota,NA,NA,Low Fiber High Sugar Diet,Healthy,NA,NA,NA,NA
+ERR3182491,PRJEB31439,USA,North America,Minnesota,NA,NA,Low Fiber High Sugar Diet,Healthy,NA,NA,NA,NA
+ERR3182494,PRJEB31439,USA,North America,Minnesota,NA,NA,Low Fiber High Sugar Diet,Healthy,NA,NA,NA,NA
+ERR3182497,PRJEB31439,USA,North America,Minnesota,NA,NA,Low Fiber High Sugar Diet,Healthy,NA,NA,NA,NA
+ERR3182500,PRJEB31439,USA,North America,Minnesota,NA,NA,Low Fiber High Sugar Diet,Healthy,NA,NA,NA,NA
+ERR3182503,PRJEB31439,USA,North America,Minnesota,NA,NA,Low Fiber High Sugar Diet,Healthy,NA,NA,NA,NA
+SRR10097305,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Pre-Tea,Healthy,M,23.85,Pre-PTea10,NA
+SRR10097306,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Pre-Tea,Healthy,M,23.85,Pre-PTea9,NA
+SRR10097307,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Pre-Tea,Healthy,M,23.85,Pre-PTea8,NA
+SRR10097308,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Pre-Tea,Healthy,M,23.85,Pre-PTea7,NA
+SRR10097309,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Pre-Tea,Healthy,M,23.85,Pre-PTea6,NA
+SRR10097310,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Pre-Tea,Healthy,M,23.85,Pre-PTea5,NA
+SRR10097311,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Pre-Tea,Healthy,M,23.85,Pre-PTea4,NA
+SRR10097312,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Post-Tea,Healthy,M,23.85,Post-PTea13,NA
+SRR10097313,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Post-Tea,Healthy,M,23.85,Post-PTea12,NA
+SRR10097314,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Post-Tea,Healthy,M,23.85,Post-PTea11,NA
+SRR10097315,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Post-Tea,Healthy,M,23.85,Post-PTea10,NA
+SRR10097316,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Post-Tea,Healthy,M,23.85,Post-PTea9,NA
+SRR10097317,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Post-Tea,Healthy,M,23.85,Post-PTea8,NA
+SRR10097318,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Pre-Tea,Healthy,M,23.85,Pre-PTea3,NA
+SRR10097319,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Post-Tea,Healthy,M,23.85,Post-PTea7,NA
+SRR10097320,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Post-Tea,Healthy,M,23.85,Post-PTea6,NA
+SRR10097321,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Post-Tea,Healthy,M,23.85,Post-PTea5,NA
+SRR10097323,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Post-Tea,Healthy,M,23.85,Post-PTea3,NA
+SRR10097324,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Post-Tea,Healthy,M,23.85,Post-PTea2,NA
+SRR10097325,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Post-Tea,Healthy,M,23.85,Post-PTea1,NA
+SRR10097326,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Pre-Tea,Healthy,M,23.85,Pre-PTea13,NA
+SRR10097327,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Pre-Tea,Healthy,M,23.85,Pre-PTea12,NA
+SRR10097328,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Pre-Tea,Healthy,M,23.85,Pre-PTea11,NA
+SRR10097329,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Pre-Tea,Healthy,M,23.85,Pre-PTea2,NA
+SRR10097330,PRJNA564897,China,Asia,Shanghai,Chinese_x,28,Pre-Tea,Healthy,M,23.85,Pre-PTea1,NA
+SRR15403970,PRJNA753264,China,Asia,Taizhou,Chinese_x,51,NA,RA,F,23.95,NA,NA
+SRR15403971,PRJNA753264,China,Asia,Taizhou,Chinese_x,47,NA,RA,F,NA,NA,NA
+SRR15403972,PRJNA753264,China,Asia,Taizhou,Chinese_x,48,NA,RA,F,NA,NA,NA
+SRR15403975,PRJNA753264,China,Asia,Taizhou,Chinese_x,61,NA,RA,M,19.67,NA,NA
+SRR15403986,PRJNA753264,China,Asia,Taizhou,Chinese_x,79,NA,RA,F,22.48,NA,NA
+SRR15403997,PRJNA753264,China,Asia,Taizhou,Chinese_x,62,NA,RA,F,17.85,NA,NA
+SRR15404008,PRJNA753264,China,Asia,Taizhou,Chinese_x,43,NA,RA,F,20.12,NA,NA
+SRR15404002,PRJNA753264,China,Asia,Taizhou,Chinese_x,67,NA,RA,M,20.06,NA,NA
+SRR15404003,PRJNA753264,China,Asia,Taizhou,Chinese_x,31,NA,RA,M,21.05,NA,NA
+SRR15404004,PRJNA753264,China,Asia,Taizhou,Chinese_x,36,NA,RA,M,21.55,NA,NA
+SRR15404005,PRJNA753264,China,Asia,Taizhou,Chinese_x,67,NA,RA,F,25.39,NA,NA
+SRR15404006,PRJNA753264,China,Asia,Taizhou,Chinese_x,58,NA,RA,F,20.12,NA,NA
+SRR15404007,PRJNA753264,China,Asia,Taizhou,Chinese_x,64,NA,RA,M,NA,NA,NA
+SRR15404009,PRJNA753264,China,Asia,Taizhou,Chinese_x,34,NA,RA,F,21.37,NA,NA
+SRR15404019,PRJNA753264,China,Asia,Taizhou,Chinese_x,45,NA,RA,F,21.08,NA,NA
+SRR15404010,PRJNA753264,China,Asia,Taizhou,Chinese_x,60,NA,RA,M,NA,NA,NA
+SRR15404011,PRJNA753264,China,Asia,Taizhou,Chinese_x,50,NA,RA,F,NA,NA,NA
+SRR15404012,PRJNA753264,China,Asia,Taizhou,Chinese_x,27,NA,RA,M,21.11,NA,NA
+SRR15404013,PRJNA753264,China,Asia,Taizhou,Chinese_x,64,NA,RA,M,22.72,NA,NA
+SRR15404014,PRJNA753264,China,Asia,Taizhou,Chinese_x,53,NA,RA,F,29.1,NA,NA
+SRR15404015,PRJNA753264,China,Asia,Taizhou,Chinese_x,46,NA,RA,F,NA,NA,NA
+SRR15404016,PRJNA753264,China,Asia,Taizhou,Chinese_x,48,NA,RA,F,18.75,NA,NA
+SRR15404017,PRJNA753264,China,Asia,Taizhou,Chinese_x,48,NA,RA,F,19.92,NA,NA
+SRR15404018,PRJNA753264,China,Asia,Taizhou,Chinese_x,82,NA,RA,M,NA,NA,NA
+SRR15403969,PRJNA753264,China,Asia,Taizhou,Chinese_x,59,NA,RA,M,19.82,NA,NA
+SRR15404020,PRJNA753264,China,Asia,Taizhou,Chinese_x,55,NA,RA,F,28.89,NA,NA
+SRR15403992,PRJNA753264,China,Asia,Taizhou,Chinese_x,63,NA,Healthy,F,20.45,NA,NA
+SRR15403993,PRJNA753264,China,Asia,Taizhou,Chinese_x,48,NA,Healthy,F,25.76,NA,NA
+SRR15403994,PRJNA753264,China,Asia,Taizhou,Chinese_x,45,NA,Healthy,F,22.92,NA,NA
+SRR15403995,PRJNA753264,China,Asia,Taizhou,Chinese_x,45,NA,Healthy,F,21.28,NA,NA
+SRR15403996,PRJNA753264,China,Asia,Taizhou,Chinese_x,44,NA,Healthy,F,22.96,NA,NA
+SRR15403998,PRJNA753264,China,Asia,Taizhou,Chinese_x,41,NA,Healthy,F,25.47,NA,NA
+SRR15403999,PRJNA753264,China,Asia,Taizhou,Chinese_x,77,NA,Healthy,F,22.74,NA,NA
+SRR15403973,PRJNA753264,China,Asia,Taizhou,Chinese_x,62,NA,Healthy,M,27.5,NA,NA
+SRR15403974,PRJNA753264,China,Asia,Taizhou,Chinese_x,34,NA,Healthy,M,23.71,NA,NA
+SRR15403976,PRJNA753264,China,Asia,Taizhou,Chinese_x,52,NA,Healthy,F,23.87,NA,NA
+SRR15403977,PRJNA753264,China,Asia,Taizhou,Chinese_x,79,NA,Healthy,M,28.22,NA,NA
+SRR15403978,PRJNA753264,China,Asia,Taizhou,Chinese_x,62,NA,Healthy,M,26.37,NA,NA
+SRR15403979,PRJNA753264,China,Asia,Taizhou,Chinese_x,61,NA,Healthy,M,25.09,NA,NA
+SRR15403980,PRJNA753264,China,Asia,Taizhou,Chinese_x,60,NA,Healthy,M,24.34,NA,NA
+SRR15404000,PRJNA753264,China,Asia,Taizhou,Chinese_x,34,NA,Healthy,F,17.71,NA,NA
+SRR15403981,PRJNA753264,China,Asia,Taizhou,Chinese_x,58,NA,Healthy,M,24.14,NA,NA
+SRR15403982,PRJNA753264,China,Asia,Taizhou,Chinese_x,60,NA,Healthy,M,24.71,NA,NA
+SRR15403983,PRJNA753264,China,Asia,Taizhou,Chinese_x,37,NA,Healthy,M,24.8,NA,NA
+SRR15403984,PRJNA753264,China,Asia,Taizhou,Chinese_x,25,NA,Healthy,M,24.49,NA,NA
+SRR15403985,PRJNA753264,China,Asia,Taizhou,Chinese_x,70,NA,Healthy,F,22.86,NA,NA
+SRR15403987,PRJNA753264,China,Asia,Taizhou,Chinese_x,60,NA,Healthy,F,23.21,NA,NA
+SRR15403988,PRJNA753264,China,Asia,Taizhou,Chinese_x,57,NA,Healthy,F,24.97,NA,NA
+SRR15403989,PRJNA753264,China,Asia,Taizhou,Chinese_x,54,NA,Healthy,F,NA,NA,NA
+SRR15403990,PRJNA753264,China,Asia,Taizhou,Chinese_x,53,NA,Healthy,F,19.28,NA,NA
+SRR15403991,PRJNA753264,China,Asia,Taizhou,Chinese_x,50,NA,Healthy,F,20.81,NA,NA
+SRR15404001,PRJNA753264,China,Asia,Taizhou,Chinese_x,44,NA,Healthy,F,20.04,NA,NA
+SRR17661651,PRJNA787213,USA,North America,New York,NA,64,NA,Healthy,NA,NA,NA,NA
+SRR17661652,PRJNA787213,USA,North America,New York,NA,33,NA,FD,NA,22.94,NA,NA
+SRR17661653,PRJNA787213,USA,North America,New York,NA,69,NA,Healthy,NA,NA,NA,NA
+SRR17661654,PRJNA787213,USA,North America,New York,NA,29,NA,FD,NA,15.42,NA,NA
+SRR17661655,PRJNA787213,USA,North America,New York,NA,61,NA,Healthy,NA,NA,NA,NA
+SRR17661656,PRJNA787213,USA,North America,New York,NA,29,NA,FD,NA,23.64,NA,NA
+SRR17661657,PRJNA787213,USA,North America,New York,NA,43,NA,Healthy,NA,NA,NA,NA
+SRR17661658,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661659,PRJNA787213,USA,North America,New York,NA,6,NA,FD,NA,13.87,NA,NA
+SRR17661660,PRJNA787213,USA,North America,New York,NA,45,NA,Healthy,NA,NA,NA,NA
+SRR17661662,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661663,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661664,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661665,PRJNA787213,USA,North America,New York,NA,16,NA,FD,NA,17.33,NA,NA
+SRR17661666,PRJNA787213,USA,North America,New York,NA,16,NA,FD,NA,19.3,NA,NA
+SRR17661667,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661668,PRJNA787213,USA,North America,New York,NA,20,NA,FD,NA,24.12,NA,NA
+SRR17661670,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661674,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661675,PRJNA787213,USA,North America,New York,NA,5,NA,FD,NA,15.94,NA,NA
+SRR17661677,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661678,PRJNA787213,USA,North America,New York,NA,10,NA,FD,NA,17.33,NA,NA
+SRR17661680,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661691,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661703,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661708,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661719,PRJNA787213,USA,North America,New York,NA,24,NA,FD,NA,23.69,NA,NA
+SRR17661730,PRJNA787213,USA,North America,New York,NA,22,NA,FD,NA,23.69,NA,NA
+SRR17661740,PRJNA787213,USA,North America,New York,NA,26,NA,FD,NA,22.81,NA,NA
+SRR17661751,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661770,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661781,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661788,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661789,PRJNA787213,USA,North America,New York,NA,26,NA,FD,NA,20.63,NA,NA
+SRR17661790,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661791,PRJNA787213,USA,North America,New York,NA,45,NA,FD,NA,24.15,NA,NA
+SRR17661792,PRJNA787213,USA,North America,New York,NA,41,NA,FD,NA,15.61,NA,NA
+SRR17661793,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661794,PRJNA787213,USA,North America,New York,NA,22,NA,FD,NA,16.16,NA,NA
+SRR17661795,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661796,PRJNA787213,USA,North America,New York,NA,22,NA,FD,NA,21.68,NA,NA
+SRR17661798,PRJNA787213,USA,North America,New York,NA,14,NA,FD,NA,18.08,NA,NA
+SRR17661799,PRJNA787213,USA,North America,New York,NA,57,NA,Healthy,NA,NA,NA,NA
+SRR17661800,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661801,PRJNA787213,USA,North America,New York,NA,55,NA,Healthy,NA,NA,NA,NA
+SRR17661802,PRJNA787213,USA,North America,New York,NA,25,NA,FD,NA,24.08,NA,NA
+SRR17661803,PRJNA787213,USA,North America,New York,NA,23,NA,FD,NA,NA,NA,NA
+SRR17661805,PRJNA787213,USA,North America,New York,NA,17,NA,FD,NA,21.62,NA,NA
+SRR17661806,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661807,PRJNA787213,USA,North America,New York,NA,8,NA,FD,NA,13.35,NA,NA
+SRR17661808,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661809,PRJNA787213,USA,North America,New York,NA,27,NA,FD,NA,23.23,NA,NA
+SRR17661812,PRJNA787213,USA,North America,New York,NA,25,NA,FD,NA,23.23,NA,NA
+SRR17661813,PRJNA787213,USA,North America,New York,NA,17,NA,FD,NA,17.71,NA,NA
+SRR17661815,PRJNA787213,USA,North America,New York,NA,24,NA,FD,NA,20.13,NA,NA
+SRR17661817,PRJNA787213,USA,North America,New York,NA,44,NA,Healthy,NA,NA,NA,NA
+SRR17661818,PRJNA787213,USA,North America,New York,NA,22,NA,FD,NA,18.59,NA,NA
+SRR17661819,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661820,PRJNA787213,USA,North America,New York,NA,23,NA,FD,NA,17.2,NA,NA
+SRR17661821,PRJNA787213,USA,North America,New York,NA,52,NA,Healthy,NA,NA,NA,NA
+SRR17661822,PRJNA787213,USA,North America,New York,NA,54,NA,Healthy,NA,NA,NA,NA
+SRR17661823,PRJNA787213,USA,North America,New York,NA,49,NA,Healthy,NA,NA,NA,NA
+SRR17661824,PRJNA787213,USA,North America,New York,NA,22,NA,FD,NA,17.95,NA,NA
+SRR17661825,PRJNA787213,USA,North America,New York,NA,19,NA,FD,NA,17.95,NA,NA
+SRR17661827,PRJNA787213,USA,North America,New York,NA,38,NA,Healthy,NA,NA,NA,NA
+SRR17661828,PRJNA787213,USA,North America,New York,NA,41,NA,Healthy,NA,NA,NA,NA
+SRR17661829,PRJNA787213,USA,North America,New York,NA,11,NA,FD,NA,17.75,NA,NA
+SRR17661832,PRJNA787213,USA,North America,New York,NA,23,NA,FD,NA,20.55,NA,NA
+SRR17661843,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661854,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661865,PRJNA787213,USA,North America,New York,NA,28,NA,FD,NA,19.72,NA,NA
+SRR17661876,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661895,PRJNA787213,USA,North America,New York,NA,27,NA,FD,NA,22.72,NA,NA
+SRR17661933,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661949,PRJNA787213,USA,North America,New York,NA,30,NA,FD,NA,17.62,NA,NA
+SRR17661960,PRJNA787213,USA,North America,New York,NA,28,NA,FD,NA,17.62,NA,NA
+SRR17661971,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17661982,PRJNA787213,USA,North America,New York,NA,19,NA,FD,NA,23.73,NA,NA
+SRR17661993,PRJNA787213,USA,North America,New York,NA,16,NA,FD,NA,23.73,NA,NA
+SRR17662001,PRJNA787213,USA,North America,New York,NA,31,NA,FD,NA,19.95,NA,NA
+SRR17662012,PRJNA787213,USA,North America,New York,NA,62,NA,FD,NA,21.48,NA,NA
+SRR17662023,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17662039,PRJNA787213,USA,North America,New York,NA,55,NA,Healthy,NA,NA,NA,NA
+SRR17662040,PRJNA787213,USA,North America,New York,NA,58,NA,Healthy,NA,NA,NA,NA
+SRR17662041,PRJNA787213,USA,North America,New York,NA,26,NA,FD,NA,NA,NA,NA
+SRR17662042,PRJNA787213,USA,North America,New York,NA,63,NA,Healthy,NA,NA,NA,NA
+SRR17662043,PRJNA787213,USA,North America,New York,NA,64,NA,Healthy,NA,NA,NA,NA
+SRR17662044,PRJNA787213,USA,North America,New York,NA,28,NA,FD,NA,22.76,NA,NA
+SRR17662045,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17662046,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17662047,PRJNA787213,USA,North America,New York,NA,24,NA,FD,NA,20.55,NA,NA
+SRR17662048,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17662049,PRJNA787213,USA,North America,New York,NA,22,NA,FD,NA,17.53,NA,NA
+SRR17662050,PRJNA787213,USA,North America,New York,NA,20,NA,FD,NA,17.53,NA,NA
+SRR17662051,PRJNA787213,USA,North America,New York,NA,NA,NA,Healthy,NA,NA,NA,NA
+SRR17662052,PRJNA787213,USA,North America,New York,NA,21,NA,FD,NA,18.3,NA,NA
+SRR12771490,PRJNA665061,USA,North America,San Francisco,East Asian,43.8,Obese,Obese,NA,26.8,NA,NA
+SRR12771494,PRJNA665061,USA,North America,San Francisco,East Asian,47.1,Lean,Healthy,NA,20.1,NA,NA
+SRR12771495,PRJNA665061,USA,North America,San Francisco,East Asian,47.1,Lean,Healthy,NA,24.5,NA,NA
+SRR12771496,PRJNA665061,USA,North America,San Francisco,East Asian,47.1,Lean,Healthy,NA,19.8,NA,NA
+SRR12771497,PRJNA665061,USA,North America,San Francisco,East Asian,47.1,Lean,Healthy,NA,21.8,NA,NA
+SRR12771498,PRJNA665061,USA,North America,San Francisco,East Asian,47.1,Lean,Healthy,NA,23.4,NA,NA
+SRR12771503,PRJNA665061,USA,North America,San Francisco,East Asian,47.1,Lean,Healthy,NA,20.2,NA,NA
+SRR12771506,PRJNA665061,USA,North America,San Francisco,East Asian,43.8,Obese,Obese,NA,26.8,NA,NA
+SRR12771509,PRJNA665061,USA,North America,San Francisco,East Asian,47.1,Lean,Healthy,NA,24.3,NA,NA
+SRR12771533,PRJNA665061,USA,North America,San Francisco,East Asian,43.8,Obese,Obese,NA,46.8,NA,NA
+SRR12771534,PRJNA665061,USA,North America,San Francisco,White,40.8,Obese,Obese,NA,30.2,NA,NA
+SRR12771542,PRJNA665061,USA,North America,San Francisco,White,40.8,Obese,Obese,NA,37.4,NA,NA
+SRR12771544,PRJNA665061,USA,North America,San Francisco,White,40.8,Lean,Healthy,NA,25.2,NA,NA
+SRR12771554,PRJNA665061,USA,North America,San Francisco,White,40.8,Obese,Obese,NA,37.8,NA,NA
+SRR12771556,PRJNA665061,USA,North America,San Francisco,White,40.8,Lean,Healthy,NA,20.7,NA,NA
+SRR12771568,PRJNA665061,USA,North America,San Francisco,White,40.8,Lean,Healthy,NA,21.8,NA,NA
+SRR12771488,PRJNA665061,USA,North America,San Francisco,East Asian,43.8,Obese,Obese,NA,34.1,NA,NA
+SRR12771489,PRJNA665061,USA,North America,San Francisco,East Asian,43.8,Obese,Obese,NA,36.5,NA,NA
+SRR12771491,PRJNA665061,USA,North America,San Francisco,East Asian,43.8,Obese,Obese,NA,32.8,NA,NA
+SRR12771492,PRJNA665061,USA,North America,San Francisco,East Asian,47.1,Lean,Healthy,NA,22.4,NA,NA
+SRR12771499,PRJNA665061,USA,North America,San Francisco,East Asian,43.8,Obese,Obese,NA,40.3,NA,NA
+SRR12771500,PRJNA665061,USA,North America,San Francisco,East Asian,47.1,Lean,Healthy,NA,24.4,NA,NA
+SRR12771501,PRJNA665061,USA,North America,San Francisco,East Asian,47.1,Lean,Healthy,NA,19.7,NA,NA
+SRR12771502,PRJNA665061,USA,North America,San Francisco,East Asian,43.8,Obese,Obese,NA,28.3,NA,NA
+SRR12771505,PRJNA665061,USA,North America,San Francisco,East Asian,47.1,Lean,Healthy,NA,22.2,NA,NA
+SRR12771507,PRJNA665061,USA,North America,San Francisco,East Asian,47.1,Lean,Healthy,NA,24.4,NA,NA
+SRR12771508,PRJNA665061,USA,North America,San Francisco,East Asian,43.8,Obese,Obese,NA,29,NA,NA
+SRR12771532,PRJNA665061,USA,North America,San Francisco,East Asian,43.8,Obese,Obese,NA,28.7,NA,NA
+SRR12771535,PRJNA665061,USA,North America,San Francisco,White,40.8,Obese,Obese,NA,41.3,NA,NA
+SRR12771536,PRJNA665061,USA,North America,San Francisco,White,40.8,Obese,Obese,NA,39.9,NA,NA
+SRR12771538,PRJNA665061,USA,North America,San Francisco,White,40.8,Obese,Obese,NA,48.5,NA,NA
+SRR12771539,PRJNA665061,USA,North America,San Francisco,White,40.8,Obese,Obese,NA,50.7,NA,NA
+SRR12771540,PRJNA665061,USA,North America,San Francisco,White,40.8,Lean,Healthy,NA,19.2,NA,NA
+SRR12771541,PRJNA665061,USA,North America,San Francisco,White,40.8,Obese,Obese,NA,47.1,NA,NA
+SRR12771543,PRJNA665061,USA,North America,San Francisco,White,40.8,Obese,Obese,NA,35,NA,NA
+SRR12771545,PRJNA665061,USA,North America,San Francisco,White,40.8,Lean,Healthy,NA,22.6,NA,NA
+SRR12771546,PRJNA665061,USA,North America,San Francisco,White,40.8,Obese,Obese,NA,30.1,NA,NA
+SRR12771547,PRJNA665061,USA,North America,San Francisco,White,40.8,Obese,Obese,NA,36.8,NA,NA
+SRR12771549,PRJNA665061,USA,North America,San Francisco,White,40.8,Obese,Obese,NA,43,NA,NA
+SRR12771550,PRJNA665061,USA,North America,San Francisco,White,40.8,Lean,Healthy,NA,20.4,NA,NA
+SRR12771551,PRJNA665061,USA,North America,San Francisco,White,40.8,Lean,Healthy,NA,24.3,NA,NA
+SRR12771552,PRJNA665061,USA,North America,San Francisco,White,40.8,Lean,Healthy,NA,20.5,NA,NA
+SRR12771553,PRJNA665061,USA,North America,San Francisco,White,40.8,Lean,Healthy,NA,19.2,NA,NA
+SRR12771555,PRJNA665061,USA,North America,San Francisco,White,40.8,Lean,Healthy,NA,20.6,NA,NA
+SRR12771557,PRJNA665061,USA,North America,San Francisco,White,40.8,Obese,Obese,NA,42.9,NA,NA
+SRR12771558,PRJNA665061,USA,North America,San Francisco,White,40.8,Lean,Healthy,NA,24.1,NA,NA
+SRR12771559,PRJNA665061,USA,North America,San Francisco,East Asian,NA,NA,NA,NA,NA,NA,NA
+SRR12771560,PRJNA665061,USA,North America,San Francisco,White,NA,NA,NA,NA,NA,NA,NA
+SRR18588256,PRJNA812699,USA,North America,Los Angeles,Hispanic,48,Modified_American,Irritable bowel syndrome,F,22.01007843,NA,NA
+SRR18588257,PRJNA812699,USA,North America,Los Angeles,Hispanic,48,Modified_American,Irritable bowel syndrome,F,22.01007843,NA,NA
+SRR18588258,PRJNA812699,USA,North America,Los Angeles,Hispanic,19,Pescetarian,Irritable bowel syndrome,F,19.64848137,NA,NA
+SRR18588259,PRJNA812699,USA,North America,Los Angeles,Hispanic,34,Modified_American,Irritable bowel syndrome,F,22,NA,NA
+SRR18588260,PRJNA812699,USA,North America,Los Angeles,Hispanic,34,Modified_American,Irritable bowel syndrome,F,22,NA,NA
+SRR18588261,PRJNA812699,USA,North America,Los Angeles,Hispanic,34,Modified_American,Irritable bowel syndrome,F,22,NA,NA
+SRR18588262,PRJNA812699,USA,North America,Los Angeles,Multiracial,28,,Irritable bowel syndrome,F,25,NA,NA
+SRR18588263,PRJNA812699,USA,North America,Los Angeles,Multiracial,28,,Irritable bowel syndrome,F,25,NA,NA
+SRR18588264,PRJNA812699,USA,North America,Los Angeles,Multiracial,28,,Irritable bowel syndrome,F,25,NA,NA
+SRR18588265,PRJNA812699,USA,North America,Los Angeles,Black,33,,Irritable bowel syndrome,F,29,NA,NA
+SRR18588266,PRJNA812699,USA,North America,Los Angeles,Asian,21,Modified_American,Irritable bowel syndrome,F,26.60288048,NA,NA
+SRR18588267,PRJNA812699,USA,North America,Los Angeles,Black,33,,Irritable bowel syndrome,F,29,NA,NA
+SRR18588268,PRJNA812699,USA,North America,Los Angeles,Black,33,,Irritable bowel syndrome,F,29,NA,NA
+SRR18588269,PRJNA812699,USA,North America,Los Angeles,Black,48,,Irritable bowel syndrome,F,26,NA,NA
+SRR18588270,PRJNA812699,USA,North America,Los Angeles,Black,48,,Irritable bowel syndrome,F,26,NA,NA
+SRR18588271,PRJNA812699,USA,North America,Los Angeles,Black,48,,Irritable bowel syndrome,F,26,NA,NA
+SRR18588272,PRJNA812699,USA,North America,Los Angeles,Asian,26,Pescetarian,Irritable bowel syndrome,F,25.85991478,NA,NA
+SRR18588273,PRJNA812699,USA,North America,Los Angeles,Asian,26,Pescetarian,Irritable bowel syndrome,F,25.85991478,NA,NA
+SRR18588274,PRJNA812699,USA,North America,Los Angeles,Asian,26,Pescetarian,Irritable bowel syndrome,F,25.85991478,NA,NA
+SRR18588275,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,44,Gluten_free,Irritable bowel syndrome,F,25.73322678,NA,NA
+SRR18588276,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,44,Gluten_free,Irritable bowel syndrome,F,25.73322678,NA,NA
+SRR18588277,PRJNA812699,USA,North America,Los Angeles,Hispanic,18,Modified_American,Control,F,24.22646332,NA,NA
+SRR18588278,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,44,Gluten_free,Irritable bowel syndrome,F,25.73322678,NA,NA
+SRR18588279,PRJNA812699,USA,North America,Los Angeles,Black,34,Modified_American,Irritable bowel syndrome,F,28.20679092,NA,NA
+SRR18588280,PRJNA812699,USA,North America,Los Angeles,Black,34,Modified_American,Irritable bowel syndrome,F,28.20679092,NA,NA
+SRR18588281,PRJNA812699,USA,North America,Los Angeles,Multiracial,24,Gluten_free,Irritable bowel syndrome,F,23,NA,NA
+SRR18588282,PRJNA812699,USA,North America,Los Angeles,Multiracial,24,Gluten_free,Irritable bowel syndrome,F,23,NA,NA
+SRR18588283,PRJNA812699,USA,North America,Los Angeles,Multiracial,24,Gluten_free,Irritable bowel syndrome,F,23,NA,NA
+SRR18588284,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,25,,Irritable bowel syndrome,F,25,NA,NA
+SRR18588285,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,25,,Irritable bowel syndrome,F,25,NA,NA
+SRR18588286,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,55,,Irritable bowel syndrome,F,23,NA,NA
+SRR18588287,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,55,,Irritable bowel syndrome,F,23,NA,NA
+SRR18588288,PRJNA812699,USA,North America,Los Angeles,Multiracial,30,Modified_American,Control,F,32.02555466,NA,NA
+SRR18588289,PRJNA812699,USA,North America,Los Angeles,Hispanic,19,Lactose_free,Irritable bowel syndrome,F,23.51342773,NA,NA
+SRR18588290,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,29,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588291,PRJNA812699,USA,North America,Los Angeles,Hispanic,28,Standard_American,Irritable bowel syndrome,F,23,NA,NA
+SRR18588292,PRJNA812699,USA,North America,Los Angeles,Hispanic,28,Standard_American,Irritable bowel syndrome,F,23,NA,NA
+SRR18588293,PRJNA812699,USA,North America,Los Angeles,Hispanic,28,Standard_American,Irritable bowel syndrome,F,23,NA,NA
+SRR18588294,PRJNA812699,USA,North America,Los Angeles,Asian,18,Mediterranean,Irritable bowel syndrome,F,20,NA,NA
+SRR18588295,PRJNA812699,USA,North America,Los Angeles,Asian,18,Mediterranean,Irritable bowel syndrome,F,20,NA,NA
+SRR18588296,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,30,,Irritable bowel syndrome,F,19,NA,NA
+SRR18588297,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,30,,Irritable bowel syndrome,F,19,NA,NA
+SRR18588298,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,23,,Irritable bowel syndrome,F,22,NA,NA
+SRR18588299,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,23,,Irritable bowel syndrome,F,22,NA,NA
+SRR18588300,PRJNA812699,USA,North America,Los Angeles,Hispanic,18,Lactose_free,Irritable bowel syndrome,F,23.2030735,NA,NA
+SRR18588301,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,23,,Irritable bowel syndrome,F,22,NA,NA
+SRR18588302,PRJNA812699,USA,North America,Los Angeles,Black,41,,Irritable bowel syndrome,F,29,NA,NA
+SRR18588303,PRJNA812699,USA,North America,Los Angeles,Black,41,,Irritable bowel syndrome,F,29,NA,NA
+SRR18588304,PRJNA812699,USA,North America,Los Angeles,Black,41,,Irritable bowel syndrome,F,29,NA,NA
+SRR18588305,PRJNA812699,USA,North America,Los Angeles,Hispanic,45,Modified_American,Irritable bowel syndrome,F,24,NA,NA
+SRR18588306,PRJNA812699,USA,North America,Los Angeles,Hispanic,45,Modified_American,Irritable bowel syndrome,F,24,NA,NA
+SRR18588307,PRJNA812699,USA,North America,Los Angeles,Hispanic,45,Modified_American,Irritable bowel syndrome,F,24,NA,NA
+SRR18588308,PRJNA812699,USA,North America,Los Angeles,Asian,22,Mediterranean,Irritable bowel syndrome,F,19.1196785,NA,NA
+SRR18588309,PRJNA812699,USA,North America,Los Angeles,Asian,22,Mediterranean,Irritable bowel syndrome,F,19.1196785,NA,NA
+SRR18588310,PRJNA812699,USA,North America,Los Angeles,Asian,22,Mediterranean,Irritable bowel syndrome,F,19.1196785,NA,NA
+SRR18588311,PRJNA812699,USA,North America,Los Angeles,Asian,19,Modified_American,Irritable bowel syndrome,M,24.20798874,NA,NA
+SRR18588312,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,21,Pescetarian,Control,F,24.48120308,NA,NA
+SRR18588313,PRJNA812699,USA,North America,Los Angeles,Hispanic,24,,Irritable bowel syndrome,F,29,NA,NA
+SRR18588314,PRJNA812699,USA,North America,Los Angeles,Hispanic,24,,Irritable bowel syndrome,F,29,NA,NA
+SRR18588315,PRJNA812699,USA,North America,Los Angeles,Hispanic,24,,Irritable bowel syndrome,F,29,NA,NA
+SRR18588316,PRJNA812699,USA,North America,Los Angeles,Black,57,,Irritable bowel syndrome,F,26,NA,NA
+SRR18588317,PRJNA812699,USA,North America,Los Angeles,Black,57,,Irritable bowel syndrome,F,26,NA,NA
+SRR18588318,PRJNA812699,USA,North America,Los Angeles,Black,57,,Irritable bowel syndrome,F,26,NA,NA
+SRR18588319,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,49,,Irritable bowel syndrome,F,25,NA,NA
+SRR18588320,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,49,,Irritable bowel syndrome,F,25,NA,NA
+SRR18588321,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,53,Standard_American,Irritable bowel syndrome,F,39.90000153,NA,NA
+SRR18588322,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,58,Modified_American,Irritable bowel syndrome,F,25.39999962,NA,NA
+SRR18588323,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,58,Modified_American,Irritable bowel syndrome,F,25.39999962,NA,NA
+SRR18588324,PRJNA812699,USA,North America,Los Angeles,Hispanic,44,Gluten_free,Control,F,25.59423065,NA,NA
+SRR18588325,PRJNA812699,USA,North America,Los Angeles,Multiracial,20,Modified_American,Control,F,27.74187851,NA,NA
+SRR18588326,PRJNA812699,USA,North America,Los Angeles,Black,20,Modified_American,Control,F,35.11959457,NA,NA
+SRR18588327,PRJNA812699,USA,North America,Los Angeles,Multiracial,27,Gluten_free,Irritable bowel syndrome,F,35.01269531,NA,NA
+SRR18588328,PRJNA812699,USA,North America,Los Angeles,Multiracial,32,Pescetarian,Control,F,29.88847923,NA,NA
+SRR18588329,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Gluten_free,Irritable bowel syndrome,F,25.2377739,NA,NA
+SRR18588330,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,33,Mediterranean,Control,F,25.27993011,NA,NA
+SRR18588331,PRJNA812699,USA,North America,Los Angeles,Asian,19,Modified_American,Control,M,29.56032753,NA,NA
+SRR18588332,PRJNA812699,USA,North America,Los Angeles,Hispanic,27,Mediterranean,Control,M,27.71545982,NA,NA
+SRR18588333,PRJNA812699,USA,North America,Los Angeles,Multiracial,32,Standard_American,Control,M,34.79986572,NA,NA
+SRR18588334,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Modified_American,Control,F,31.66589355,NA,NA
+SRR18588335,PRJNA812699,USA,North America,Los Angeles,Hispanic,44,Modified_American,Control,M,32.13946915,NA,NA
+SRR18588336,PRJNA812699,USA,North America,Los Angeles,Black,20,Standard_American,Control,M,31.73756981,NA,NA
+SRR18588337,PRJNA812699,USA,North America,Los Angeles,Asian,27,Modified_American,Control,F,24.3821907,NA,NA
+SRR18588338,PRJNA812699,USA,North America,Los Angeles,Black,41,Standard_American,Control,F,32.31847382,NA,NA
+SRR18588339,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,50,Gluten_free,Control,M,31.46947289,NA,NA
+SRR18588340,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Gluten_free,Irritable bowel syndrome,F,25,NA,NA
+SRR18588341,PRJNA812699,USA,North America,Los Angeles,Multiracial,19,Standard_American,Control,F,33.38645935,NA,NA
+SRR18588342,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,24,Modified_American,Control,F,26.18120766,NA,NA
+SRR18588343,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,25,Standard_American,Control,M,33.67993927,NA,NA
+SRR18588344,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,26,Mediterranean,Control,M,26.87863541,NA,NA
+SRR18588345,PRJNA812699,USA,North America,Los Angeles,Hispanic,23,Modified_American,Control,M,26.99459076,NA,NA
+SRR18588346,PRJNA812699,USA,North America,Los Angeles,Multiracial,20,Pescetarian,Control,F,25.7008152,NA,NA
+SRR18588347,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,45,Standard_American,Control,M,33.83707428,NA,NA
+SRR18588348,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,30,Modified_American,Control,M,27.87569618,NA,NA
+SRR18588349,PRJNA812699,USA,North America,Los Angeles,Hispanic,27,Modified_American,Control,M,29.63462067,NA,NA
+SRR18588350,PRJNA812699,USA,North America,Los Angeles,Hispanic,21,Standard_American,Control,F,32.49370575,NA,NA
+SRR18588351,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Gluten_free,Irritable bowel syndrome,F,25.2377739,NA,NA
+SRR18588352,PRJNA812699,USA,North America,Los Angeles,Hispanic,32,Standard_American,Control,M,37.23487473,NA,NA
+SRR18588353,PRJNA812699,USA,North America,Los Angeles,Hispanic,48,Modified_American,Irritable bowel syndrome,F,22.01007843,NA,NA
+SRR18588354,PRJNA812699,USA,North America,Los Angeles,Hispanic,48,Modified_American,Irritable bowel syndrome,F,22.01007843,NA,NA
+SRR18588355,PRJNA812699,USA,North America,Los Angeles,Hispanic,34,Modified_American,Irritable bowel syndrome,F,22,NA,NA
+SRR18588356,PRJNA812699,USA,North America,Los Angeles,Multiracial,28,,Irritable bowel syndrome,F,25,NA,NA
+SRR18588357,PRJNA812699,USA,North America,Los Angeles,Black,33,,Irritable bowel syndrome,F,29,NA,NA
+SRR18588358,PRJNA812699,USA,North America,Los Angeles,Hispanic,24,,Control,M,22.89999962,NA,NA
+SRR18588359,PRJNA812699,USA,North America,Los Angeles,Hispanic,27,Modified_American,Irritable bowel syndrome,F,24.15982628,NA,NA
+SRR18588360,PRJNA812699,USA,North America,Los Angeles,Hispanic,26,Mediterranean,Irritable bowel syndrome,F,25.27930641,NA,NA
+SRR18588361,PRJNA812699,USA,North America,Los Angeles,Multiracial,24,Modified_American,Irritable bowel syndrome,F,32.94898987,NA,NA
+SRR18588362,PRJNA812699,USA,North America,Los Angeles,Hispanic,23,Modified_American,Irritable bowel syndrome,F,24.50624275,NA,NA
+SRR18588363,PRJNA812699,USA,North America,Los Angeles,Hispanic,26,Lactose_free,Irritable bowel syndrome,F,22.72784042,NA,NA
+SRR18588364,PRJNA812699,USA,North America,Los Angeles,Black,50,Standard_American,Irritable bowel syndrome,F,37.8345871,NA,NA
+SRR18588365,PRJNA812699,USA,North America,Los Angeles,Black,50,Standard_American,Irritable bowel syndrome,F,37.8345871,NA,NA
+SRR18588366,PRJNA812699,USA,North America,Los Angeles,Black,43,Lactose_free,Irritable bowel syndrome,M,24.90198517,NA,NA
+SRR18588367,PRJNA812699,USA,North America,Los Angeles,Black,43,Lactose_free,Irritable bowel syndrome,M,24.90198517,NA,NA
+SRR18588368,PRJNA812699,USA,North America,Los Angeles,Black,44,Lactose_free,Irritable bowel syndrome,M,23.24185181,NA,NA
+SRR18588369,PRJNA812699,USA,North America,Los Angeles,Hispanic,36,,Irritable bowel syndrome,F,20.54623413,NA,NA
+SRR18588370,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,45,Vegetarian,Irritable bowel syndrome,F,19.54084778,NA,NA
+SRR18588371,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,35,Gluten_free,Irritable bowel syndrome,F,20.33471107,NA,NA
+SRR18588372,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,35,Gluten_free,Irritable bowel syndrome,F,20.33471107,NA,NA
+SRR18588373,PRJNA812699,USA,North America,Los Angeles,Asian,26,Pescetarian,Irritable bowel syndrome,F,25.85991478,NA,NA
+SRR18588374,PRJNA812699,USA,North America,Los Angeles,Asian,26,Pescetarian,Irritable bowel syndrome,F,25.85991478,NA,NA
+SRR18588375,PRJNA812699,USA,North America,Los Angeles,Asian,26,Pescetarian,Irritable bowel syndrome,F,25.85991478,NA,NA
+SRR18588376,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,44,Gluten_free,Irritable bowel syndrome,F,25.73322678,NA,NA
+SRR18588377,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,44,Gluten_free,Irritable bowel syndrome,F,25.73322678,NA,NA
+SRR18588378,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,44,Gluten_free,Irritable bowel syndrome,F,25.73322678,NA,NA
+SRR18588379,PRJNA812699,USA,North America,Los Angeles,Black,34,Modified_American,Irritable bowel syndrome,F,28.20679092,NA,NA
+SRR18588380,PRJNA812699,USA,North America,Los Angeles,Hispanic,28,,Irritable bowel syndrome,F,21,NA,NA
+SRR18588381,PRJNA812699,USA,North America,Los Angeles,Multiracial,24,Gluten_free,Irritable bowel syndrome,F,23,NA,NA
+SRR18588382,PRJNA812699,USA,North America,Los Angeles,Multiracial,24,Gluten_free,Irritable bowel syndrome,F,22.15160561,NA,NA
+SRR18588383,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,25,,Irritable bowel syndrome,F,25,NA,NA
+SRR18588384,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,55,,Irritable bowel syndrome,F,23,NA,NA
+SRR18588385,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,52,Lactose_free,Irritable bowel syndrome,M,25.46969604,NA,NA
+SRR18588386,PRJNA812699,USA,North America,Los Angeles,Hispanic,40,Modified_American,Irritable bowel syndrome,F,30.61585808,NA,NA
+SRR18588387,PRJNA812699,USA,North America,Los Angeles,Hispanic,40,Modified_American,Irritable bowel syndrome,F,30.61585808,NA,NA
+SRR18588388,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,41,,Irritable bowel syndrome,F,26,NA,NA
+SRR18588389,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,33,Lactose_free,Irritable bowel syndrome,F,24.14047813,NA,NA
+SRR18588390,PRJNA812699,USA,North America,Los Angeles,Hispanic,21,Modified_American,Irritable bowel syndrome,M,25.01492119,NA,NA
+SRR18588391,PRJNA812699,USA,North America,Los Angeles,Black,45,Standard_American,Irritable bowel syndrome,F,35.18432617,NA,NA
+SRR18588392,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,30,Modified_American,Irritable bowel syndrome,M,26.4674015,NA,NA
+SRR18588393,PRJNA812699,USA,North America,Los Angeles,Asian,51,Standard_American,Control,M,32.43870544,NA,NA
+SRR18588394,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,54,Vegetarian,Irritable bowel syndrome,F,25.21460724,NA,NA
+SRR18588395,PRJNA812699,USA,North America,Los Angeles,Hispanic,19,Modified_American,Control,M,20.68828583,NA,NA
+SRR18588396,PRJNA812699,USA,North America,Los Angeles,Hispanic,34,,Irritable bowel syndrome,F,22,NA,NA
+SRR18588397,PRJNA812699,USA,North America,Los Angeles,Black,52,Lactose_free,Control,M,29.26582527,NA,NA
+SRR18588398,PRJNA812699,USA,North America,Los Angeles,Asian,21,Modified_American,Irritable bowel syndrome,F,22.30418396,NA,NA
+SRR18588399,PRJNA812699,USA,North America,Los Angeles,Asian,21,Modified_American,Irritable bowel syndrome,F,22.30418396,NA,NA
+SRR18588400,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,29,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588401,PRJNA812699,USA,North America,Los Angeles,Hispanic,40,Modified_American,Irritable bowel syndrome,F,28.3391552,NA,NA
+SRR18588402,PRJNA812699,USA,North America,Los Angeles,Hispanic,40,Modified_American,Irritable bowel syndrome,F,28.3391552,NA,NA
+SRR18588403,PRJNA812699,USA,North America,Los Angeles,Asian,33,,Irritable bowel syndrome,F,23.4089489,NA,NA
+SRR18588404,PRJNA812699,USA,North America,Los Angeles,Asian,43,Modified_American,Irritable bowel syndrome,F,20.16412926,NA,NA
+SRR18588405,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,29,Gluten_free,Irritable bowel syndrome,F,20.63242531,NA,NA
+SRR18588406,PRJNA812699,USA,North America,Los Angeles,Hispanic,28,Standard_American,Irritable bowel syndrome,F,23,NA,NA
+SRR18588407,PRJNA812699,USA,North America,Los Angeles,Hispanic,25,Modified_American,Irritable bowel syndrome,M,23.30957222,NA,NA
+SRR18588408,PRJNA812699,USA,North America,Los Angeles,Hispanic,25,Vegetarian,Irritable bowel syndrome,M,23.30957222,NA,NA
+SRR18588409,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,32,Standard_American,Irritable bowel syndrome,M,24.54433632,NA,NA
+SRR18588410,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,32,Standard_American,Irritable bowel syndrome,M,24.54433632,NA,NA
+SRR18588411,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,29,Vegetarian,Irritable bowel syndrome,F,24.16286659,NA,NA
+SRR18588412,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,29,Vegetarian,Irritable bowel syndrome,F,24.16286659,NA,NA
+SRR18588413,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,42,Mediterranean,Irritable bowel syndrome,F,26.43115234,NA,NA
+SRR18588414,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,42,Mediterranean,Irritable bowel syndrome,F,26.43115234,NA,NA
+SRR18588415,PRJNA812699,USA,North America,Los Angeles,Hispanic,29,Lactose_free,Irritable bowel syndrome,F,25.04286957,NA,NA
+SRR18588416,PRJNA812699,USA,North America,Los Angeles,Asian,18,Mediterranean,Irritable bowel syndrome,F,20,NA,NA
+SRR18588417,PRJNA812699,USA,North America,Los Angeles,Asian,31,,Control,M,20.5,NA,NA
+SRR18588418,PRJNA812699,USA,North America,Los Angeles,Black,44,Modified_American,Irritable bowel syndrome,F,27.99887085,NA,NA
+SRR18588419,PRJNA812699,USA,North America,Los Angeles,Asian,40,,Control,M,23.9,NA,NA
+SRR18588420,PRJNA812699,USA,North America,Los Angeles,Black,38,,Control,M,20.9,NA,NA
+SRR18588421,PRJNA812699,USA,North America,Los Angeles,Asian,31,,Control,F,22.8,NA,NA
+SRR18588422,PRJNA812699,USA,North America,Los Angeles,Black,38,,Control,F,20.8,NA,NA
+SRR18588423,PRJNA812699,USA,North America,Los Angeles,Black,38,,Control,F,22.7,NA,NA
+SRR18588424,PRJNA812699,USA,North America,Los Angeles,Black,31,,Control,F,21.1,NA,NA
+SRR18588425,PRJNA812699,USA,North America,Los Angeles,Black,38,,Control,F,24.9,NA,NA
+SRR18588426,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,38,,Control,M,20.8,NA,NA
+SRR18588427,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,38,,Control,F,21.2,NA,NA
+SRR18588428,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,38,,Control,F,23.5,NA,NA
+SRR18588429,PRJNA812699,USA,North America,Los Angeles,Black,44,Modified_American,Irritable bowel syndrome,F,27.99887085,NA,NA
+SRR18588430,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,38,,Control,M,25.1,NA,NA
+SRR18588431,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,38,,Control,M,24.7,NA,NA
+SRR18588432,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,28,,Control,M,22.9,NA,NA
+SRR18588433,PRJNA812699,USA,North America,Los Angeles,Black,38,,Control,M,24.3,NA,NA
+SRR18588434,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,38,,Control,M,20.2,NA,NA
+SRR18588435,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,30,,Control,M,26.8,NA,NA
+SRR18588436,PRJNA812699,USA,North America,Los Angeles,Black,38,,Control,F,23.4,NA,NA
+SRR18588437,PRJNA812699,USA,North America,Los Angeles,Multiracial,35,,Control,F,25.3,NA,NA
+SRR18588438,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,22,Pescetarian,Irritable bowel syndrome,F,20.72335625,NA,NA
+SRR18588439,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,45,Gluten_free,Irritable bowel syndrome,M,23.51469421,NA,NA
+SRR18588440,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Gluten_free,Irritable bowel syndrome,F,24.00773048,NA,NA
+SRR18588441,PRJNA812699,USA,North America,Los Angeles,Multiracial,33,Vegan,Irritable bowel syndrome,F,21.96321487,NA,NA
+SRR18588442,PRJNA812699,USA,North America,Los Angeles,Hispanic,28,Modified_American,Irritable bowel syndrome,F,20.61558723,NA,NA
+SRR18588443,PRJNA812699,USA,North America,Los Angeles,Hispanic,60,Modified_American,Irritable bowel syndrome,M,26.54530716,NA,NA
+SRR18588444,PRJNA812699,USA,North America,Los Angeles,Asian,29,Modified_American,Control,M,16.91334343,NA,NA
+SRR18588445,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,25,Lactose_free,Irritable bowel syndrome,F,20.85314941,NA,NA
+SRR18588446,PRJNA812699,USA,North America,Los Angeles,Asian,38,Standard_American,Control,M,23.89248466,NA,NA
+SRR18588447,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,55,Mediterranean,Irritable bowel syndrome,F,30.38137627,NA,NA
+SRR18588448,PRJNA812699,USA,North America,Los Angeles,Hispanic,22,Standard_American,Control,M,35.01269531,NA,NA
+SRR18588449,PRJNA812699,USA,North America,Los Angeles,Asian,42,Modified_American,Control,M,29.12428665,NA,NA
+SRR18588450,PRJNA812699,USA,North America,Los Angeles,Hispanic,23,Standard_American,Control,M,37.42843628,NA,NA
+SRR18588451,PRJNA812699,USA,North America,Los Angeles,Multiracial,39,Lactose_free,Irritable bowel syndrome,M,22.99549675,NA,NA
+SRR18588452,PRJNA812699,USA,North America,Los Angeles,Hispanic,37,Modified_American,Control,F,38.82529449,NA,NA
+SRR18588453,PRJNA812699,USA,North America,Los Angeles,Hispanic,32,Modified_American,Control,M,37.5638504,NA,NA
+SRR18588454,PRJNA812699,USA,North America,Los Angeles,Hispanic,25,Gluten_free,Irritable bowel syndrome,F,20.46603584,NA,NA
+SRR18588455,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Gluten_free,Irritable bowel syndrome,F,23.17754555,NA,NA
+SRR18588456,PRJNA812699,USA,North America,Los Angeles,Hispanic,23,Vegan,Irritable bowel syndrome,F,20.28902435,NA,NA
+SRR18588457,PRJNA812699,USA,North America,Los Angeles,Multiracial,18,Paleo,Irritable bowel syndrome,F,21.9219532,NA,NA
+SRR18588458,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Gluten_free,Irritable bowel syndrome,F,25.45775223,NA,NA
+SRR18588459,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,51,Lactose_free,Irritable bowel syndrome,M,21.89999962,NA,NA
+SRR18588460,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,51,Lactose_free,Irritable bowel syndrome,M,21.89999962,NA,NA
+SRR18588461,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,37,Modified_American,Irritable bowel syndrome,F,29.61751556,NA,NA
+SRR18588462,PRJNA812699,USA,North America,Buffalo,Black,69,,Irritable bowel syndrome,F,18.60000038,NA,NA
+SRR18588463,PRJNA812699,USA,North America,Buffalo,Black,69,,Irritable bowel syndrome,F,18.60000038,NA,NA
+SRR18588464,PRJNA812699,USA,North America,Buffalo,Hispanic,41,Mediterranean,Irritable bowel syndrome,F,25.10000038,NA,NA
+SRR18588465,PRJNA812699,USA,North America,Buffalo,Hispanic,41,Mediterranean,Irritable bowel syndrome,F,25.10000038,NA,NA
+SRR18588466,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,51,Standard_American,Irritable bowel syndrome,M,27.10000038,NA,NA
+SRR18588467,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,51,Standard_American,Irritable bowel syndrome,M,27.10000038,NA,NA
+SRR18588468,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,44,Modified_American,Control,M,25.23730278,NA,NA
+SRR18588469,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,22,Vegetarian,Control,F,39.49578857,NA,NA
+SRR18588470,PRJNA812699,USA,North America,Los Angeles,Hispanic,22,Mediterranean,Control,F,29.48440361,NA,NA
+SRR18588471,PRJNA812699,USA,North America,Los Angeles,Hispanic,31,Standard_American,Control,F,31.8804245,NA,NA
+SRR18588472,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,28,Paleo,Control,F,27.18821144,NA,NA
+SRR18588473,PRJNA812699,USA,North America,Los Angeles,Hispanic,47,Modified_American,Control,F,32.23633194,NA,NA
+SRR18588474,PRJNA812699,USA,North America,Los Angeles,Multiracial,26,Standard_American,Control,F,35.04184723,NA,NA
+SRR18588475,PRJNA812699,USA,North America,Los Angeles,Black,32,Modified_American,Control,F,43.70678329,NA,NA
+SRR18588476,PRJNA812699,USA,North America,Los Angeles,Black,54,Standard_American,Control,F,34.6986618,NA,NA
+SRR18588477,PRJNA812699,USA,North America,Los Angeles,Hispanic,33,Modified_American,Control,F,30.99647331,NA,NA
+SRR18588478,PRJNA812699,USA,North America,Los Angeles,Multiracial,22,Modified_American,Control,F,34.10175323,NA,NA
+SRR18588479,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,22,Modified_American,Control,M,28.58857346,NA,NA
+SRR18588480,PRJNA812699,USA,North America,Los Angeles,Hispanic,25,Modified_American,Control,F,32.50688553,NA,NA
+SRR18588481,PRJNA812699,USA,North America,Los Angeles,Hispanic,28,Modified_American,Control,M,30.66345215,NA,NA
+SRR18588482,PRJNA812699,USA,North America,Los Angeles,Multiracial,23,Modified_American,Control,M,30.67488289,NA,NA
+SRR18588483,PRJNA812699,USA,North America,Los Angeles,Hispanic,34,Standard_American,Control,F,29.2611866,NA,NA
+SRR18588484,PRJNA812699,USA,North America,Los Angeles,Asian,30,Standard_American,Control,F,33.94458008,NA,NA
+SRR18588485,PRJNA812699,USA,North America,Los Angeles,Hispanic,18,Modified_American,Control,M,29.41984749,NA,NA
+SRR18588486,PRJNA812699,USA,North America,Los Angeles,Asian,45,Modified_American,Control,F,27.38489151,NA,NA
+SRR18588487,PRJNA812699,USA,North America,Los Angeles,Asian,45,Modified_American,Control,F,25.32464027,NA,NA
+SRR18588488,PRJNA812699,USA,North America,Los Angeles,Hispanic,31,Standard_American,Control,F,39.10026169,NA,NA
+SRR18588489,PRJNA812699,USA,North America,Los Angeles,Hispanic,38,Gluten_free,Control,F,31.97105789,NA,NA
+SRR18588490,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,24,Modified_American,Irritable bowel syndrome,F,19.01977158,NA,NA
+SRR18588491,PRJNA812699,USA,North America,Los Angeles,Hispanic,41,Standard_American,Control,F,42.06295395,NA,NA
+SRR18588492,PRJNA812699,USA,North America,Los Angeles,Hispanic,51,Standard_American,Control,F,28.47500801,NA,NA
+SRR18588493,PRJNA812699,USA,North America,Los Angeles,Black,37,Modified_American,Control,F,36.40000153,NA,NA
+SRR18588494,PRJNA812699,USA,North America,Los Angeles,Multiracial,34,Modified_American,Control,F,25.95541,NA,NA
+SRR18588495,PRJNA812699,USA,North America,Los Angeles,Asian,40,Standard_American,Control,F,25.87285423,NA,NA
+SRR18588496,PRJNA812699,USA,North America,Los Angeles,Hispanic,30,Modified_American,Control,F,32.34347153,NA,NA
+SRR18588497,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,28,Mediterranean,Control,M,29.52478218,NA,NA
+SRR18588498,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,34,Standard_American,Control,F,47.53992081,NA,NA
+SRR18588499,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,28,Mediterranean,Control,F,26.54197884,NA,NA
+SRR18588500,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,35,Mediterranean,Control,F,27.29460907,NA,NA
+SRR18588501,PRJNA812699,USA,North America,Los Angeles,Hispanic,60,Mediterranean,Control,M,33.14316559,NA,NA
+SRR18588502,PRJNA812699,USA,North America,Los Angeles,Black,49,Lactose_free,Irritable bowel syndrome,F,26.62285614,NA,NA
+SRR18588503,PRJNA812699,USA,North America,Los Angeles,Black,20,Standard_American,Control,M,23.62162209,NA,NA
+SRR18588504,PRJNA812699,USA,North America,Los Angeles,Multiracial,19,FODMAPS,Irritable bowel syndrome,F,22.62911224,NA,NA
+SRR18588505,PRJNA812699,USA,North America,Los Angeles,Asian,19,Lactose_free,Irritable bowel syndrome,M,24.8535347,NA,NA
+SRR18588506,PRJNA812699,USA,North America,Los Angeles,Native_American,50,Standard_American,Irritable bowel syndrome,M,29.28473282,NA,NA
+SRR18588507,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,21,FODMAPS,Control,M,29.73722076,NA,NA
+SRR18588508,PRJNA812699,USA,North America,Los Angeles,Asian,34,Lactose_free,Irritable bowel syndrome,F,24.79717827,NA,NA
+SRR18588509,PRJNA812699,USA,North America,Los Angeles,Black,19,Lactose_free,Irritable bowel syndrome,F,20.96520805,NA,NA
+SRR18588510,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,26,Pescetarian,Irritable bowel syndrome,M,22.64679718,NA,NA
+SRR18588511,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,22,Lactose_free,Control,F,19.00410843,NA,NA
+SRR18588512,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,36,Vegetarian,Control,F,21.63076973,NA,NA
+SRR18588513,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,33,Modified_American,Irritable bowel syndrome,F,20.0737648,NA,NA
+SRR18588514,PRJNA812699,USA,North America,Los Angeles,Hispanic,20,Standard_American,Irritable bowel syndrome,F,20.78204727,NA,NA
+SRR18588515,PRJNA812699,USA,North America,Los Angeles,Hispanic,21,Gluten_free,Irritable bowel syndrome,F,25.01555252,NA,NA
+SRR18588516,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,60,Mediterranean,Irritable bowel syndrome,M,25.32857895,NA,NA
+SRR18588517,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,29,Lactose_free,Irritable bowel syndrome,M,22.29442596,NA,NA
+SRR18588518,PRJNA812699,USA,North America,Los Angeles,Hispanic,24,Lactose_free,Irritable bowel syndrome,F,23.00593185,NA,NA
+SRR18588519,PRJNA812699,USA,North America,Los Angeles,Asian,22,Modified_American,Control,F,18.80212975,NA,NA
+SRR18588520,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,23,Modified_American,Irritable bowel syndrome,F,23.29467392,NA,NA
+SRR18588521,PRJNA812699,USA,North America,Los Angeles,Black,31,Modified_American,Control,F,24.53326607,NA,NA
+SRR18588522,PRJNA812699,USA,North America,Los Angeles,Black,24,Modified_American,Control,F,26.09117889,NA,NA
+SRR18588523,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,51,Vegetarian,Control,M,23.14403343,NA,NA
+SRR18588524,PRJNA812699,USA,North America,Los Angeles,Hispanic,20,,Control,F,21,NA,NA
+SRR18588525,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,31,Modified_American,Control,M,25.1071434,NA,NA
+SRR18588526,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,34,Modified_American,Control,F,29.31012344,NA,NA
+SRR18588527,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,26,Standard_American,Irritable bowel syndrome,M,22.69018555,NA,NA
+SRR18588528,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,26,Standard_American,Irritable bowel syndrome,M,22.69018555,NA,NA
+SRR18588529,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,28,Modified_American,Control,F,34.55198669,NA,NA
+SRR18588530,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,33,Gluten_free,Irritable bowel syndrome,M,25.84016037,NA,NA
+SRR18588531,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,33,Gluten_free,Irritable bowel syndrome,M,25.84016037,NA,NA
+SRR18588532,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,39,Standard_American,Irritable bowel syndrome,M,28.54291153,NA,NA
+SRR18588533,PRJNA812699,USA,North America,Los Angeles,Hispanic,27,Standard_American,Irritable bowel syndrome,M,22.10185623,NA,NA
+SRR18588534,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,24,,Irritable bowel syndrome,F,27,NA,NA
+SRR18588535,PRJNA812699,USA,North America,Los Angeles,Multiracial,41,Modified_American,Irritable bowel syndrome,F,19.09476662,NA,NA
+SRR18588536,PRJNA812699,USA,North America,Los Angeles,Multiracial,41,Modified_American,Irritable bowel syndrome,F,19.09476662,NA,NA
+SRR18588537,PRJNA812699,USA,North America,Los Angeles,Hispanic,24,,Irritable bowel syndrome,F,18,NA,NA
+SRR18588538,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,25,Modified_American,Control,F,32.19415283,NA,NA
+SRR18588539,PRJNA812699,USA,North America,Los Angeles,Asian,29,Vegetarian,Control,F,30.55897903,NA,NA
+SRR18588540,PRJNA812699,USA,North America,Los Angeles,Hispanic,29,Standard_American,Irritable bowel syndrome,M,23.6207428,NA,NA
+SRR18588541,PRJNA812699,USA,North America,Los Angeles,Hispanic,29,Standard_American,Irritable bowel syndrome,M,24.30536652,NA,NA
+SRR18588542,PRJNA812699,USA,North America,Los Angeles,Asian,28,,Irritable bowel syndrome,M,20.82518959,NA,NA
+SRR18588543,PRJNA812699,USA,North America,Los Angeles,Hispanic,29,Standard_American,Irritable bowel syndrome,M,23.6207428,NA,NA
+SRR18588544,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,54,Modified_American,Irritable bowel syndrome,M,26.71985626,NA,NA
+SRR18588545,PRJNA812699,USA,North America,Los Angeles,Black,19,Pescetarian,Control,F,30.7598381,NA,NA
+SRR18588546,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,34,,Irritable bowel syndrome,F,21,NA,NA
+SRR18588547,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,25,Modified_American,Control,M,23.62318611,NA,NA
+SRR18588548,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,21,Modified_American,Control,M,25.39718628,NA,NA
+SRR18588549,PRJNA812699,USA,North America,Los Angeles,Asian,21,Paleo,Control,M,23.70156288,NA,NA
+SRR18588550,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,52,Modified_American,Control,F,33.79973221,NA,NA
+SRR18588551,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Standard_American,Control,M,22.64679718,NA,NA
+SRR18588552,PRJNA812699,USA,North America,Los Angeles,Black,32,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588553,PRJNA812699,USA,North America,Los Angeles,Black,21,,Irritable bowel syndrome,F,21,NA,NA
+SRR18588554,PRJNA812699,USA,North America,Los Angeles,Multiracial,27,Modified_American,Control,M,37.33903885,NA,NA
+SRR18588555,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,32,,Irritable bowel syndrome,F,30,NA,NA
+SRR18588556,PRJNA812699,USA,North America,Los Angeles,Hispanic,27,Mediterranean,Control,F,18.92832947,NA,NA
+SRR18588557,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,29,Mediterranean,Control,F,33.39936447,NA,NA
+SRR18588558,PRJNA812699,USA,North America,Los Angeles,Hispanic,28,Standard_American,Irritable bowel syndrome,F,21.11687279,NA,NA
+SRR18588559,PRJNA812699,USA,North America,Los Angeles,Hispanic,33,Standard_American,Control,F,25.51628685,NA,NA
+SRR18588560,PRJNA812699,USA,North America,Los Angeles,Hispanic,32,Standard_American,Irritable bowel syndrome,M,32.00286865,NA,NA
+SRR18588561,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,29,Gluten_free,Irritable bowel syndrome,M,22.14829063,NA,NA
+SRR18588562,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,24,Modified_American,Control,M,27.36135483,NA,NA
+SRR18588563,PRJNA812699,USA,North America,Los Angeles,Asian,30,Lactose_free,Irritable bowel syndrome,M,16.59168816,NA,NA
+SRR18588564,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,18,Modified_American,Irritable bowel syndrome,F,25,NA,NA
+SRR18588565,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,18,Modified_American,Irritable bowel syndrome,F,25.45427513,NA,NA
+SRR18588566,PRJNA812699,USA,North America,Los Angeles,Asian,20,Modified_American,Irritable bowel syndrome,F,21.98827744,NA,NA
+SRR18588567,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,21,Modified_American,Irritable bowel syndrome,M,24.16417313,NA,NA
+SRR18588568,PRJNA812699,USA,North America,Los Angeles,Multiracial,29,Pescetarian,Control,F,20.90047836,NA,NA
+SRR18588569,PRJNA812699,USA,North America,Los Angeles,Multiracial,24,Gluten_free,Irritable bowel syndrome,F,19,NA,NA
+SRR18588570,PRJNA812699,USA,North America,Los Angeles,Multiracial,24,Gluten_free,Irritable bowel syndrome,F,18.79260445,NA,NA
+SRR18588571,PRJNA812699,USA,North America,Los Angeles,Hispanic,23,Modified_American,Irritable bowel syndrome,M,25.49546623,NA,NA
+SRR18588572,PRJNA812699,USA,North America,Los Angeles,Hispanic,23,Modified_American,Irritable bowel syndrome,M,25.49546623,NA,NA
+SRR18588573,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,26,Gluten_free,Control,M,26.01734924,NA,NA
+SRR18588574,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,26,FODMAPS,Irritable bowel syndrome,F,19.96686363,NA,NA
+SRR18588575,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,26,FODMAPS,Irritable bowel syndrome,F,19.96686363,NA,NA
+SRR18588576,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,24,Vegetarian,Control,F,19.05102539,NA,NA
+SRR18588577,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,21,Standard_American,Irritable bowel syndrome,F,20.21526527,NA,NA
+SRR18588578,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,21,Standard_American,Irritable bowel syndrome,F,20.21526527,NA,NA
+SRR18588579,PRJNA812699,USA,North America,Los Angeles,Asian,22,,Control,M,24.10000038,NA,NA
+SRR18588580,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,27,Gluten_free,Irritable bowel syndrome,F,22.59412384,NA,NA
+SRR18588581,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,45,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588582,PRJNA812699,USA,North America,Los Angeles,Hispanic,30,,Irritable bowel syndrome,F,27,NA,NA
+SRR18588583,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,38,,Irritable bowel syndrome,F,25,NA,NA
+SRR18588584,PRJNA812699,USA,North America,Los Angeles,Black,51,Modified_American,Irritable bowel syndrome,M,36.61637878,NA,NA
+SRR18588585,PRJNA812699,USA,North America,Los Angeles,Black,52,Standard_American,Irritable bowel syndrome,M,36.67636108,NA,NA
+SRR18588586,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,28,,Irritable bowel syndrome,F,23,NA,NA
+SRR18588587,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,26,Modified_American,Irritable bowel syndrome,F,23.7317276,NA,NA
+SRR18588588,PRJNA812699,USA,North America,Los Angeles,Hispanic,25,,Irritable bowel syndrome,F,25,NA,NA
+SRR18588589,PRJNA812699,USA,North America,Los Angeles,Black,52,Mediterranean,Irritable bowel syndrome,F,23.93819809,NA,NA
+SRR18588590,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,32,,Control,F,22.10000038,NA,NA
+SRR18588591,PRJNA812699,USA,North America,Los Angeles,Black,52,Mediterranean,Irritable bowel syndrome,F,23.93819809,NA,NA
+SRR18588592,PRJNA812699,USA,North America,Los Angeles,Hispanic,43,Standard_American,Control,M,32.3564415,NA,NA
+SRR18588593,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,31,FODMAPS,Irritable bowel syndrome,F,22,NA,NA
+SRR18588594,PRJNA812699,USA,North America,Los Angeles,Hispanic,31,FODMAPS,Irritable bowel syndrome,F,19.52656746,NA,NA
+SRR18588595,PRJNA812699,USA,North America,Los Angeles,Asian,25,Modified_American,Irritable bowel syndrome,M,21.98395348,NA,NA
+SRR18588596,PRJNA812699,USA,North America,Los Angeles,Black,45,Modified_American,Irritable bowel syndrome,F,28,NA,NA
+SRR18588597,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,55,Vegan,Irritable bowel syndrome,F,19.20500374,NA,NA
+SRR18588598,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,55,Vegan,Irritable bowel syndrome,F,19.20500374,NA,NA
+SRR18588599,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,39,Modified_American,Irritable bowel syndrome,M,22.32103157,NA,NA
+SRR18588600,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,64,,Irritable bowel syndrome,F,27,NA,NA
+SRR18588601,PRJNA812699,USA,North America,Los Angeles,Asian,20,Modified_American,Irritable bowel syndrome,F,26.0790329,NA,NA
+SRR18588602,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,28,,Irritable bowel syndrome,F,28.69387817,NA,NA
+SRR18588603,PRJNA812699,USA,North America,Los Angeles,Asian,54,Modified_American,Irritable bowel syndrome,F,28.40815163,NA,NA
+SRR18588604,PRJNA812699,USA,North America,Los Angeles,Asian,54,Modified_American,Irritable bowel syndrome,F,28.40815163,NA,NA
+SRR18588605,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,46,Mediterranean,Control,M,27.31657219,NA,NA
+SRR18588606,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,32,,Irritable bowel syndrome,F,24,NA,NA
+SRR18588607,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,56,,Irritable bowel syndrome,F,0,NA,NA
+SRR18588608,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,21,,Irritable bowel syndrome,F,25,NA,NA
+SRR18588609,PRJNA812699,USA,North America,Los Angeles,Asian,23,,Irritable bowel syndrome,F,27,NA,NA
+SRR18588610,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Lactose_free,Irritable bowel syndrome,F,24.34958458,NA,NA
+SRR18588611,PRJNA812699,USA,North America,Los Angeles,Hispanic,18,Modified_American,Control,M,23.55767441,NA,NA
+SRR18588612,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,55,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588613,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,,Irritable bowel syndrome,F,22.99853516,NA,NA
+SRR18588614,PRJNA812699,USA,North America,Los Angeles,Asian,60,,Irritable bowel syndrome,F,26,NA,NA
+SRR18588615,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,26,Modified_American,Irritable bowel syndrome,F,20.52104187,NA,NA
+SRR18588616,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,26,Modified_American,Irritable bowel syndrome,F,20.52104187,NA,NA
+SRR18588617,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,26,Modified_American,Irritable bowel syndrome,F,20.52104187,NA,NA
+SRR18588618,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,22,,Irritable bowel syndrome,F,21,NA,NA
+SRR18588619,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,23,,Irritable bowel syndrome,F,19,NA,NA
+SRR18588620,PRJNA812699,USA,North America,Los Angeles,Hispanic,28,Mediterranean,Irritable bowel syndrome,F,23.92060471,NA,NA
+SRR18588621,PRJNA812699,USA,North America,Los Angeles,Hispanic,35,Gluten_free,Irritable bowel syndrome,F,26.61998558,NA,NA
+SRR18588622,PRJNA812699,USA,North America,Los Angeles,Hispanic,35,Gluten_free,Irritable bowel syndrome,F,26.61998558,NA,NA
+SRR18588623,PRJNA812699,USA,North America,Los Angeles,Hispanic,57,,Irritable bowel syndrome,F,24,NA,NA
+SRR18588624,PRJNA812699,USA,North America,Los Angeles,Multiracial,29,Modified_American,Irritable bowel syndrome,M,26.4674015,NA,NA
+SRR18588625,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,46,Gluten_free,Irritable bowel syndrome,F,23.45261955,NA,NA
+SRR18588626,PRJNA812699,USA,North America,Los Angeles,Hispanic,48,Standard_American,Irritable bowel syndrome,F,34.36180496,NA,NA
+SRR18588627,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,52,Lactose_free,Irritable bowel syndrome,M,25.46969604,NA,NA
+SRR18588628,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,56,Lactose_free,Irritable bowel syndrome,M,25.85540581,NA,NA
+SRR18588629,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,38,Lactose_free,Irritable bowel syndrome,M,34.06539536,NA,NA
+SRR18588630,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,38,Lactose_free,Irritable bowel syndrome,M,34.06539536,NA,NA
+SRR18588631,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,24,FODMAPS,Irritable bowel syndrome,F,26.25952148,NA,NA
+SRR18588632,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,24,FODMAPS,Irritable bowel syndrome,F,26.25952148,NA,NA
+SRR18588633,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,46,Gluten_free,Irritable bowel syndrome,F,19.79877472,NA,NA
+SRR18588634,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,46,Gluten_free,Irritable bowel syndrome,F,19.79877472,NA,NA
+SRR18588635,PRJNA812699,USA,North America,Los Angeles,Hispanic,20,Standard_American,Irritable bowel syndrome,F,25.74462891,NA,NA
+SRR18588636,PRJNA812699,USA,North America,Los Angeles,Hispanic,20,Standard_American,Irritable bowel syndrome,F,25.74462891,NA,NA
+SRR18588637,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,24,Modified_American,Control,M,31.22755241,NA,NA
+SRR18588638,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,24,,Irritable bowel syndrome,F,20.82850266,NA,NA
+SRR18588639,PRJNA812699,USA,North America,Los Angeles,Hispanic,24,Lactose_free,Irritable bowel syndrome,F,21.14167976,NA,NA
+SRR18588640,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,24,,Irritable bowel syndrome,F,20.82850266,NA,NA
+SRR18588641,PRJNA812699,USA,North America,Los Angeles,Hispanic,21,FODMAPS,Irritable bowel syndrome,F,21.28527832,NA,NA
+SRR18588642,PRJNA812699,USA,North America,Los Angeles,Hispanic,21,FODMAPS,Irritable bowel syndrome,F,21.28527832,NA,NA
+SRR18588643,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,32,Lactose_free,Irritable bowel syndrome,F,19.41902351,NA,NA
+SRR18588644,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,32,Lactose_free,Irritable bowel syndrome,F,19.41902351,NA,NA
+SRR18588645,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,34,Standard_American,Irritable bowel syndrome,M,22.23775482,NA,NA
+SRR18588646,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,34,Gluten_free,Irritable bowel syndrome,F,19.13491058,NA,NA
+SRR18588647,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,34,Gluten_free,Irritable bowel syndrome,F,19.13491058,NA,NA
+SRR18588648,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,47,Standard_American,Irritable bowel syndrome,F,40.45482635,NA,NA
+SRR18588649,PRJNA812699,USA,North America,Los Angeles,Asian,18,Vegetarian,Control,F,22.09666252,NA,NA
+SRR18588650,PRJNA812699,USA,North America,Los Angeles,Hispanic,24,Lactose_free,Irritable bowel syndrome,F,21.14167976,NA,NA
+SRR18588651,PRJNA812699,USA,North America,Los Angeles,Hispanic,26,Modified_American,Control,M,28.66226006,NA,NA
+SRR18588652,PRJNA812699,USA,North America,Los Angeles,Multiracial,38,Modified_American,Control,F,23.23849869,NA,NA
+SRR18588653,PRJNA812699,USA,North America,Los Angeles,Hispanic,23,Modified_American,Control,F,26.92265129,NA,NA
+SRR18588654,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,18,Pescetarian,Irritable bowel syndrome,F,25.33769608,NA,NA
+SRR18588655,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,19,Vegetarian,Irritable bowel syndrome,F,25,NA,NA
+SRR18588656,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,18,Vegetarian,Irritable bowel syndrome,F,21.88814163,NA,NA
+SRR18588657,PRJNA812699,USA,North America,Los Angeles,Asian,21,Modified_American,Control,M,17.89805222,NA,NA
+SRR18588658,PRJNA812699,USA,North America,Los Angeles,Hispanic,34,Modified_American,Irritable bowel syndrome,F,19.36639214,NA,NA
+SRR18588659,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,34,Modified_American,Irritable bowel syndrome,F,19.82915497,NA,NA
+SRR18588660,PRJNA812699,USA,North America,Los Angeles,Hispanic,30,Modified_American,Control,M,33.26206207,NA,NA
+SRR18588661,PRJNA812699,USA,North America,Los Angeles,Asian,28,Modified_American,Control,F,21.10583305,NA,NA
+SRR18588662,PRJNA812699,USA,North America,Los Angeles,Asian,20,Standard_American,Control,F,24.24137878,NA,NA
+SRR18588663,PRJNA812699,USA,North America,Los Angeles,Multiracial,27,Mediterranean,Control,F,37.0894928,NA,NA
+SRR18588664,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Standard_American,Irritable bowel syndrome,F,24.09488869,NA,NA
+SRR18588665,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Modified_American,Irritable bowel syndrome,F,22.17358398,NA,NA
+SRR18588666,PRJNA812699,USA,North America,Los Angeles,Asian,32,Mediterranean,Control,F,20.63242531,NA,NA
+SRR18588667,PRJNA812699,USA,North America,Los Angeles,Hispanic,18,Modified_American,Control,F,21.21985817,NA,NA
+SRR18588668,PRJNA812699,USA,North America,Los Angeles,Asian,20,Vegan,Control,F,22.70000076,NA,NA
+SRR18588669,PRJNA812699,USA,North America,Los Angeles,Asian,20,Modified_American,Control,F,20.90852356,NA,NA
+SRR18588670,PRJNA812699,USA,North America,Los Angeles,Asian,37,Modified_American,Irritable bowel syndrome,F,20.64634895,NA,NA
+SRR18588671,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,47,Paleo,Irritable bowel syndrome,F,27.19771767,NA,NA
+SRR18588672,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,47,Paleo,Irritable bowel syndrome,F,27.19771767,NA,NA
+SRR18588673,PRJNA812699,USA,North America,Los Angeles,Asian,22,Paleo,Irritable bowel syndrome,F,22.24661064,NA,NA
+SRR18588674,PRJNA812699,USA,North America,Los Angeles,Asian,20,Modified_American,Irritable bowel syndrome,F,21.48818016,NA,NA
+SRR18588675,PRJNA812699,USA,North America,Los Angeles,Hispanic,38,,Control,M,21.5,NA,NA
+SRR18588676,PRJNA812699,USA,North America,Los Angeles,Multiracial,32,,Control,M,24,NA,NA
+SRR18588677,PRJNA812699,USA,North America,Los Angeles,Hispanic,38,,Control,F,20,NA,NA
+SRR18588678,PRJNA812699,USA,North America,Los Angeles,Black,38,,Control,F,21.6,NA,NA
+SRR18588679,PRJNA812699,USA,North America,Los Angeles,Multiracial,32,,Control,F,24.5,NA,NA
+SRR18588680,PRJNA812699,USA,North America,Los Angeles,Asian,32,,Control,M,25.2,NA,NA
+SRR18588681,PRJNA812699,USA,North America,Los Angeles,Hispanic,34,Modified_American,Irritable bowel syndrome,F,19.36639214,NA,NA
+SRR18588682,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,52,Modified_American,Irritable bowel syndrome,M,29.99310303,NA,NA
+SRR18588683,PRJNA812699,USA,North America,Los Angeles,Hispanic,30,Modified_American,Control,F,29.33496857,NA,NA
+SRR18588684,PRJNA812699,USA,North America,Los Angeles,Hispanic,60,Mediterranean,Control,M,33.14316559,NA,NA
+SRR18588685,PRJNA812699,USA,North America,Los Angeles,Hispanic,26,Modified_American,Irritable bowel syndrome,F,40.16885757,NA,NA
+SRR18588686,PRJNA812699,USA,North America,Los Angeles,Asian,29,Modified_American,Irritable bowel syndrome,F,20.66854477,NA,NA
+SRR18588687,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,44,Modified_American,Control,M,25.23730278,NA,NA
+SRR18588688,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,22,Modified_American,Control,M,28.58857346,NA,NA
+SRR18588689,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,18,Modified_American,Irritable bowel syndrome,F,25.45427513,NA,NA
+SRR18588690,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,18,Modified_American,Irritable bowel syndrome,F,25.45427513,NA,NA
+SRR18588691,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,18,Modified_American,Irritable bowel syndrome,F,25.45427513,NA,NA
+SRR18588692,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,30,Modified_American,Irritable bowel syndrome,F,18.2366848,NA,NA
+SRR18588693,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,32,Modified_American,Irritable bowel syndrome,M,23.74341583,NA,NA
+SRR18588694,PRJNA812699,USA,North America,Los Angeles,Multiracial,24,Gluten_free,Irritable bowel syndrome,F,18.79260445,NA,NA
+SRR18588695,PRJNA812699,USA,North America,Los Angeles,Multiracial,24,Gluten_free,Irritable bowel syndrome,F,18.79260445,NA,NA
+SRR18588696,PRJNA812699,USA,North America,Los Angeles,Multiracial,24,Gluten_free,Irritable bowel syndrome,F,18.79260445,NA,NA
+SRR18588697,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,45,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588698,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,45,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588699,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,45,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588700,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,38,,Irritable bowel syndrome,F,25,NA,NA
+SRR18588701,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,38,,Irritable bowel syndrome,F,25,NA,NA
+SRR18588702,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,38,,Irritable bowel syndrome,F,25,NA,NA
+SRR18588703,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,28,,Irritable bowel syndrome,F,23,NA,NA
+SRR18588704,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,21,Modified_American,Irritable bowel syndrome,F,22.59502792,NA,NA
+SRR18588705,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,28,,Irritable bowel syndrome,F,23,NA,NA
+SRR18588706,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,28,,Irritable bowel syndrome,F,23,NA,NA
+SRR18588707,PRJNA812699,USA,North America,Los Angeles,Black,58,,Irritable bowel syndrome,F,29,NA,NA
+SRR18588708,PRJNA812699,USA,North America,Los Angeles,Black,58,,Irritable bowel syndrome,F,29,NA,NA
+SRR18588709,PRJNA812699,USA,North America,Los Angeles,Black,52,Mediterranean,Irritable bowel syndrome,F,23.93819809,NA,NA
+SRR18588710,PRJNA812699,USA,North America,Los Angeles,Black,52,Mediterranean,Irritable bowel syndrome,F,23.93819809,NA,NA
+SRR18588711,PRJNA812699,USA,North America,Los Angeles,Black,52,Mediterranean,Irritable bowel syndrome,F,23.93819809,NA,NA
+SRR18588712,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,31,FODMAPS,Irritable bowel syndrome,F,22,NA,NA
+SRR18588713,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,31,FODMAPS,Irritable bowel syndrome,F,22,NA,NA
+SRR18588714,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,31,FODMAPS,Irritable bowel syndrome,F,22,NA,NA
+SRR18588715,PRJNA812699,USA,North America,Los Angeles,Multiracial,19,Standard_American,Irritable bowel syndrome,F,23.56089973,NA,NA
+SRR18588716,PRJNA812699,USA,North America,Los Angeles,Hispanic,48,Modified_American,Irritable bowel syndrome,F,22.01007843,NA,NA
+SRR18588717,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,41,Standard_American,Irritable bowel syndrome,F,42.79999924,NA,NA
+SRR18588718,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,41,Standard_American,Irritable bowel syndrome,F,42.79999924,NA,NA
+SRR18588719,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,45,,Irritable bowel syndrome,F,31.39999962,NA,NA
+SRR18588720,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,22,Standard_American,Irritable bowel syndrome,F,32.90000153,NA,NA
+SRR18588721,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,37,Modified_American,Irritable bowel syndrome,F,28.68572617,NA,NA
+SRR18588722,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,22,Standard_American,Irritable bowel syndrome,F,32.90000153,NA,NA
+SRR18588723,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,47,Gluten_free,Irritable bowel syndrome,F,23.29999924,NA,NA
+SRR18588724,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,47,Gluten_free,Irritable bowel syndrome,F,23.29999924,NA,NA
+SRR18588725,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,46,Gluten_free,Irritable bowel syndrome,F,17.70000076,NA,NA
+SRR18588726,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,46,Gluten_free,Irritable bowel syndrome,F,17.70000076,NA,NA
+SRR18588727,PRJNA812699,USA,North America,Buffalo,Multiracial,24,Modified_American,Irritable bowel syndrome,M,24.29999924,NA,NA
+SRR18588728,PRJNA812699,USA,North America,Buffalo,Multiracial,24,Modified_American,Irritable bowel syndrome,M,24.29999924,NA,NA
+SRR18588729,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,53,Standard_American,Irritable bowel syndrome,F,32.40000153,NA,NA
+SRR18588730,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,53,Standard_American,Irritable bowel syndrome,F,32.40000153,NA,NA
+SRR18588731,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,37,Modified_American,Irritable bowel syndrome,M,23.79999924,NA,NA
+SRR18588732,PRJNA812699,USA,North America,Los Angeles,Asian,23,Standard_American,Control,M,22.55112457,NA,NA
+SRR18588733,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,37,Modified_American,Irritable bowel syndrome,M,23.79999924,NA,NA
+SRR18588734,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,40,Modified_American,Irritable bowel syndrome,F,29.79999924,NA,NA
+SRR18588735,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,40,Modified_American,Irritable bowel syndrome,F,29.79999924,NA,NA
+SRR18588736,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,40,Lactose_free,Irritable bowel syndrome,M,29.39999962,NA,NA
+SRR18588737,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,40,Lactose_free,Irritable bowel syndrome,M,29.39999962,NA,NA
+SRR18588738,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,40,Paleo,Irritable bowel syndrome,M,21.89999962,NA,NA
+SRR18588739,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,40,Paleo,Irritable bowel syndrome,M,21.89999962,NA,NA
+SRR18588740,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,43,Mediterranean,Irritable bowel syndrome,F,25.70000076,NA,NA
+SRR18588741,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,43,Mediterranean,Irritable bowel syndrome,F,25.70000076,NA,NA
+SRR18588742,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,26,Gluten_free,Irritable bowel syndrome,F,16.70000076,NA,NA
+SRR18588743,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,35,Standard_American,Control,M,31.46623421,NA,NA
+SRR18588744,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,26,Gluten_free,Irritable bowel syndrome,F,16.70000076,NA,NA
+SRR18588745,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,55,Modified_American,Irritable bowel syndrome,M,30.20000076,NA,NA
+SRR18588746,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,55,Modified_American,Irritable bowel syndrome,M,30.20000076,NA,NA
+SRR18588747,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,46,Gluten_free,Irritable bowel syndrome,F,35.90000153,NA,NA
+SRR18588748,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,46,Gluten_free,Irritable bowel syndrome,F,35.90000153,NA,NA
+SRR18588749,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,51,Standard_American,Irritable bowel syndrome,F,27.79999924,NA,NA
+SRR18588750,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,68,Modified_American,Irritable bowel syndrome,F,33.5,NA,NA
+SRR18588751,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,68,Modified_American,Irritable bowel syndrome,F,33.5,NA,NA
+SRR18588752,PRJNA812699,USA,North America,Buffalo,Multiracial,58,Standard_American,Irritable bowel syndrome,M,35.59999847,NA,NA
+SRR18588753,PRJNA812699,USA,North America,Buffalo,Multiracial,58,Standard_American,Irritable bowel syndrome,M,35.59999847,NA,NA
+SRR18588754,PRJNA812699,USA,North America,Buffalo,Black,34,Gluten_free,Irritable bowel syndrome,F,28.20000076,NA,NA
+SRR18588755,PRJNA812699,USA,North America,Buffalo,Black,34,Gluten_free,Irritable bowel syndrome,F,28.20000076,NA,NA
+SRR18588756,PRJNA812699,USA,North America,Los Angeles,Hispanic,26,Modified_American,Irritable bowel syndrome,F,41.10469055,NA,NA
+SRR18588757,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,26,Modified_American,Irritable bowel syndrome,F,21.5,NA,NA
+SRR18588758,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,26,Modified_American,Irritable bowel syndrome,F,21.5,NA,NA
+SRR18588759,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,55,Standard_American,Irritable bowel syndrome,F,35.59999847,NA,NA
+SRR18588760,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,55,Standard_American,Irritable bowel syndrome,F,35.59999847,NA,NA
+SRR18588761,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,25,Standard_American,Irritable bowel syndrome,F,27.79999924,NA,NA
+SRR18588762,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,25,Standard_American,Irritable bowel syndrome,F,27.79999924,NA,NA
+SRR18588763,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,21,Standard_American,Irritable bowel syndrome,F,24.89999962,NA,NA
+SRR18588764,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,21,Standard_American,Irritable bowel syndrome,F,24.89999962,NA,NA
+SRR18588765,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,47,Modified_American,Irritable bowel syndrome,F,28.60000038,NA,NA
+SRR18588766,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,34,Vegetarian,Irritable bowel syndrome,F,21,NA,NA
+SRR18588767,PRJNA812699,USA,North America,Los Angeles,Asian,29,Modified_American,Irritable bowel syndrome,F,20.66854477,NA,NA
+SRR18588768,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,34,Vegetarian,Irritable bowel syndrome,F,21,NA,NA
+SRR18588769,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,62,Vegetarian,Irritable bowel syndrome,F,31,NA,NA
+SRR18588770,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,62,Vegetarian,Irritable bowel syndrome,F,31,NA,NA
+SRR18588771,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,52,Mediterranean,Irritable bowel syndrome,F,18.60000038,NA,NA
+SRR18588772,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,52,Mediterranean,Irritable bowel syndrome,F,18.60000038,NA,NA
+SRR18588773,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,67,,Irritable bowel syndrome,M,25.10000038,NA,NA
+SRR18588774,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,67,,Irritable bowel syndrome,M,25.10000038,NA,NA
+SRR18588775,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,20,Gluten_free,Irritable bowel syndrome,F,20.20000076,NA,NA
+SRR18588776,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,20,Gluten_free,Irritable bowel syndrome,F,20.20000076,NA,NA
+SRR18588777,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,43,Standard_American,Irritable bowel syndrome,F,28.79999924,NA,NA
+SRR18588778,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Standard_American,Irritable bowel syndrome,F,28,NA,NA
+SRR18588779,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,43,Standard_American,Irritable bowel syndrome,F,28.79999924,NA,NA
+SRR18588780,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,53,Standard_American,Irritable bowel syndrome,F,39.90000153,NA,NA
+SRR18588781,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,27,Gluten_free,Irritable bowel syndrome,F,21.29999924,NA,NA
+SRR18588782,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Modified_American,Irritable bowel syndrome,F,25.33718491,NA,NA
+SRR18588783,PRJNA812699,USA,North America,Los Angeles,Hispanic,22,Standard_American,Control,F,30.18997192,NA,NA
+SRR18588784,PRJNA812699,USA,North America,Los Angeles,Multiracial,39,Lactose_free,Irritable bowel syndrome,M,22.99549675,NA,NA
+SRR18588785,PRJNA812699,USA,North America,Los Angeles,Hispanic,34,Standard_American,Control,F,35.63380051,NA,NA
+SRR18588786,PRJNA812699,USA,North America,Los Angeles,Multiracial,39,Gluten_free,Irritable bowel syndrome,M,30.0405407,NA,NA
+SRR18588787,PRJNA812699,USA,North America,Los Angeles,Asian,36,Mediterranean,Control,F,22.85554314,NA,NA
+SRR18588788,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Modified_American,Irritable bowel syndrome,F,22.99821091,NA,NA
+SRR18588789,PRJNA812699,USA,North America,Los Angeles,Hispanic,40,Modified_American,Control,F,23.18034554,NA,NA
+SRR18588790,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,60,Paleo,Irritable bowel syndrome,F,28.45627022,NA,NA
+SRR18588791,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,49,Mediterranean,Irritable bowel syndrome,M,23.05497742,NA,NA
+SRR18588792,PRJNA812699,USA,North America,Los Angeles,Multiracial,36,Modified_American,Irritable bowel syndrome,F,24.60499954,NA,NA
+SRR18588793,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,45,Gluten_free,Irritable bowel syndrome,F,27.47810173,NA,NA
+SRR18588794,PRJNA812699,USA,North America,Los Angeles,Hispanic,46,Lactose_free,Irritable bowel syndrome,F,25.43501663,NA,NA
+SRR18588795,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,27,Modified_American,Irritable bowel syndrome,M,21.46079445,NA,NA
+SRR18588796,PRJNA812699,USA,North America,Los Angeles,Asian,37,Modified_American,Irritable bowel syndrome,F,20.64634895,NA,NA
+SRR18588797,PRJNA812699,USA,North America,Los Angeles,Multiracial,25,Vegan,Irritable bowel syndrome,M,24.2741127,NA,NA
+SRR18588798,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,21,Lactose_free,Irritable bowel syndrome,F,26.67468452,NA,NA
+SRR18588799,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Pescetarian,Irritable bowel syndrome,M,21.33683777,NA,NA
+SRR18588800,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,28,Standard_American,Irritable bowel syndrome,F,22.81163216,NA,NA
+SRR18588801,PRJNA812699,USA,North America,Los Angeles,Multiracial,19,Modified_American,Irritable bowel syndrome,F,20.38284111,NA,NA
+SRR18588802,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,21,Lactose_free,Irritable bowel syndrome,F,20.84859467,NA,NA
+SRR18588803,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,46,Vegetarian,Control,F,21.1105957,NA,NA
+SRR18588804,PRJNA812699,USA,North America,Los Angeles,Asian,26,Vegetarian,Irritable bowel syndrome,M,19.12837791,NA,NA
+SRR18588805,PRJNA812699,USA,North America,Los Angeles,Asian,27,Modified_American,Irritable bowel syndrome,F,19.06835365,NA,NA
+SRR18588806,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,23,Modified_American,Irritable bowel syndrome,F,26.54494095,NA,NA
+SRR18588807,PRJNA812699,USA,North America,Los Angeles,Hispanic,20,Modified_American,Irritable bowel syndrome,F,31.22585678,NA,NA
+SRR18588808,PRJNA812699,USA,North America,Los Angeles,Hispanic,33,Gluten_free,Irritable bowel syndrome,F,20.33471107,NA,NA
+SRR18588809,PRJNA812699,USA,North America,Los Angeles,Hispanic,39,Gluten_free,Irritable bowel syndrome,F,21.94857597,NA,NA
+SRR18588810,PRJNA812699,USA,North America,Los Angeles,Hispanic,26,Vegan,Irritable bowel syndrome,F,23.08319092,NA,NA
+SRR18588811,PRJNA812699,USA,North America,Los Angeles,Hispanic,30,Mediterranean,Irritable bowel syndrome,F,34.46912003,NA,NA
+SRR18588812,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,27,Modified_American,Irritable bowel syndrome,F,26.11142921,NA,NA
+SRR18588813,PRJNA812699,USA,North America,Los Angeles,Asian,22,Standard_American,Irritable bowel syndrome,F,24.14343452,NA,NA
+SRR18588814,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,24,Gluten_free,Irritable bowel syndrome,F,21.07760048,NA,NA
+SRR18588815,PRJNA812699,USA,North America,Los Angeles,Asian,21,Vegetarian,Irritable bowel syndrome,M,20.76791382,NA,NA
+SRR18588816,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,28,Modified_American,Irritable bowel syndrome,M,22.095438,NA,NA
+SRR18588817,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,28,Paleo,Irritable bowel syndrome,F,23.52738953,NA,NA
+SRR18588818,PRJNA812699,USA,North America,Los Angeles,Black,34,Modified_American,Irritable bowel syndrome,F,NA,NA,NA
+SRR18588819,PRJNA812699,USA,North America,Los Angeles,Black,50,Lactose_free,Irritable bowel syndrome,F,30.84591866,NA,NA
+SRR18588820,PRJNA812699,USA,North America,Los Angeles,Asian,26,Gluten_free,Irritable bowel syndrome,F,19.38553619,NA,NA
+SRR18588821,PRJNA812699,USA,North America,Los Angeles,Hispanic,21,Modified_American,Irritable bowel syndrome,M,22.54195023,NA,NA
+SRR18588822,PRJNA812699,USA,North America,Los Angeles,Multiracial,35,Standard_American,Control,F,23.04277802,NA,NA
+SRR18588823,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,39,Vegetarian,Irritable bowel syndrome,M,24.32795143,NA,NA
+SRR18588824,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,24,Modified_American,Irritable bowel syndrome,F,22.72894859,NA,NA
+SRR18588825,PRJNA812699,USA,North America,Los Angeles,Asian,27,Lactose_free,Irritable bowel syndrome,F,21.12252808,NA,NA
+SRR18588826,PRJNA812699,USA,North America,Los Angeles,Asian,19,Mediterranean,Irritable bowel syndrome,F,20.69898224,NA,NA
+SRR18588827,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,48,Modified_American,Irritable bowel syndrome,F,31.49440002,NA,NA
+SRR18588828,PRJNA812699,USA,North America,Los Angeles,Multiracial,33,Modified_American,Irritable bowel syndrome,F,30.0727787,NA,NA
+SRR18588829,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,22,Paleo,Irritable bowel syndrome,M,25.82448959,NA,NA
+SRR18588830,PRJNA812699,USA,North America,Los Angeles,Black,50,Lactose_free,Irritable bowel syndrome,F,30.84591866,NA,NA
+SRR18588831,PRJNA812699,USA,North America,Los Angeles,Asian,32,Lactose_free,Irritable bowel syndrome,M,22.87085915,NA,NA
+SRR18588832,PRJNA812699,USA,North America,Los Angeles,Asian,20,Modified_American,Control,F,20.92132187,NA,NA
+SRR18588833,PRJNA812699,USA,North America,Los Angeles,Asian,23,Standard_American,Irritable bowel syndrome,M,21.13159752,NA,NA
+SRR18588834,PRJNA812699,USA,North America,Los Angeles,Multiracial,20,Modified_American,Irritable bowel syndrome,M,24.2159214,NA,NA
+SRR18588835,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,55,,Irritable bowel syndrome,F,23,NA,NA
+SRR18588836,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,32,,Irritable bowel syndrome,F,24,NA,NA
+SRR18588837,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,32,,Irritable bowel syndrome,F,24,NA,NA
+SRR18588838,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,32,,Irritable bowel syndrome,F,24,NA,NA
+SRR18588839,PRJNA812699,USA,North America,Los Angeles,Asian,23,,Irritable bowel syndrome,F,27,NA,NA
+SRR18588840,PRJNA812699,USA,North America,Los Angeles,Asian,23,,Irritable bowel syndrome,F,27,NA,NA
+SRR18588841,PRJNA812699,USA,North America,Los Angeles,Asian,23,,Irritable bowel syndrome,F,27,NA,NA
+SRR18588842,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,55,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588843,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,55,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588844,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,55,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588845,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,26,Modified_American,Irritable bowel syndrome,M,26.19498062,NA,NA
+SRR18588846,PRJNA812699,USA,North America,Los Angeles,Asian,60,,Irritable bowel syndrome,F,26,NA,NA
+SRR18588847,PRJNA812699,USA,North America,Los Angeles,Asian,60,,Irritable bowel syndrome,F,26,NA,NA
+SRR18588848,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,26,Modified_American,Irritable bowel syndrome,F,20.52104187,NA,NA
+SRR18588849,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,26,Modified_American,Irritable bowel syndrome,F,20.52104187,NA,NA
+SRR18588850,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,26,Modified_American,Irritable bowel syndrome,F,20.52104187,NA,NA
+SRR18588851,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,22,,Irritable bowel syndrome,F,21,NA,NA
+SRR18588852,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,22,,Irritable bowel syndrome,F,21,NA,NA
+SRR18588853,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,22,,Irritable bowel syndrome,F,21,NA,NA
+SRR18588854,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,41,,Irritable bowel syndrome,F,26,NA,NA
+SRR18588855,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,41,,Irritable bowel syndrome,F,26,NA,NA
+SRR18588856,PRJNA812699,USA,North America,Los Angeles,Hispanic,19,Lactose_free,Irritable bowel syndrome,F,23.51342773,NA,NA
+SRR18588857,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,41,,Irritable bowel syndrome,F,26,NA,NA
+SRR18588858,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,23,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588859,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,23,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588860,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,23,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588861,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,54,Vegetarian,Irritable bowel syndrome,F,25.21460724,NA,NA
+SRR18588862,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,54,Vegetarian,Irritable bowel syndrome,F,25.21460724,NA,NA
+SRR18588863,PRJNA812699,USA,North America,Los Angeles,Hispanic,34,,Irritable bowel syndrome,F,22,NA,NA
+SRR18588864,PRJNA812699,USA,North America,Los Angeles,Hispanic,34,,Irritable bowel syndrome,F,22,NA,NA
+SRR18588865,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,29,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588866,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,29,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588867,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,49,,Irritable bowel syndrome,F,25,NA,NA
+SRR18588868,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,33,,Irritable bowel syndrome,F,22,NA,NA
+SRR18588869,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,21,Lactose_free,Irritable bowel syndrome,F,20.54923058,NA,NA
+SRR18588870,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,33,,Irritable bowel syndrome,F,22,NA,NA
+SRR18588871,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,33,,Irritable bowel syndrome,F,22,NA,NA
+SRR18588872,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,,Irritable bowel syndrome,F,22,NA,NA
+SRR18588873,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,,Irritable bowel syndrome,F,22,NA,NA
+SRR18588874,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,,Irritable bowel syndrome,F,22,NA,NA
+SRR18588875,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,46,,Irritable bowel syndrome,F,21,NA,NA
+SRR18588876,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,46,,Irritable bowel syndrome,F,21,NA,NA
+SRR18588877,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,46,,Irritable bowel syndrome,F,21,NA,NA
+SRR18588878,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,40,,Irritable bowel syndrome,F,29,NA,NA
+SRR18588879,PRJNA812699,USA,North America,Los Angeles,Hispanic,44,,Irritable bowel syndrome,F,24,NA,NA
+SRR18588880,PRJNA812699,USA,North America,Los Angeles,Multiracial,27,Standard_American,Irritable bowel syndrome,F,22.71399689,NA,NA
+SRR18588881,PRJNA812699,USA,North America,Los Angeles,Hispanic,44,,Irritable bowel syndrome,F,24,NA,NA
+SRR18588882,PRJNA812699,USA,North America,Los Angeles,Hispanic,44,,Irritable bowel syndrome,F,24,NA,NA
+SRR18588883,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,24,,Irritable bowel syndrome,F,27,NA,NA
+SRR18588884,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,24,,Irritable bowel syndrome,F,27,NA,NA
+SRR18588885,PRJNA812699,USA,North America,Los Angeles,Hispanic,24,,Irritable bowel syndrome,F,18,NA,NA
+SRR18588886,PRJNA812699,USA,North America,Los Angeles,Hispanic,24,,Irritable bowel syndrome,F,18,NA,NA
+SRR18588887,PRJNA812699,USA,North America,Los Angeles,Hispanic,24,,Irritable bowel syndrome,F,18,NA,NA
+SRR18588888,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,34,,Irritable bowel syndrome,F,21,NA,NA
+SRR18588889,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,34,,Irritable bowel syndrome,F,21,NA,NA
+SRR18588890,PRJNA812699,USA,North America,Los Angeles,Black,32,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588891,PRJNA812699,USA,North America,Los Angeles,Asian,21,Pescetarian,Irritable bowel syndrome,F,19.83740997,NA,NA
+SRR18588892,PRJNA812699,USA,North America,Los Angeles,Black,32,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588893,PRJNA812699,USA,North America,Los Angeles,Black,32,,Irritable bowel syndrome,F,20,NA,NA
+SRR18588894,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,32,,Irritable bowel syndrome,F,30,NA,NA
+SRR18588895,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,32,,Irritable bowel syndrome,F,30,NA,NA
+SRR18588896,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,32,,Irritable bowel syndrome,F,30,NA,NA
+SRR18588897,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,18,Vegetarian,Irritable bowel syndrome,F,21.88814163,NA,NA
+SRR18588898,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,18,Vegetarian,Irritable bowel syndrome,F,21.88814163,NA,NA
+SRR18588899,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,39,Mediterranean,Irritable bowel syndrome,M,33.70000076,NA,NA
+SRR18588900,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,57,Gluten_free,Irritable bowel syndrome,F,21.29999924,NA,NA
+SRR18588901,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,57,Gluten_free,Irritable bowel syndrome,F,21.29999924,NA,NA
+SRR18588902,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,51,Lactose_free,Irritable bowel syndrome,F,23.20000076,NA,NA
+SRR18588903,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,51,Lactose_free,Irritable bowel syndrome,F,23.20000076,NA,NA
+SRR18588904,PRJNA812699,USA,North America,Los Angeles,Black,33,Standard_American,Control,F,33.47411346,NA,NA
+SRR18588905,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,57,Mediterranean,Control,F,19.59297371,NA,NA
+SRR18588906,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,70,Lactose_free,Irritable bowel syndrome,F,35.70000076,NA,NA
+SRR18588907,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,70,Lactose_free,Irritable bowel syndrome,F,35.70000076,NA,NA
+SRR18588908,PRJNA812699,USA,North America,Buffalo,Hispanic,47,Gluten_free,Irritable bowel syndrome,F,29.29999924,NA,NA
+SRR18588909,PRJNA812699,USA,North America,Buffalo,Hispanic,47,Gluten_free,Irritable bowel syndrome,F,29.29999924,NA,NA
+SRR18588910,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,65,Gluten_free,Irritable bowel syndrome,F,16.70000076,NA,NA
+SRR18588911,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,65,Gluten_free,Irritable bowel syndrome,F,16.70000076,NA,NA
+SRR18588912,PRJNA812699,USA,North America,Buffalo,Black,47,Modified_American,Irritable bowel syndrome,F,37.59999847,NA,NA
+SRR18588913,PRJNA812699,USA,North America,Buffalo,Black,47,Modified_American,Irritable bowel syndrome,F,37.59999847,NA,NA
+SRR18588914,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,53,Standard_American,Irritable bowel syndrome,F,29.20000076,NA,NA
+SRR18588915,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,53,Standard_American,Irritable bowel syndrome,F,29.20000076,NA,NA
+SRR18588916,PRJNA812699,USA,North America,Los Angeles,Hispanic,26,Modified_American,Irritable bowel syndrome,F,40.16885757,NA,NA
+SRR18588917,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,47,,Irritable bowel syndrome,F,38.29999924,NA,NA
+SRR18588918,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,47,,Irritable bowel syndrome,F,38.29999924,NA,NA
+SRR18588919,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,30,Gluten_free,Irritable bowel syndrome,F,20.20000076,NA,NA
+SRR18588920,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,30,Gluten_free,Irritable bowel syndrome,F,20.20000076,NA,NA
+SRR18588921,PRJNA812699,USA,North America,Buffalo,Black,54,Standard_American,Irritable bowel syndrome,F,29.10000038,NA,NA
+SRR18588922,PRJNA812699,USA,North America,Buffalo,Black,54,Standard_American,Irritable bowel syndrome,F,29.10000038,NA,NA
+SRR18588923,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,33,Standard_American,Irritable bowel syndrome,M,25,NA,NA
+SRR18588924,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,33,Standard_American,Irritable bowel syndrome,M,25,NA,NA
+SRR18588925,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,55,Modified_American,Irritable bowel syndrome,F,25.10000038,NA,NA
+SRR18588926,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,55,Modified_American,Irritable bowel syndrome,F,25.10000038,NA,NA
+SRR18588927,PRJNA812699,USA,North America,Los Angeles,Hispanic,26,Modified_American,Irritable bowel syndrome,F,40.16885757,NA,NA
+SRR18588928,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,52,Lactose_free,Irritable bowel syndrome,F,29,NA,NA
+SRR18588929,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,52,Lactose_free,Irritable bowel syndrome,F,29,NA,NA
+SRR18588930,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,51,Standard_American,Irritable bowel syndrome,F,27.79999924,NA,NA
+SRR18588931,PRJNA812699,USA,North America,Los Angeles,Hispanic,34,Modified_American,Control,F,36.76280975,NA,NA
+SRR18588932,PRJNA812699,USA,North America,Los Angeles,Asian,38,Standard_American,Control,F,29.7093029,NA,NA
+SRR18588933,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,47,Modified_American,Control,M,30.39863014,NA,NA
+SRR18588934,PRJNA812699,USA,North America,Los Angeles,Hispanic,19,Lactose_free,Control,F,28.49072266,NA,NA
+SRR18588935,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,48,Vegetarian,Control,F,29.40923691,NA,NA
+SRR18588936,PRJNA812699,USA,North America,Los Angeles,Hispanic,53,Lactose_free,Control,F,31.50473976,NA,NA
+SRR18588937,PRJNA812699,USA,North America,Los Angeles,Hispanic,25,Vegetarian,Control,F,45.28294754,NA,NA
+SRR18588938,PRJNA812699,USA,North America,Los Angeles,Asian,20,Standard_American,Control,F,29.43779373,NA,NA
+SRR18588939,PRJNA812699,USA,North America,Los Angeles,Black,54,Mediterranean,Control,F,29.05023384,NA,NA
+SRR18588940,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,23,Mediterranean,Irritable bowel syndrome,F,17.44658661,NA,NA
+SRR18588941,PRJNA812699,USA,North America,Los Angeles,Black,54,Standard_American,Control,F,36.55599976,NA,NA
+SRR18588942,PRJNA812699,USA,North America,Los Angeles,Hispanic,23,Modified_American,Control,F,33.78305435,NA,NA
+SRR18588943,PRJNA812699,USA,North America,Los Angeles,Hispanic,25,Vegetarian,Control,F,30.00627518,NA,NA
+SRR18588944,PRJNA812699,USA,North America,Los Angeles,Hispanic,37,Gluten_free,Control,F,25.64011574,NA,NA
+SRR18588945,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,27,Modified_American,Control,F,25.38611031,NA,NA
+SRR18588946,PRJNA812699,USA,North America,Los Angeles,Hispanic,34,Standard_American,Control,F,35.596241,NA,NA
+SRR18588947,PRJNA812699,USA,North America,Los Angeles,Asian,20,Standard_American,Control,F,30.30980873,NA,NA
+SRR18588948,PRJNA812699,USA,North America,Los Angeles,Hispanic,34,Standard_American,Control,F,38.54783249,NA,NA
+SRR18588949,PRJNA812699,USA,North America,Los Angeles,Hispanic,28,Vegetarian,Control,F,31.8820858,NA,NA
+SRR18588950,PRJNA812699,USA,North America,Los Angeles,Hispanic,39,Modified_American,Control,F,36.23616028,NA,NA
+SRR18588951,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,23,Mediterranean,Irritable bowel syndrome,F,17.44658661,NA,NA
+SRR18588952,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,62,,Irritable bowel syndrome,F,25,NA,NA
+SRR18588953,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,31,Vegan,Control,F,30.60000038,NA,NA
+SRR18588954,PRJNA812699,USA,North America,Los Angeles,Black,50,Lactose_free,Control,F,29.27552605,NA,NA
+SRR18588955,PRJNA812699,USA,North America,Los Angeles,Asian,54,Modified_American,Control,F,28.23571205,NA,NA
+SRR18588956,PRJNA812699,USA,North America,Los Angeles,Asian,21,Standard_American,Control,F,27.27689552,NA,NA
+SRR18588957,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,47,Modified_American,Control,F,40.71918869,NA,NA
+SRR18588958,PRJNA812699,USA,North America,Los Angeles,Hispanic,32,Standard_American,Control,F,39.48588943,NA,NA
+SRR18588959,PRJNA812699,USA,North America,Los Angeles,Asian,21,Standard_American,Control,F,27.1367569,NA,NA
+SRR18588960,PRJNA812699,USA,North America,Los Angeles,Hispanic,21,Modified_American,Control,M,24.79885674,NA,NA
+SRR18588961,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,30,Modified_American,Control,M,30.59674644,NA,NA
+SRR18588962,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,21,Standard_American,Control,M,29.00694275,NA,NA
+SRR18588963,PRJNA812699,USA,North America,Los Angeles,Hispanic,31,Modified_American,Control,F,40.88395691,NA,NA
+SRR18588964,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,36,Modified_American,Irritable bowel syndrome,F,16.28692436,NA,NA
+SRR18588965,PRJNA812699,USA,North America,Los Angeles,Asian,19,Modified_American,Control,F,26.6027832,NA,NA
+SRR18588966,PRJNA812699,USA,North America,Los Angeles,Black,53,Modified_American,Control,F,29.33496857,NA,NA
+SRR18588967,PRJNA812699,USA,North America,Los Angeles,Multiracial,33,Modified_American,Control,F,29.33478355,NA,NA
+SRR18588968,PRJNA812699,USA,North America,Los Angeles,Hispanic,52,Standard_American,Control,M,37.67917252,NA,NA
+SRR18588969,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,38,Paleo,Control,F,37.30801392,NA,NA
+SRR18588970,PRJNA812699,USA,North America,Los Angeles,Black,30,Standard_American,Control,F,39.47515869,NA,NA
+SRR18588971,PRJNA812699,USA,North America,Los Angeles,Hispanic,48,Standard_American,Control,F,34.92292404,NA,NA
+SRR18588972,PRJNA812699,USA,North America,Los Angeles,Asian,21,Modified_American,Control,M,29.28514099,NA,NA
+SRR18588973,PRJNA812699,USA,North America,Los Angeles,Multiracial,24,Modified_American,Control,M,25.9389019,NA,NA
+SRR18588974,PRJNA812699,USA,North America,Los Angeles,Multiracial,24,Standard_American,Control,M,27.5659256,NA,NA
+SRR18588975,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,36,Modified_American,Irritable bowel syndrome,F,16.28692436,NA,NA
+SRR18588976,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,45,Modified_American,Control,M,29.8138485,NA,NA
+SRR18588977,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,60,Mediterranean,Irritable bowel syndrome,M,25.32857895,NA,NA
+SRR18588978,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,31,Modified_American,Control,M,25.1071434,NA,NA
+SRR18588979,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,34,Modified_American,Control,F,29.31012344,NA,NA
+SRR18588980,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,28,Modified_American,Control,F,34.55198669,NA,NA
+SRR18588981,PRJNA812699,USA,North America,Los Angeles,Hispanic,43,Standard_American,Control,M,32.3564415,NA,NA
+SRR18588982,PRJNA812699,USA,North America,Los Angeles,Asian,51,Standard_American,Control,M,32.43870544,NA,NA
+SRR18588983,PRJNA812699,USA,North America,Los Angeles,Hispanic,41,Modified_American,Control,F,27.24947929,NA,NA
+SRR18588984,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,25,Modified_American,Control,F,32.19415283,NA,NA
+SRR18588985,PRJNA812699,USA,North America,Los Angeles,Asian,29,Vegetarian,Control,F,30.55897903,NA,NA
+SRR18588986,PRJNA812699,USA,North America,Los Angeles,Black,49,Lactose_free,Irritable bowel syndrome,F,26.62285614,NA,NA
+SRR18588987,PRJNA812699,USA,North America,Los Angeles,Black,19,Pescetarian,Control,F,30.7598381,NA,NA
+SRR18588988,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,29,Mediterranean,Control,F,33.39936447,NA,NA
+SRR18588989,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,24,Modified_American,Control,M,27.36135483,NA,NA
+SRR18588990,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,24,Modified_American,Control,M,31.22755241,NA,NA
+SRR18588991,PRJNA812699,USA,North America,Los Angeles,Hispanic,26,Modified_American,Control,M,28.66226006,NA,NA
+SRR18588992,PRJNA812699,USA,North America,Los Angeles,Hispanic,23,Modified_American,Control,F,26.92265129,NA,NA
+SRR18588993,PRJNA812699,USA,North America,Los Angeles,Hispanic,30,Modified_American,Control,M,33.26206207,NA,NA
+SRR18588994,PRJNA812699,USA,North America,Los Angeles,Multiracial,33,Modified_American,Control,F,35.38433456,NA,NA
+SRR18588995,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,37,Gluten_free,Irritable bowel syndrome,F,31.90501595,NA,NA
+SRR18588996,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,37,Gluten_free,Irritable bowel syndrome,F,31.90501595,NA,NA
+SRR18588997,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,30,,Irritable bowel syndrome,F,19,NA,NA
+SRR18588998,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,23,,Irritable bowel syndrome,F,22,NA,NA
+SRR18588999,PRJNA812699,USA,North America,Los Angeles,Black,41,,Irritable bowel syndrome,F,29,NA,NA
+SRR18589000,PRJNA812699,USA,North America,Los Angeles,Hispanic,45,Modified_American,Irritable bowel syndrome,F,24,NA,NA
+SRR18589001,PRJNA812699,USA,North America,Los Angeles,Asian,21,Mediterranean,Irritable bowel syndrome,F,20,NA,NA
+SRR18589002,PRJNA812699,USA,North America,Los Angeles,Asian,22,Mediterranean,Irritable bowel syndrome,F,19.1196785,NA,NA
+SRR18589003,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,19,Modified_American,Irritable bowel syndrome,F,20.84298134,NA,NA
+SRR18589004,PRJNA812699,USA,North America,Los Angeles,Hispanic,29,Lactose_free,Irritable bowel syndrome,F,25.04286957,NA,NA
+SRR18589005,PRJNA812699,USA,North America,Los Angeles,Hispanic,24,,Irritable bowel syndrome,F,29,NA,NA
+SRR18589006,PRJNA812699,USA,North America,Los Angeles,Black,57,,Irritable bowel syndrome,F,26,NA,NA
+SRR18589007,PRJNA812699,USA,North America,Los Angeles,Black,29,,Irritable bowel syndrome,F,29,NA,NA
+SRR18589008,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,44,,Irritable bowel syndrome,F,0,NA,NA
+SRR18589009,PRJNA812699,USA,North America,Los Angeles,Asian,28,Modified_American,Irritable bowel syndrome,F,22.06948853,NA,NA
+SRR18589010,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,49,,Irritable bowel syndrome,F,25,NA,NA
+SRR18589011,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,33,,Irritable bowel syndrome,F,22,NA,NA
+SRR18589012,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,,Irritable bowel syndrome,F,22,NA,NA
+SRR18589013,PRJNA812699,USA,North America,Los Angeles,Hispanic,24,,Irritable bowel syndrome,F,23,NA,NA
+SRR18589014,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,46,,Irritable bowel syndrome,F,21,NA,NA
+SRR18589015,PRJNA812699,USA,North America,Los Angeles,Asian,37,,Irritable bowel syndrome,F,19.72305489,NA,NA
+SRR18589016,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,40,,Irritable bowel syndrome,F,29,NA,NA
+SRR18589017,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,40,Vegetarian,Irritable bowel syndrome,F,19.47697639,NA,NA
+SRR18589018,PRJNA812699,USA,North America,Los Angeles,Hispanic,41,Modified_American,Control,F,27.24947929,NA,NA
+SRR18589019,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,42,Gluten_free,Irritable bowel syndrome,M,22.33550453,NA,NA
+SRR18589020,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,42,Gluten_free,Irritable bowel syndrome,M,22.33550453,NA,NA
+SRR18589021,PRJNA812699,USA,North America,Los Angeles,Hispanic,44,,Irritable bowel syndrome,F,24,NA,NA
+SRR18589022,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,30,Modified_American,Irritable bowel syndrome,F,24.21849442,NA,NA
+SRR18589023,PRJNA812699,USA,North America,Los Angeles,Hispanic,19,Lactose_free,Irritable bowel syndrome,F,23.38494873,NA,NA
+SRR18589024,PRJNA812699,USA,North America,Los Angeles,Hispanic,19,Lactose_free,Irritable bowel syndrome,F,23.38494873,NA,NA
+SRR18589025,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,39,Standard_American,Irritable bowel syndrome,M,28.54291153,NA,NA
+SRR18589026,PRJNA812699,USA,North America,Los Angeles,Asian,30,Vegetarian,Control,M,22.94001007,NA,NA
+SRR18589027,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,36,Standard_American,Irritable bowel syndrome,M,23.21786499,NA,NA
+SRR18589028,PRJNA812699,USA,North America,Los Angeles,Multiracial,18,Modified_American,Irritable bowel syndrome,F,22.59412384,NA,NA
+SRR18589029,PRJNA812699,USA,North America,Los Angeles,Hispanic,21,Modified_American,Irritable bowel syndrome,F,23.70528984,NA,NA
+SRR18589030,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,22,Lactose_free,Irritable bowel syndrome,F,19.04361725,NA,NA
+SRR18589031,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,27,Modified_American,Irritable bowel syndrome,M,21.46079445,NA,NA
+SRR18589032,PRJNA812699,USA,North America,Los Angeles,Asian,22,Standard_American,Irritable bowel syndrome,F,24.60803413,NA,NA
+SRR18589033,PRJNA812699,USA,North America,Los Angeles,Black,48,Standard_American,Control,F,27.77640533,NA,NA
+SRR18589034,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,25,Vegetarian,Irritable bowel syndrome,F,20.97166061,NA,NA
+SRR18589035,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,27,Paleo,Irritable bowel syndrome,M,28.85408211,NA,NA
+SRR18589036,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,22,Gluten_free,Irritable bowel syndrome,F,16.64819336,NA,NA
+SRR18589037,PRJNA812699,USA,North America,Los Angeles,Hispanic,53,Gluten_free,Irritable bowel syndrome,F,24.65561676,NA,NA
+SRR18589038,PRJNA812699,USA,North America,Los Angeles,Asian,21,Modified_American,Irritable bowel syndrome,M,25.03307343,NA,NA
+SRR18589039,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Standard_American,Irritable bowel syndrome,M,32.49556732,NA,NA
+SRR18589040,PRJNA812699,USA,North America,Los Angeles,Multiracial,21,Mediterranean,Irritable bowel syndrome,F,24.02272987,NA,NA
+SRR18589041,PRJNA812699,USA,North America,Los Angeles,Asian,21,Modified_American,Irritable bowel syndrome,F,20.66571236,NA,NA
+SRR18589042,PRJNA812699,USA,North America,Los Angeles,Hispanic,23,Standard_American,Control,M,19.43035698,NA,NA
+SRR18589043,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,21,Modified_American,Irritable bowel syndrome,M,20.78567505,NA,NA
+SRR18589044,PRJNA812699,USA,North America,Los Angeles,Multiracial,19,Pescetarian,Irritable bowel syndrome,F,21.48055649,NA,NA
+SRR18589045,PRJNA812699,USA,North America,Los Angeles,Asian,20,Modified_American,Irritable bowel syndrome,F,20.92132187,NA,NA
+SRR18589046,PRJNA812699,USA,North America,Los Angeles,Asian,22,Modified_American,Irritable bowel syndrome,M,22.23775482,NA,NA
+SRR18589047,PRJNA812699,USA,North America,Los Angeles,Asian,25,Standard_American,Irritable bowel syndrome,M,21.54008675,NA,NA
+SRR18589048,PRJNA812699,USA,North America,Los Angeles,Asian,25,Vegetarian,Irritable bowel syndrome,F,27.98100853,NA,NA
+SRR18589049,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,21,Lactose_free,Irritable bowel syndrome,M,19.93913269,NA,NA
+SRR18589050,PRJNA812699,USA,North America,Los Angeles,Hispanic,42,Pescetarian,Irritable bowel syndrome,F,32.43823242,NA,NA
+SRR18589051,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,19,Modified_American,Control,F,26.49310493,NA,NA
+SRR18589052,PRJNA812699,USA,North America,Los Angeles,Asian,28,Modified_American,Irritable bowel syndrome,F,17.80378723,NA,NA
+SRR18589053,PRJNA812699,USA,North America,Los Angeles,Hispanic,33,Gluten_free,Irritable bowel syndrome,F,20.33471107,NA,NA
+SRR18589054,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,27,Gluten_free,Irritable bowel syndrome,F,30.92338181,NA,NA
+SRR18589055,PRJNA812699,USA,North America,Los Angeles,Black,18,Standard_American,Control,M,22.29636574,NA,NA
+SRR18589056,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,51,Paleo,Irritable bowel syndrome,F,27.98538589,NA,NA
+SRR18589057,PRJNA812699,USA,North America,Los Angeles,Asian,25,Standard_American,Irritable bowel syndrome,F,17.41913414,NA,NA
+SRR18589058,PRJNA812699,USA,North America,Los Angeles,Black,18,Modified_American,Irritable bowel syndrome,F,29.9502964,NA,NA
+SRR18589059,PRJNA812699,USA,North America,Los Angeles,Hispanic,23,Standard_American,Irritable bowel syndrome,M,30.51215363,NA,NA
+SRR18589060,PRJNA812699,USA,North America,Los Angeles,Asian,21,Modified_American,Irritable bowel syndrome,F,22.67170525,NA,NA
+SRR18589061,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,38,Standard_American,Irritable bowel syndrome,M,23.77294731,NA,NA
+SRR18589062,PRJNA812699,USA,North America,Los Angeles,Hispanic,23,Modified_American,Irritable bowel syndrome,F,24.37838173,NA,NA
+SRR18589063,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,23,Standard_American,Irritable bowel syndrome,F,23.07828331,NA,NA
+SRR18589064,PRJNA812699,USA,North America,Los Angeles,Black,34,Modified_American,Irritable bowel syndrome,F,28.20679092,NA,NA
+SRR18589065,PRJNA812699,USA,North America,Los Angeles,Hispanic,31,Modified_American,Irritable bowel syndrome,M,24.25864792,NA,NA
+SRR18589066,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,28,Lactose_free,Irritable bowel syndrome,F,21.29150963,NA,NA
+SRR18589067,PRJNA812699,USA,North America,Los Angeles,Native_American,41,Pescetarian,Irritable bowel syndrome,M,22.11917686,NA,NA
+SRR18589068,PRJNA812699,USA,North America,Los Angeles,Hispanic,30,Modified_American,Control,M,33.26206207,NA,NA
+SRR18589069,PRJNA812699,USA,North America,Los Angeles,Asian,28,Modified_American,Control,F,21.10583305,NA,NA
+SRR18589070,PRJNA812699,USA,North America,Los Angeles,Asian,32,Mediterranean,Control,F,20.63242531,NA,NA
+SRR18589071,PRJNA812699,USA,North America,Los Angeles,Hispanic,18,Modified_American,Control,F,21.21985817,NA,NA
+SRR18589072,PRJNA812699,USA,North America,Los Angeles,Asian,20,Vegan,Control,F,22.70000076,NA,NA
+SRR18589073,PRJNA812699,USA,North America,Los Angeles,Asian,20,Modified_American,Control,F,20.90852356,NA,NA
+SRR18589074,PRJNA812699,USA,North America,Los Angeles,Asian,22,Paleo,Irritable bowel syndrome,F,22.24661064,NA,NA
+SRR18589075,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Gluten_free,Irritable bowel syndrome,F,24.00773048,NA,NA
+SRR18589076,PRJNA812699,USA,North America,Los Angeles,Asian,31,Standard_American,Irritable bowel syndrome,M,25.22973633,NA,NA
+SRR18589077,PRJNA812699,USA,North America,Los Angeles,Hispanic,31,Modified_American,Irritable bowel syndrome,M,24.25864792,NA,NA
+SRR18589078,PRJNA812699,USA,North America,Los Angeles,Asian,31,Standard_American,Irritable bowel syndrome,M,25.22973633,NA,NA
+SRR18589079,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,30,Modified_American,Irritable bowel syndrome,F,18.2366848,NA,NA
+SRR18589080,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,21,Modified_American,Irritable bowel syndrome,F,22.59502792,NA,NA
+SRR18589081,PRJNA812699,USA,North America,Los Angeles,Asian,21,Modified_American,Irritable bowel syndrome,F,26.60288048,NA,NA
+SRR18589082,PRJNA812699,USA,North America,Los Angeles,Hispanic,18,Modified_American,Control,F,24.22646332,NA,NA
+SRR18589083,PRJNA812699,USA,North America,Los Angeles,Multiracial,30,Modified_American,Control,F,32.02555466,NA,NA
+SRR18589084,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,26,Modified_American,Irritable bowel syndrome,M,26.19498062,NA,NA
+SRR18589085,PRJNA812699,USA,North America,Los Angeles,Hispanic,19,Lactose_free,Irritable bowel syndrome,F,23.51342773,NA,NA
+SRR18589086,PRJNA812699,USA,North America,Los Angeles,Asian,19,Modified_American,Irritable bowel syndrome,M,24.20798874,NA,NA
+SRR18589087,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,31,Modified_American,Irritable bowel syndrome,F,19,NA,NA
+SRR18589088,PRJNA812699,USA,North America,Los Angeles,Multiracial,27,Standard_American,Irritable bowel syndrome,F,22.71399689,NA,NA
+SRR18589089,PRJNA812699,USA,North America,Los Angeles,Asian,21,Pescetarian,Irritable bowel syndrome,F,19.83740997,NA,NA
+SRR18589090,PRJNA812699,USA,North America,Los Angeles,Black,33,Standard_American,Control,F,33.47411346,NA,NA
+SRR18589091,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,18,Vegetarian,Irritable bowel syndrome,F,21.88814163,NA,NA
+SRR18589092,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,30,Modified_American,Irritable bowel syndrome,F,18.2366848,NA,NA
+SRR18589093,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,30,Modified_American,Irritable bowel syndrome,F,18.2366848,NA,NA
+SRR18589094,PRJNA812699,USA,North America,Los Angeles,Asian,25,,Irritable bowel syndrome,M,29.45112419,NA,NA
+SRR18589095,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,30,Modified_American,Irritable bowel syndrome,F,18.2366848,NA,NA
+SRR18589096,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Standard_American,Irritable bowel syndrome,F,28,NA,NA
+SRR18589097,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Standard_American,Irritable bowel syndrome,F,28,NA,NA
+SRR18589098,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Standard_American,Irritable bowel syndrome,F,28,NA,NA
+SRR18589099,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Gluten_free,Irritable bowel syndrome,F,25.2377739,NA,NA
+SRR18589100,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Gluten_free,Irritable bowel syndrome,F,25.2377739,NA,NA
+SRR18589101,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,20,Gluten_free,Irritable bowel syndrome,F,25.2377739,NA,NA
+SRR18589102,PRJNA812699,USA,North America,Los Angeles,Hispanic,28,,Irritable bowel syndrome,F,21,NA,NA
+SRR18589103,PRJNA812699,USA,North America,Los Angeles,Hispanic,28,,Irritable bowel syndrome,F,21,NA,NA
+SRR18589104,PRJNA812699,USA,North America,Los Angeles,Hispanic,28,,Irritable bowel syndrome,F,21,NA,NA
+SRR18589105,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,37,Modified_American,Irritable bowel syndrome,F,29.61751556,NA,NA
+SRR18589106,PRJNA812699,USA,North America,Los Angeles,Black,21,,Irritable bowel syndrome,F,21,NA,NA
+SRR18589107,PRJNA812699,USA,North America,Los Angeles,Black,21,,Irritable bowel syndrome,F,21,NA,NA
+SRR18589108,PRJNA812699,USA,North America,Los Angeles,Black,21,,Irritable bowel syndrome,F,21,NA,NA
+SRR18589109,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,62,,Irritable bowel syndrome,F,25,NA,NA
+SRR18589110,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,62,,Irritable bowel syndrome,F,25,NA,NA
+SRR18589111,PRJNA812699,USA,North America,Los Angeles,Non_Hispanic_White,62,,Irritable bowel syndrome,F,25,NA,NA
+SRR18589112,PRJNA812699,USA,North America,Buffalo,Non_Hispanic_White,27,Gluten_free,Irritable bowel syndrome,F,21.29999924,NA,NA
+SRR12649537,PRJNA663708,USA,North America,California,Black or African American,56,NA,Allergic,F,35.18,16,NA
+SRR12649538,PRJNA663708,USA,North America,California,Black or African American,56,NA,Allergic,F,35.76,16,NA
+SRR12649539,PRJNA663708,USA,North America,California,White,58,NA,Allergic,M,36.12,15,NA
+SRR12649540,PRJNA663708,USA,North America,California,White,58,NA,Allergic,M,34.35,15,NA
+SRR12649541,PRJNA663708,USA,North America,California,White,57,NA,Allergic,M,34.44,14,NA
+SRR12649542,PRJNA663708,USA,North America,California,White,57,NA,Healthy,M,35.7,14,NA
+SRR12649543,PRJNA663708,USA,North America,California,White,70,NA,Allergic,F,28.59,12,NA
+SRR12649544,PRJNA663708,USA,North America,California,White,70,NA,Healthy,F,25.97,12,NA
+SRR12649550,PRJNA663708,USA,North America,California,White,57,NA,Allergic,M,31.37,9,NA
+SRR12649551,PRJNA663708,USA,North America,California,White,57,NA,Healthy,F,29.35,9,NA
+SRR12649552,PRJNA663708,USA,North America,California,Asian,48,NA,Allergic,F,26.63,8,NA
+SRR12649553,PRJNA663708,USA,North America,California,Asian,48,NA,Healthy,F,27.79,8,NA
+SRR12649554,PRJNA663708,USA,North America,California,Hispanic or Latino,58,NA,Allergic,M,26.87,7,NA
+SRR12649555,PRJNA663708,USA,North America,California,Hispanic or Latino,58,NA,Healthy,M,27.62,7,NA
+SRR12649556,PRJNA663708,USA,North America,California,White,5,NA,Allergic,F,13.75,6,NA
+SRR12649557,PRJNA663708,USA,North America,California,White,5,NA,Healthy,F,13.1,6,NA
+SRR12649558,PRJNA663708,USA,North America,California,White,57,NA,Allergic,M,26.7,1,NA
+SRR12649559,PRJNA663708,USA,North America,California,White,57,NA,Allergic,M,25.77,1,NA
+SRR12649526,PRJNA663708,USA,North America,California,Asian,5,NA,Allergic,M,15.08,5,NA
+SRR12649527,PRJNA663708,USA,North America,California,Asian,5,NA,Healthy,M,15.09,5,NA
+SRR12649528,PRJNA663708,USA,North America,California,White,1,NA,Allergic,F,16.82,4,NA
+SRR12649529,PRJNA663708,USA,North America,California,White,1,NA,Allergic,F,17.55,4,NA
+SRR12649530,PRJNA663708,USA,North America,California,Asian,6,NA,Allergic,F,NA,3,NA
+SRR12649531,PRJNA663708,USA,North America,California,Asian,6,NA,Healthy,M,12.63,3,NA
+SRR12649532,PRJNA663708,USA,North America,California,White,22,NA,Allergic,F,19.64,18,NA
+SRR12649533,PRJNA663708,USA,North America,California,White,22,NA,Healthy,F,18.13,18,NA
+SRR12649534,PRJNA663708,USA,North America,California,White,63,NA,Allergic,M,41.09,17,NA
+SRR12649535,PRJNA663708,USA,North America,California,White,63,NA,Allergic,M,37.95,17,NA
+SRR12649536,PRJNA663708,USA,North America,California,Asian and White,0.5,NA,Allergic,F,18.95,2,NA
+SRR12649545,PRJNA663708,USA,North America,California,White,46,NA,Allergic,F,28.49,11,NA
+SRR12649546,PRJNA663708,USA,North America,California,White,46,NA,Healthy,F,30.89,11,NA
+SRR12649547,PRJNA663708,USA,North America,California,Asian and White,0.5,NA,Healthy,F,18.23,2,NA
+SRR12649548,PRJNA663708,USA,North America,California,White,53,NA,Allergic,F,21.57,10,NA
+SRR12649549,PRJNA663708,USA,North America,California,White,53,NA,Healthy,F,22.25,10,NA
+SRR25133737,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,Targeted,NA,NA,26.5,S19,T1
+SRR25133738,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S18,T1
+SRR25133739,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S17,T1
+SRR25133740,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S16,T1
+SRR25133741,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S15,T1
+SRR25133742,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S13,T1
+SRR25133743,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S06,T0
+SRR25133744,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S12,T1
+SRR25133745,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S11,T0
+SRR25133746,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S10,T0
+SRR25133747,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S09,T0
+SRR25133748,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S08,T0
+SRR25133749,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S31,T1
+SRR25133750,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S07,T0
+SRR25133751,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S30,T1
+SRR25133752,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S26,T1
+SRR25133753,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S24,T1
+SRR25133754,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S20,T1
+SRR25133755,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S11,T1
+SRR25133756,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S10,T1
+SRR25133757,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S09,T1
+SRR25133758,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S08,T1
+SRR25133759,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S06,T1
+SRR25133760,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S05,T1
+SRR25133761,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S03,T1
+SRR25133762,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S01,T1
+SRR25133763,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,Targeted,NA,NA,26.5,S34,T0
+SRR25133764,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S05,T0
+SRR25133765,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,Targeted,NA,NA,26.5,S32,T0
+SRR25133766,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S31,T0
+SRR25133767,PRJNA991471,Italy,Europe,Milan,Caucasian_x,62,PD1,NA,NA,26.5,S30,T0
+SRR25133768,PRJNA991471,Italy,Europe,Milan,Caucasian_x,63,PD1,NA,NA,27.5,S29,T0
+SRR25133769,PRJNA991471,Italy,Europe,Milan,Caucasian_x,64,PD1,NA,NA,28.5,S28,T0
+SRR25133770,PRJNA991471,Italy,Europe,Milan,Caucasian_x,65,Targeted,NA,NA,29.5,S27,T0
+SRR25133771,PRJNA991471,Italy,Europe,Milan,Caucasian_x,66,PD1,NA,NA,30.5,S26,T0
+SRR25133772,PRJNA991471,Italy,Europe,Milan,Caucasian_x,67,Targeted,NA,NA,31.5,S25,T0
+SRR25133773,PRJNA991471,Italy,Europe,Milan,Caucasian_x,68,PD1,NA,NA,32.5,S24,T0
+SRR25133774,PRJNA991471,Italy,Europe,Milan,Caucasian_x,69,Targeted,NA,NA,33.5,S23,T0
+SRR25133775,PRJNA991471,Italy,Europe,Milan,Caucasian_x,70,PD1,NA,NA,34.5,S03,T0
+SRR25133776,PRJNA991471,Italy,Europe,Milan,Caucasian_x,71,PD1,NA,NA,35.5,S22,T0
+SRR25133777,PRJNA991471,Italy,Europe,Milan,Caucasian_x,72,Targeted,NA,NA,36.5,S21,T0
+SRR25133778,PRJNA991471,Italy,Europe,Milan,Caucasian_x,73,PD1,NA,NA,37.5,S20,T0
+SRR25133779,PRJNA991471,Italy,Europe,Milan,Caucasian_x,74,PD1,NA,NA,38.5,S18,T0
+SRR25133780,PRJNA991471,Italy,Europe,Milan,Caucasian_x,75,PD1,NA,NA,39.5,S17,T0
+SRR25133781,PRJNA991471,Italy,Europe,Milan,Caucasian_x,76,PD1,NA,NA,40.5,S16,T0
+SRR25133782,PRJNA991471,Italy,Europe,Milan,Caucasian_x,77,PD1,NA,NA,41.5,S15,T0
+SRR25133783,PRJNA991471,Italy,Europe,Milan,Caucasian_x,78,Targeted,NA,NA,42.5,S14,T0
+SRR25133784,PRJNA991471,Italy,Europe,Milan,Caucasian_x,79,PD1,NA,NA,43.5,S13,T0
+SRR25133785,PRJNA991471,Italy,Europe,Milan,Caucasian_x,80,PD1,NA,NA,44.5,S12,T0
+SRR25133786,PRJNA991471,Italy,Europe,Milan,Caucasian_x,81,PD1,NA,NA,45.5,S02,T0
+SRR25133787,PRJNA991471,Italy,Europe,Milan,Caucasian_x,82,PD1,NA,NA,46.5,S01,T0

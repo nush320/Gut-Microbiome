@@ -1,0 +1,81 @@
+---
+title: "Untitled"
+author: "Anushka KC"
+date: "2025-01-11"
+output: html_document
+---
+
+```{r}
+md1 <- read.csv("1_metadata.csv")
+md2 <- read.csv("2_metadata.csv")
+md3 <- read.csv("3_metadata.csv")
+md4 <- read.csv("4_metadata.csv")
+md5 <- read.csv("5_metadata.csv")
+md6 <- read.csv("6_metadata.csv")
+md8 <- read.csv("8_metadata.csv")
+md9 <- read.csv("9_metadata.csv")
+md10 <- read.csv("10_metadata.csv")
+md11 <- read.csv("11_metadata.csv")
+```
+
+```{r}
+# First, let's examine the columns in each metadata file
+print("Columns in md1:")
+colnames(md1)
+print("Columns in md2:")
+colnames(md2)
+print("Columns in md3:")
+colnames(md3)
+print("Columns in md4:")
+colnames(md4)
+print("Columns in md5:")
+colnames(md5)
+print("Columns in md6:")
+colnames(md6)
+print("Columns in md8:")
+colnames(md8)
+print("Columns in md9:")
+colnames(md9)
+print("Columns in md10:")
+colnames(md10)
+print("Columns in md11:")
+colnames(md11)
+```
+```{r}
+# Create a list of all your metadata dataframes
+md_list <- list(md1, md2, md3, md4, md5, md6, md8, md9, md10, md11)
+```
+
+```{r}
+# Look at all unique columns across all files
+all_columns <- unique(unlist(lapply(md_list, colnames)))
+print(all_columns)
+```
+
+```{r}
+# Now standardize the columns by adding missing ones with NA
+for(i in seq_along(md_list)) {
+  missing_cols <- setdiff(all_columns, colnames(md_list[[i]]))
+  if(length(missing_cols) > 0) {
+    for(col in missing_cols) {
+      md_list[[i]][[col]] <- NA
+    }
+  }
+  # Add study column
+  md_list[[i]]$study <- paste0("Study", i)
+}
+```
+
+```{r}
+# Now try combining again with standardized columns
+combined_metadata <- do.call(rbind, md_list)
+```
+
+```{r}
+saveRDS(combined_metadata, file = "combined_metadata.rds" )
+```
+
+```{r}
+write.csv(combined_metadata, file = "combined_metadata.csv")
+```
+

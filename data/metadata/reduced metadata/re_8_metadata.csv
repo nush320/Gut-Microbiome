@@ -1,0 +1,49 @@
+Sample,Condition,Study.Group,Age,Gender,BMI,Ethnicity,Country,Continent,City,BioProject
+SRR12771490,Obese,Obese,43.8,NA,26.8,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771494,Lean,Healthy,47.1,NA,20.1,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771495,Lean,Healthy,47.1,NA,24.5,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771496,Lean,Healthy,47.1,NA,19.8,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771497,Lean,Healthy,47.1,NA,21.8,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771498,Lean,Healthy,47.1,NA,23.4,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771503,Lean,Healthy,47.1,NA,20.2,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771506,Obese,Obese,43.8,NA,26.8,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771509,Lean,Healthy,47.1,NA,24.3,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771533,Obese,Obese,43.8,NA,46.8,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771534,Obese,Obese,40.8,NA,30.2,White,USA,North America,San Francisco,PRJNA665061
+SRR12771542,Obese,Obese,40.8,NA,37.4,White,USA,North America,San Francisco,PRJNA665061
+SRR12771544,Lean,Healthy,40.8,NA,25.2,White,USA,North America,San Francisco,PRJNA665061
+SRR12771554,Obese,Obese,40.8,NA,37.8,White,USA,North America,San Francisco,PRJNA665061
+SRR12771556,Lean,Healthy,40.8,NA,20.7,White,USA,North America,San Francisco,PRJNA665061
+SRR12771568,Lean,Healthy,40.8,NA,21.8,White,USA,North America,San Francisco,PRJNA665061
+SRR12771488,Obese,Obese,43.8,NA,34.1,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771489,Obese,Obese,43.8,NA,36.5,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771491,Obese,Obese,43.8,NA,32.8,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771492,Lean,Healthy,47.1,NA,22.4,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771499,Obese,Obese,43.8,NA,40.3,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771500,Lean,Healthy,47.1,NA,24.4,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771501,Lean,Healthy,47.1,NA,19.7,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771502,Obese,Obese,43.8,NA,28.3,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771505,Lean,Healthy,47.1,NA,22.2,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771507,Lean,Healthy,47.1,NA,24.4,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771508,Obese,Obese,43.8,NA,29,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771532,Obese,Obese,43.8,NA,28.7,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771535,Obese,Obese,40.8,NA,41.3,White,USA,North America,San Francisco,PRJNA665061
+SRR12771536,Obese,Obese,40.8,NA,39.9,White,USA,North America,San Francisco,PRJNA665061
+SRR12771538,Obese,Obese,40.8,NA,48.5,White,USA,North America,San Francisco,PRJNA665061
+SRR12771539,Obese,Obese,40.8,NA,50.7,White,USA,North America,San Francisco,PRJNA665061
+SRR12771540,Lean,Healthy,40.8,NA,19.2,White,USA,North America,San Francisco,PRJNA665061
+SRR12771541,Obese,Obese,40.8,NA,47.1,White,USA,North America,San Francisco,PRJNA665061
+SRR12771543,Obese,Obese,40.8,NA,35,White,USA,North America,San Francisco,PRJNA665061
+SRR12771545,Lean,Healthy,40.8,NA,22.6,White,USA,North America,San Francisco,PRJNA665061
+SRR12771546,Obese,Obese,40.8,NA,30.1,White,USA,North America,San Francisco,PRJNA665061
+SRR12771547,Obese,Obese,40.8,NA,36.8,White,USA,North America,San Francisco,PRJNA665061
+SRR12771549,Obese,Obese,40.8,NA,43,White,USA,North America,San Francisco,PRJNA665061
+SRR12771550,Lean,Healthy,40.8,NA,20.4,White,USA,North America,San Francisco,PRJNA665061
+SRR12771551,Lean,Healthy,40.8,NA,24.3,White,USA,North America,San Francisco,PRJNA665061
+SRR12771552,Lean,Healthy,40.8,NA,20.5,White,USA,North America,San Francisco,PRJNA665061
+SRR12771553,Lean,Healthy,40.8,NA,19.2,White,USA,North America,San Francisco,PRJNA665061
+SRR12771555,Lean,Healthy,40.8,NA,20.6,White,USA,North America,San Francisco,PRJNA665061
+SRR12771557,Obese,Obese,40.8,NA,42.9,White,USA,North America,San Francisco,PRJNA665061
+SRR12771558,Lean,Healthy,40.8,NA,24.1,White,USA,North America,San Francisco,PRJNA665061
+SRR12771559,NA,NA,NA,NA,NA,East Asian,USA,North America,San Francisco,PRJNA665061
+SRR12771560,NA,NA,NA,NA,NA,White,USA,North America,San Francisco,PRJNA665061
