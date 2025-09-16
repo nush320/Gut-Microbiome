@@ -1,11 +1,11 @@
 
-# Data Folder
+## Data Folder
 
 This folder contains metadata and characteritics of the data used in the meta-analysis.
 
-## Folder structure
+### Folder structure
 
-- `metadata/` : Contains metadata files for each individual study in TSV format.  
+- `metadata/` : Contains metadata files for each individual study in csv format.  
   Each file includes sample-level information (e.g., sample ID, subject characteristics, sequencing details).
 
   Metadata downloaded from the NCBI SRA database using the BioProject number of each study: https://www.ncbi.nlm.nih.gov/sra/ 
