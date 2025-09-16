@@ -1,0 +1,545 @@
+Run,BioProject,Age,Sex,BMI,Country,Continent,Ethnicity,Study.Group,City
+SRR2143516,PRJNA290926,64,M,36.22750875,USA,North America,White,Healthy,Ann Arbor
+SRR2143517,PRJNA290926,61,M,27.96801606,USA,North America,White,Healthy,Ann Arbor
+SRR2143518,PRJNA290926,47,F,21.79930796,USA,North America,White,Healthy,Ann Arbor
+SRR2143519,PRJNA290926,81,F,23.03004535,Canada,North America,White,adenoma,Toronto
+SRR2143521,PRJNA290926,44,F,24.91349481,USA,North America,White,Healthy,Ann Arbor
+SRR2143522,PRJNA290926,51,F,26.171875,USA,North America,White,Healthy,Boston
+SRR2143523,PRJNA290926,78,M,26.36560303,USA,North America,White,cancer,Boston
+SRR2143524,PRJNA290926,59,M,20.74755019,USA,North America,White,Healthy,Ann Arbor
+SRR2143525,PRJNA290926,63,F,22.76943835,USA,North America,White,Healthy,Boston
+SRR2143526,PRJNA290926,67,M,20.79672989,USA,North America,White,cancer,Ann Arbor
+SRR2143527,PRJNA290926,65,F,21.51385851,Canada,North America,White,Healthy,Toronto
+SRR2143528,PRJNA290926,55,M,26.29656684,USA,North America,White,adenoma,Ann Arbor
+SRR2143529,PRJNA290926,72,F,22.265625,Canada,North America,White,adenoma,Toronto
+SRR2143530,PRJNA290926,72,F,22.265625,Canada,North America,White,adenoma,Toronto
+SRR2143531,PRJNA290926,77,M,21.70512943,Canada,North America,White,Healthy,Toronto
+SRR2143532,PRJNA290926,62,M,28.7037037,Canada,North America,White,adenoma,Toronto
+SRR2143533,PRJNA290926,88,F,22.86253448,Canada,North America,White,cancer,Toronto
+SRR2143534,PRJNA290926,56,F,32.04614645,Canada,North America,White,Healthy,Toronto
+SRR2143535,PRJNA290926,69,M,27.45060487,USA,North America,White,adenoma,Ann Arbor
+SRR2143536,PRJNA290926,63,M,23.38868656,Canada,North America,White,Healthy,Toronto
+SRR2143537,PRJNA290926,59,F,25.81663021,USA,North America,White,Healthy,Ann Arbor
+SRR2143538,PRJNA290926,65,F,22.58955144,USA,North America,White,adenoma,Boston
+SRR2143539,PRJNA290926,64,F,41.15226337,USA,North America,White,adenoma,Boston
+SRR2143540,PRJNA290926,74,F,28.125,USA,North America,White,adenoma,Boston
+SRR2143541,PRJNA290926,59,M,25.85463947,USA,North America,White,Healthy,Ann Arbor
+SRR2143542,PRJNA290926,59,M,25.85463947,USA,North America,White,Healthy,Ann Arbor
+SRR2143543,PRJNA290926,75,M,29.58579882,Canada,North America,White,adenoma,Toronto
+SRR2143544,PRJNA290926,40,F,46.875,USA,North America,White,Healthy,Boston
+SRR2143545,PRJNA290926,67,F,31.640625,USA,North America,White,Healthy,Boston
+SRR2143546,PRJNA290926,76,M,22.98190175,Canada,North America,White,adenoma,Toronto
+SRR2143547,PRJNA290926,69,F,29.75206612,Canada,North America,White,adenoma,Toronto
+SRR2143548,PRJNA290926,52,F,18.25310979,USA,North America,White,Healthy,Ann Arbor
+SRR2143549,PRJNA290926,49,F,26.40235457,USA,North America,White,Healthy,Ann Arbor
+SRR2143550,PRJNA290926,53,M,28.59675713,USA,North America,Black,adenoma,Ann Arbor
+SRR2143551,PRJNA290926,53,M,28.59675713,USA,North America,Black,adenoma,Ann Arbor
+SRR2143552,PRJNA290926,39,F,23.24340802,USA,North America,White,Healthy,Ann Arbor
+SRR2143553,PRJNA290926,43,F,24.16326531,USA,North America,White,Healthy,Ann Arbor
+SRR2143554,PRJNA290926,29,F,17.90885536,USA,North America,White,Healthy,Boston
+SRR2143555,PRJNA290926,32,F,35.29411765,USA,North America,White,Healthy,Boston
+SRR2143556,PRJNA290926,35,F,32.76939491,USA,North America,White,Healthy,Boston
+SRR2143557,PRJNA290926,42,M,27.25088745,USA,North America,White,Healthy,Boston
+SRR2143558,PRJNA290926,51,M,24.25867407,USA,North America,White,Healthy,Boston
+SRR2143559,PRJNA290926,59,F,27.26800554,USA,North America,White,Healthy,Ann Arbor
+SRR2143560,PRJNA290926,49,M,27.04164413,USA,North America,White,Healthy,Ann Arbor
+SRR2143561,PRJNA290926,77,F,31.58861341,USA,North America,White,Healthy,Ann Arbor
+SRR2143562,PRJNA290926,48,F,40.90048675,USA,North America,White,Healthy,Boston
+SRR2143563,PRJNA290926,61,F,26.12244898,USA,North America,White,adenoma,Ann Arbor
+SRR2143564,PRJNA290926,37,F,33.53147386,USA,North America,White,Healthy,Boston
+SRR2143565,PRJNA290926,68,M,31.39717425,USA,North America,White,adenoma,Ann Arbor
+SRR2143566,PRJNA290926,62,F,31.640625,USA,North America,White,Healthy,Ann Arbor
+SRR2143567,PRJNA290926,51,M,28.08899103,USA,North America,White,adenoma,Ann Arbor
+SRR2143568,PRJNA290926,68,F,23.24598478,USA,North America,White,adenoma,Ann Arbor
+SRR2143569,PRJNA290926,68,M,36.41975309,USA,North America,White,adenoma,Ann Arbor
+SRR2143570,PRJNA290926,57,M,23.54788069,USA,North America,Black,Healthy,Ann Arbor
+SRR2143572,PRJNA290926,60,F,30.85399449,USA,North America,White,adenoma,Ann Arbor
+SRR2143573,PRJNA290926,55,M,34.31610855,USA,North America,White,adenoma,Ann Arbor
+SRR2143574,PRJNA290926,52,F,33.21799308,USA,North America,White,Healthy,Ann Arbor
+SRR2143575,PRJNA290926,65,F,22.265625,USA,North America,White,adenoma,Boston
+SRR2143576,PRJNA290926,64,M,21.60493827,USA,North America,White,adenoma,Ann Arbor
+SRR2143577,PRJNA290926,62,M,27.17063157,USA,North America,White,Healthy,Ann Arbor
+SRR2143578,PRJNA290926,55,F,35.92451524,USA,North America,White,Healthy,Ann Arbor
+SRR2143579,PRJNA290926,44,F,21.87242282,USA,North America,White,Healthy,Ann Arbor
+SRR2143580,PRJNA290926,44,F,21.87242282,USA,North America,White,Healthy,Ann Arbor
+SRR2143581,PRJNA290926,48,M,26.64359862,USA,North America,White,Healthy,Ann Arbor
+SRR2143582,PRJNA290926,55,M,26.93586352,USA,North America,Black,adenoma,Ann Arbor
+SRR2143583,PRJNA290926,67,M,30.18959063,USA,North America,White,adenoma,Ann Arbor
+SRR2143584,PRJNA290926,54,M,25.25951557,USA,North America,White,Healthy,Ann Arbor
+SRR2143585,PRJNA290926,58,F,22.65625,USA,North America,White,adenoma,Ann Arbor
+SRR2143586,PRJNA290926,55,F,17.92821543,USA,North America,White,Healthy,Ann Arbor
+SRR2143587,PRJNA290926,51,F,21.30394858,USA,North America,White,Healthy,Ann Arbor
+SRR2143588,PRJNA290926,55,F,20.07960128,Canada,North America,White,Healthy,Toronto
+SRR2143589,PRJNA290926,61,M,24.45356841,Canada,North America,White,Healthy,Toronto
+SRR2143590,PRJNA290926,56,M,27.45060487,Canada,North America,White,Healthy,Toronto
+SRR2143591,PRJNA290926,36,F,33.80205516,Canada,North America,White,Healthy,Toronto
+SRR2143592,PRJNA290926,60,M,23.62028791,Canada,North America,White,adenoma,Toronto
+SRR2143593,PRJNA290926,56,F,25.91068435,Canada,North America,White,Healthy,Toronto
+SRR2143595,PRJNA290926,63,M,23.66691015,Canada,North America,White,adenoma,Toronto
+SRR2143596,PRJNA290926,45,M,28.99406695,Canada,North America,White,Healthy,Toronto
+SRR2143597,PRJNA290926,71,M,23.72281065,Canada,North America,White,adenoma,Toronto
+SRR2143598,PRJNA290926,63,M,23.66691015,Canada,North America,White,adenoma,Toronto
+SRR2143599,PRJNA290926,78,F,25.29937595,Canada,North America,White,cancer,Toronto
+SRR2143600,PRJNA290926,76,F,36.89795918,USA,North America,White,Healthy,Ann Arbor
+SRR2143601,PRJNA290926,72,M,22.34351559,USA,North America,White,Healthy,Ann Arbor
+SRR2143602,PRJNA290926,70,M,31.48148148,USA,North America,White,Healthy,Ann Arbor
+SRR2143603,PRJNA290926,71,M,26.44628099,Canada,North America,White,adenoma,Toronto
+SRR2143604,PRJNA290926,79,M,21.875,USA,North America,Asian,adenoma,Ann Arbor
+SRR2143605,PRJNA290926,49,F,24.56747405,USA,North America,White,Healthy,Ann Arbor
+SRR2143606,PRJNA290926,45,M,29.80277575,USA,North America,White,cancer,Ann Arbor
+SRR2143607,PRJNA290926,78,M,27.17311907,USA,North America,White,adenoma,Ann Arbor
+SRR2143608,PRJNA290926,57,F,25.34435262,USA,North America,White,adenoma,Ann Arbor
+SRR2143609,PRJNA290926,35,M,23.66143862,Canada,North America,White,Healthy,Toronto
+SRR2143610,PRJNA290926,65,F,26.44628099,Canada,North America,White,adenoma,Toronto
+SRR2143611,PRJNA290926,58,M,26.02304899,Canada,North America,Other,adenoma,Toronto
+SRR2143612,PRJNA290926,74,M,25.85463947,Canada,North America,White,adenoma,Toronto
+SRR2143613,PRJNA290926,63,F,17.78197126,Canada,North America,White,Healthy,Toronto
+SRR2143614,PRJNA290926,81,M,29.36576335,Canada,North America,White,adenoma,Toronto
+SRR2143615,PRJNA290926,67,F,23.91883029,Canada,North America,White,adenoma,Toronto
+SRR2143616,PRJNA290926,72,M,26.17519452,Canada,North America,White,adenoma,Toronto
+SRR2143617,PRJNA290926,61,F,22.95908766,Canada,North America,White,adenoma,Toronto
+SRR2143618,PRJNA290926,73,M,22.22222222,Canada,North America,White,adenoma,Toronto
+SRR2143619,PRJNA290926,63,M,32.41003709,Canada,North America,White,adenoma,Toronto
+SRR2143620,PRJNA290926,57,M,24.98356345,Canada,North America,White,adenoma,Toronto
+SRR2143621,PRJNA290926,72,M,24.38237298,USA,North America,White,cancer,Boston
+SRR2143622,PRJNA290926,64,M,28.982007,USA,North America,White,Healthy,Boston
+SRR2143623,PRJNA290926,58,M,28.08899103,USA,North America,White,adenoma,Boston
+SRR2143624,PRJNA290926,58,M,27.37966468,Canada,North America,White,adenoma,Toronto
+SRR2143626,PRJNA290926,58,M,27.37966468,Canada,North America,White,adenoma,Toronto
+SRR2143627,PRJNA290926,54,M,27.17063157,USA,North America,White,cancer,Boston
+SRR2143628,PRJNA290926,66,M,23.8497766,USA,North America,White,adenoma,Boston
+SRR2143629,PRJNA290926,66,M,23.8497766,USA,North America,White,adenoma,Boston
+SRR2143630,PRJNA290926,47,F,26.40235457,Canada,North America,White,Healthy,Toronto
+SRR2143631,PRJNA290926,62,M,39.54836372,Canada,North America,White,Healthy,Toronto
+SRR2143632,PRJNA290926,59,M,25.66115203,Canada,North America,White,adenoma,Toronto
+SRR2143633,PRJNA290926,60,F,23.30905307,Canada,North America,White,cancer,Toronto
+SRR2143634,PRJNA290926,71,F,27.99302203,USA,North America,White,cancer,Ann Arbor
+SRR2143635,PRJNA290926,64,M,22.83950617,USA,North America,White,cancer,Boston
+SRR2143636,PRJNA290926,48,F,37.890625,USA,North America,Other,Healthy,Boston
+SRR2143637,PRJNA290926,75,F,28.1969212,USA,North America,White,cancer,Ann Arbor
+SRR2143638,PRJNA290926,35,F,23.62444749,USA,North America,White,Healthy,Boston
+SRR2143639,PRJNA290926,78,M,25,USA,North America,White,adenoma,Boston
+SRR2143640,PRJNA290926,52,M,27.45060487,USA,North America,White,adenoma,Boston
+SRR2143641,PRJNA290926,53,M,32.43243243,Canada,North America,White,adenoma,Toronto
+SRR2143643,PRJNA290926,53,M,32.43243243,Canada,North America,White,adenoma,Toronto
+SRR2143644,PRJNA290926,71,M,26.7755102,USA,North America,White,cancer,Boston
+SRR2143645,PRJNA290926,43,M,22.49817385,USA,North America,White,adenoma,Boston
+SRR2143646,PRJNA290926,43,M,22.49817385,USA,North America,White,adenoma,Boston
+SRR2143647,PRJNA290926,42,F,23.14049587,USA,North America,White,Healthy,Boston
+SRR2143648,PRJNA290926,79,M,30.97151205,Canada,North America,White,adenoma,Toronto
+SRR2143649,PRJNA290926,37,F,21.33821064,USA,North America,White,Healthy,Ann Arbor
+SRR2143650,PRJNA290926,41,M,20.07960128,USA,North America,Black,Healthy,Boston
+SRR2143652,PRJNA290926,80,F,27.91551882,USA,North America,White,cancer,Ann Arbor
+SRR2143653,PRJNA290926,64,M,20.45288532,USA,North America,White,adenoma,Ann Arbor
+SRR2143654,PRJNA290926,55,F,27.05380277,USA,North America,White,Healthy,Ann Arbor
+SRR2143655,PRJNA290926,67,F,29.7210791,USA,North America,White,adenoma,Boston
+SRR2143656,PRJNA290926,67,F,29.7210791,USA,North America,White,adenoma,Boston
+SRR2143657,PRJNA290926,62,F,20.56932966,USA,North America,White,Healthy,Ann Arbor
+SRR2143658,PRJNA290926,62,F,20.56932966,USA,North America,White,Healthy,Ann Arbor
+SRR2143659,PRJNA290926,45,M,24.38237298,USA,North America,White,cancer,Boston
+SRR2143660,PRJNA290926,59,F,22.58955144,USA,North America,White,Healthy,Boston
+SRR2143662,PRJNA290926,72,M,30.83653053,USA,North America,White,cancer,Boston
+SRR2143663,PRJNA290926,78,F,27.16049383,USA,North America,White,cancer,Ann Arbor
+SRR2143664,PRJNA290926,70,M,30.8844977,USA,North America,White,Healthy,Ann Arbor
+SRR2143665,PRJNA290926,70,M,23.30668005,USA,North America,White,cancer,Houston
+SRR2143666,PRJNA290926,72,M,25.81663021,Canada,North America,White,adenoma,Toronto
+SRR2143667,PRJNA290926,62,F,29.93759487,USA,North America,White,cancer,Houston
+SRR2143668,PRJNA290926,64,M,30.55555556,USA,North America,White,Healthy,Houston
+SRR2143669,PRJNA290926,80,F,30.10211858,Canada,North America,White,cancer,Toronto
+SRR2143670,PRJNA290926,72,F,23.828125,Canada,North America,White,adenoma,Toronto
+SRR2143671,PRJNA290926,41,F,25.71166208,Canada,North America,White,adenoma,Toronto
+SRR2143672,PRJNA290926,60,M,32.43243243,USA,North America,White,Healthy,Houston
+SRR2143673,PRJNA290926,80,M,28.05570579,Canada,North America,White,adenoma,Toronto
+SRR2143674,PRJNA290926,85,M,27.77777778,Canada,North America,White,cancer,Toronto
+SRR2143675,PRJNA290926,78,M,25.21625331,Canada,North America,White,cancer,Toronto
+SRR2143676,PRJNA290926,84,F,31.64428577,USA,North America,White,cancer,Boston
+SRR2143677,PRJNA290926,80,M,26.82445759,USA,North America,White,cancer,Boston
+SRR2143679,PRJNA290926,69,M,26.70362358,USA,North America,White,adenoma,Boston
+SRR2143680,PRJNA290926,68,F,34.48415757,USA,North America,White,adenoma,Boston
+SRR2143681,PRJNA290926,68,M,26.64359862,USA,North America,White,cancer,Boston
+SRR2143682,PRJNA290926,47,F,28.90625,USA,North America,White,cancer,Houston
+SRR2143683,PRJNA290926,56,F,22.83737024,USA,North America,White,Healthy,Houston
+SRR2143684,PRJNA290926,62,M,25.81663021,USA,North America,Black,cancer,Houston
+SRR2143685,PRJNA290926,67,M,24.48979592,Canada,North America,White,adenoma,Toronto
+SRR2143686,PRJNA290926,56,M,20.16070124,Canada,North America,White,adenoma,Toronto
+SRR2143687,PRJNA290926,59,M,23.7654321,Canada,North America,Black,adenoma,Toronto
+SRR2143688,PRJNA290926,86,M,23.30109483,Canada,North America,White,adenoma,Toronto
+SRR2143689,PRJNA290926,86,M,23.30109483,Canada,North America,White,adenoma,Toronto
+SRR2143690,PRJNA290926,77,M,29.3877551,Canada,North America,White,adenoma,Toronto
+SRR2143691,PRJNA290926,77,M,29.3877551,Canada,North America,White,adenoma,Toronto
+SRR2143692,PRJNA290926,58,M,39.50617284,USA,North America,White,adenoma,Ann Arbor
+SRR2143693,PRJNA290926,59,M,28.73469388,USA,North America,White,cancer,Boston
+SRR2143694,PRJNA290926,59,M,30.10211858,USA,North America,White,cancer,Ann Arbor
+SRR2143695,PRJNA290926,60,M,28.73469388,Canada,North America,White,adenoma,Toronto
+SRR2143696,PRJNA290926,46,M,26.29656684,USA,North America,White,cancer,Boston
+SRR2143697,PRJNA290926,32,M,32.60475788,USA,North America,White,cancer,Boston
+SRR2143698,PRJNA290926,61,F,20.79672989,Canada,North America,White,cancer,Toronto
+SRR2143699,PRJNA290926,46,F,28.125,Canada,North America,White,Healthy,Toronto
+SRR2143700,PRJNA290926,71,M,29.06574394,Canada,North America,White,adenoma,Toronto
+SRR2143701,PRJNA290926,54,F,19.81405274,Canada,North America,Asian,adenoma,Toronto
+SRR2143702,PRJNA290926,78,F,29.77777778,Canada,North America,White,adenoma,Toronto
+SRR2143703,PRJNA290926,82,F,26.83518006,Canada,North America,White,adenoma,Toronto
+SRR2143704,PRJNA290926,79,M,0,USA,North America,White,adenoma,Ann Arbor
+SRR2143705,PRJNA290926,85,M,26.12244898,Canada,North America,White,cancer,Toronto
+SRR2143706,PRJNA290926,79,M,22.99168975,Canada,North America,White,adenoma,Toronto
+SRR2143707,PRJNA290926,57,M,27.37966468,USA,North America,White,cancer,Boston
+SRR2143708,PRJNA290926,57,M,27.37966468,USA,North America,White,cancer,Boston
+SRR2143709,PRJNA290926,60,M,56.39152666,USA,North America,White,cancer,Ann Arbor
+SRR2143710,PRJNA290926,72,M,22.58955144,Canada,North America,White,adenoma,Toronto
+SRR2143711,PRJNA290926,72,M,22.58955144,Canada,North America,White,adenoma,Toronto
+SRR2143712,PRJNA290926,69,M,27.75748722,USA,North America,White,cancer,Houston
+SRR2143713,PRJNA290926,53,M,29.68495643,USA,North America,White,adenoma,Houston
+SRR2143714,PRJNA290926,51,M,25.60553633,USA,North America,White,adenoma,Boston
+SRR2143716,PRJNA290926,37,M,35.11123879,USA,North America,White,cancer,Houston
+SRR2143717,PRJNA290926,79,F,25.91068435,USA,North America,White,cancer,Boston
+SRR2143718,PRJNA290926,53,M,30.24691358,USA,North America,White,cancer,Houston
+SRR2143719,PRJNA290926,75,F,30.078125,USA,North America,White,cancer,Boston
+SRR2143720,PRJNA290926,68,F,21.09375,Canada,North America,White,adenoma,Toronto
+SRR2143721,PRJNA290926,69,M,26.2345679,USA,North America,White,cancer,Houston
+SRR2143722,PRJNA290926,74,F,32.04998174,USA,North America,White,cancer,Boston
+SRR2143723,PRJNA290926,52,M,34.42217362,USA,North America,White,cancer,Boston
+SRR2143724,PRJNA290926,64,F,23.50780533,USA,North America,Other,cancer,Houston
+SRR2143725,PRJNA290926,56,M,32.65306122,USA,North America,White,cancer,Houston
+SRR2143726,PRJNA290926,48,M,23.7654321,USA,North America,Black,adenoma,Boston
+SRR2143727,PRJNA290926,51,F,35.49786654,USA,North America,White,cancer,Houston
+SRR2143728,PRJNA290926,61,M,27.45060487,USA,North America,White,adenoma,Boston
+SRR2143729,PRJNA290926,47,F,29.86495845,Canada,North America,White,adenoma,Toronto
+SRR2143730,PRJNA290926,80,M,27.17311907,Canada,North America,White,adenoma,Toronto
+SRR2143731,PRJNA290926,52,F,24.09297052,Canada,North America,White,adenoma,Toronto
+SRR2143732,PRJNA290926,46,F,19.72318339,USA,North America,White,cancer,Boston
+SRR2143733,PRJNA290926,46,F,19.72318339,USA,North America,White,cancer,Boston
+SRR2143734,PRJNA290926,64,F,16.22783886,USA,North America,White,cancer,Boston
+SRR2143735,PRJNA290926,67,F,32.27078777,USA,North America,White,cancer,Boston
+SRR2143736,PRJNA290926,55,M,57.46349378,USA,North America,White,cancer,Boston
+SRR2143737,PRJNA290926,60,F,25.60553633,Canada,North America,White,adenoma,Toronto
+SRR2143738,PRJNA290926,50,F,24.87771968,Canada,North America,White,adenoma,Toronto
+SRR2143739,PRJNA290926,60,M,26.70362358,Canada,North America,White,adenoma,Toronto
+SRR2143740,PRJNA290926,66,M,25.85463947,Canada,North America,White,adenoma,Toronto
+SRR2143741,PRJNA290926,55,F,26.6727633,Canada,North America,White,adenoma,Toronto
+SRR2143742,PRJNA290926,69,F,26.07897153,Canada,North America,White,adenoma,Toronto
+SRR2143743,PRJNA290926,55,F,27.81588173,USA,North America,White,Healthy,Houston
+SRR2143744,PRJNA290926,49,M,NA,USA,North America,White,cancer,Ann Arbor
+SRR2143745,PRJNA290926,61,M,34.90026578,USA,North America,White,cancer,Ann Arbor
+SRR2143746,PRJNA290926,60,M,28.72737719,USA,North America,White,cancer,Houston
+SRR2143747,PRJNA290926,63,M,30.83653053,USA,North America,Asian,cancer,Houston
+SRR2143748,PRJNA290926,43,M,23.87543253,USA,North America,White,cancer,Houston
+SRR2143749,PRJNA290926,52,M,28.7037037,USA,North America,White,cancer,Ann Arbor
+SRR2143750,PRJNA290926,71,M,32.32323232,USA,North America,White,cancer,Ann Arbor
+SRR2143751,PRJNA290926,72,M,26.14927686,Canada,North America,White,adenoma,Toronto
+SRR2143752,PRJNA290926,69,M,31.39717425,Canada,North America,White,adenoma,Toronto
+SRR2143753,PRJNA290926,66,F,24.38652644,Canada,North America,White,adenoma,Toronto
+SRR2143754,PRJNA290926,71,F,42.84972299,Canada,North America,White,adenoma,Toronto
+SRR2143755,PRJNA290926,71,F,42.84972299,Canada,North America,White,adenoma,Toronto
+SRR2143756,PRJNA290926,75,M,26.29172382,Canada,North America,White,adenoma,Toronto
+SRR2143757,PRJNA290926,65,M,27.77442338,Canada,North America,White,adenoma,Toronto
+SRR2143758,PRJNA290926,51,M,28.25484765,USA,North America,White,Healthy,Houston
+SRR2143759,PRJNA290926,58,M,29.68495643,USA,North America,White,cancer,Houston
+SRR2143760,PRJNA290926,51,F,36.36363636,USA,North America,White,Healthy,Houston
+SRR2143761,PRJNA290926,60,M,32.90665379,USA,North America,White,cancer,Houston
+SRR2143762,PRJNA290926,62,M,30.96172875,USA,North America,White,Healthy,Houston
+SRR2143763,PRJNA290926,62,M,30.96172875,USA,North America,White,Healthy,Houston
+SRR2143764,PRJNA290926,44,F,28.25096981,USA,North America,Other,Healthy,Houston
+SRR2143765,PRJNA290926,61,M,28.72737719,USA,North America,White,adenoma,Houston
+SRR2143766,PRJNA290926,51,F,19.43301326,USA,North America,White,Healthy,Houston
+SRR2143767,PRJNA290926,50,F,33.46403461,USA,North America,White,Healthy,Houston
+SRR2143768,PRJNA290926,51,F,21.2244898,USA,North America,White,cancer,Boston
+SRR2143769,PRJNA290926,64,F,24.38237298,USA,North America,White,cancer,Houston
+SRR2143770,PRJNA290926,65,F,27.26800554,Canada,North America,White,cancer,Toronto
+SRR2143771,PRJNA290926,61,M,26.53375883,Canada,North America,White,adenoma,Toronto
+SRR2143772,PRJNA290926,73,M,25.60553633,Canada,North America,White,adenoma,Toronto
+SRR2143773,PRJNA290926,68,F,20.26935724,Canada,North America,White,adenoma,Toronto
+SRR2143774,PRJNA290926,63,F,25.4580659,USA,North America,White,adenoma,Boston
+SRR2143775,PRJNA290926,63,F,25.4580659,USA,North America,White,adenoma,Boston
+SRR2143776,PRJNA290926,48,M,32.90665379,USA,North America,White,cancer,Boston
+SRR2143777,PRJNA290926,52,F,28.1969212,USA,North America,White,Healthy,Houston
+SRR2143778,PRJNA290926,41,M,21.62162162,USA,North America,White,Healthy,Houston
+SRR2143779,PRJNA290926,65,M,32.1799308,USA,North America,White,cancer,Houston
+SRR2143780,PRJNA290926,44,F,24.76756592,USA,North America,White,Healthy,Houston
+SRR2143781,PRJNA290926,59,M,29.06122449,USA,North America,White,adenoma,Houston
+SRR2143782,PRJNA290926,37,M,24.38271605,Canada,North America,White,adenoma,Toronto
+SRR2143783,PRJNA290926,82,M,22.79035793,Canada,North America,White,adenoma,Toronto
+SRR2143784,PRJNA290926,78,M,30.55555556,Canada,North America,White,cancer,Toronto
+SRR2143785,PRJNA290926,59,F,29.75206612,USA,North America,White,cancer,Boston
+SRR2143786,PRJNA290926,63,M,29.45430638,USA,North America,White,cancer,Ann Arbor
+SRR2143787,PRJNA290926,65,F,20.82093992,Canada,North America,Asian,adenoma,Toronto
+SRR2143788,PRJNA290926,73,F,21.62064772,Canada,North America,White,cancer,Toronto
+SRR2143789,PRJNA290926,69,F,18.66201469,Canada,North America,White,Healthy,Toronto
+SRR2143790,PRJNA290926,68,M,25.61728395,Canada,North America,White,adenoma,Toronto
+SRR2143791,PRJNA290926,68,M,25.61728395,Canada,North America,White,adenoma,Toronto
+SRR2143792,PRJNA290926,64,F,35.26530612,USA,North America,White,cancer,Boston
+SRR2143793,PRJNA290926,64,F,35.26530612,USA,North America,White,cancer,Boston
+SRR2143794,PRJNA290926,47,M,22.83950617,USA,North America,White,adenoma,Boston
+SRR2143795,PRJNA290926,82,M,35.79604579,Canada,North America,Asian,adenoma,Toronto
+SRR2143796,PRJNA290926,59,M,23.082542,USA,North America,White,cancer,Boston
+SRR2143797,PRJNA290926,62,M,28.40909091,Canada,North America,White,adenoma,Toronto
+SRR2143798,PRJNA290926,68,F,29.6875,Canada,North America,Native,cancer,Toronto
+SRR2143799,PRJNA290926,66,M,27.18089991,Canada,North America,White,adenoma,Toronto
+SRR2143800,PRJNA290926,73,M,33.46403461,Canada,North America,White,adenoma,Toronto
+SRR2143801,PRJNA290926,73,M,33.46403461,Canada,North America,White,adenoma,Toronto
+SRR2143802,PRJNA290926,89,M,24.57786715,Canada,North America,White,adenoma,Toronto
+SRR2143803,PRJNA290926,72,F,21.1552942,Canada,North America,White,adenoma,Toronto
+SRR2143804,PRJNA290926,66,F,26.29172382,USA,North America,Black,adenoma,Boston
+SRR2143805,PRJNA290926,59,F,49.91617132,USA,North America,White,cancer,Boston
+SRR2143806,PRJNA290926,59,F,49.91617132,USA,North America,White,cancer,Boston
+SRR2143807,PRJNA290926,36,F,20.57613169,USA,North America,White,cancer,Boston
+SRR2143808,PRJNA290926,36,F,20.57613169,USA,North America,White,cancer,Boston
+SRR2143809,PRJNA290926,66,F,38.37072019,USA,North America,Black,adenoma,Boston
+SRR2143810,PRJNA290926,66,F,38.37072019,USA,North America,Black,adenoma,Boston
+SRR2143811,PRJNA290926,31,M,24.48979592,USA,North America,White,Healthy,Boston
+SRR2143812,PRJNA290926,31,M,24.48979592,USA,North America,White,Healthy,Boston
+SRR2143813,PRJNA290926,58,M,21.73650525,USA,North America,White,cancer,Boston
+SRR2143814,PRJNA290926,65,F,43.25259516,USA,North America,White,cancer,Ann Arbor
+SRR2143815,PRJNA290926,61,M,22.49817385,Canada,North America,White,adenoma,Toronto
+SRR2143816,PRJNA290926,50,F,32.46753247,USA,North America,White,adenoma,Ann Arbor
+SRR2143817,PRJNA290926,50,F,32.46753247,USA,North America,White,adenoma,Ann Arbor
+SRR2143818,PRJNA290926,53,F,25.5588462,USA,North America,White,Healthy,Ann Arbor
+SRR2143819,PRJNA290926,69,M,26.17383255,Canada,North America,White,adenoma,Toronto
+SRR2143820,PRJNA290926,60,M,22.20408163,USA,North America,White,adenoma,Boston
+SRR2143821,PRJNA290926,65,M,25,Canada,North America,Black,adenoma,Toronto
+SRR2143822,PRJNA290926,75,M,28.40818411,Canada,North America,White,adenoma,Toronto
+SRR2143823,PRJNA290926,75,M,28.40818411,Canada,North America,White,adenoma,Toronto
+SRR2143824,PRJNA290926,57,M,34.47772096,Canada,North America,White,cancer,Toronto
+SRR2143825,PRJNA290926,62,M,27.04164413,Canada,North America,White,adenoma,Toronto
+SRR2143826,PRJNA290926,47,M,28.40550436,Canada,North America,White,adenoma,Toronto
+SRR2143827,PRJNA290926,69,F,21.79930796,USA,North America,White,cancer,Boston
+SRR2143828,PRJNA290926,69,F,21.79930796,USA,North America,White,cancer,Boston
+SRR2143829,PRJNA290926,86,F,19.10009183,USA,North America,Black,adenoma,Boston
+SRR2143830,PRJNA290926,69,M,28.34185537,USA,North America,White,cancer,Boston
+SRR2143831,PRJNA290926,65,M,26.56683975,Canada,North America,White,adenoma,Toronto
+SRR2143832,PRJNA290926,74,M,35.16872936,USA,North America,White,cancer,Ann Arbor
+SRR2143833,PRJNA290926,30,F,20.41522491,Canada,North America,White,adenoma,Toronto
+SRR2143834,PRJNA290926,30,F,20.41522491,Canada,North America,White,adenoma,Toronto
+SRR2143835,PRJNA290926,74,F,37.72972534,Canada,North America,White,Healthy,Toronto
+SRR2143836,PRJNA290926,71,M,32.11195241,USA,North America,White,cancer,Houston
+SRR2143837,PRJNA290926,52,F,34.6122449,USA,North America,White,Healthy,Houston
+SRR2143838,PRJNA290926,55,F,20.54569362,USA,North America,Asian,Healthy,Houston
+SRR2143839,PRJNA290926,56,M,29.06976744,USA,North America,White,Healthy,Houston
+SRR2143840,PRJNA290926,81,F,23.12467037,USA,North America,White,cancer,Ann Arbor
+SRR2143841,PRJNA290926,69,F,26.40235457,USA,North America,Asian,Healthy,Houston
+SRR2143842,PRJNA290926,69,F,26.40235457,USA,North America,Asian,Healthy,Houston
+SRR2143843,PRJNA290926,81,F,18.97453196,Canada,North America,White,adenoma,Toronto
+SRR2143844,PRJNA290926,81,F,18.97453196,Canada,North America,White,adenoma,Toronto
+SRR2143845,PRJNA290926,58,F,27.47562949,USA,North America,White,Healthy,Houston
+SRR2143846,PRJNA290926,56,M,26.26494385,USA,North America,White,Healthy,Houston
+SRR2143847,PRJNA290926,54,F,30.10211858,USA,North America,White,adenoma,Boston
+SRR2143848,PRJNA290926,46,M,30.58581193,Canada,North America,White,adenoma,Toronto
+SRR2143849,PRJNA290926,51,M,24.33747972,USA,North America,White,adenoma,Ann Arbor
+SRR2143850,PRJNA290926,53,F,30.86419753,USA,North America,White,adenoma,Ann Arbor
+SRR2143851,PRJNA290926,56,F,28.08163265,Canada,North America,White,adenoma,Toronto
+SRR2143852,PRJNA290926,53,M,28.73467206,Canada,North America,White,adenoma,Toronto
+SRR2143853,PRJNA290926,75,M,27.77777778,Canada,North America,White,adenoma,Toronto
+SRR2143854,PRJNA290926,79,M,24.38237298,Canada,North America,White,adenoma,Toronto
+SRR2143855,PRJNA290926,40,F,25.20398137,Canada,North America,White,adenoma,Toronto
+SRR2143856,PRJNA290926,75,M,25.85463947,USA,North America,White,cancer,Boston
+SRR2143857,PRJNA290926,50,M,28.07631929,USA,North America,White,cancer,Boston
+SRR2143858,PRJNA290926,59,F,42.90657439,USA,North America,White,cancer,Boston
+SRR2143859,PRJNA290926,59,M,27.16691927,Canada,North America,White,adenoma,Toronto
+SRR2143860,PRJNA290926,63,M,29.28390291,Canada,North America,White,adenoma,Toronto
+SRR2143861,PRJNA290926,75,M,26.44897959,Canada,North America,White,adenoma,Toronto
+SRR2143862,PRJNA290926,56,M,30.43671557,Canada,North America,White,adenoma,Toronto
+SRR2143863,PRJNA290926,45,F,21.92612582,Canada,North America,White,adenoma,Toronto
+SRR2143864,PRJNA290926,61,F,21.33821064,Canada,North America,White,adenoma,Toronto
+SRR2143865,PRJNA290926,50,F,27.34375,USA,North America,White,Healthy,Houston
+SRR2143878,PRJNA290926,61,F,29.21010994,Canada,North America,White,Healthy,Toronto
+SRR2143880,PRJNA290926,56,F,26.77593411,Canada,North America,White,adenoma,Toronto
+SRR2143881,PRJNA290926,50,F,16.56300703,USA,North America,White,adenoma,Ann Arbor
+SRR2143882,PRJNA290926,47,F,24.22145329,USA,North America,White,adenoma,Ann Arbor
+SRR2143883,PRJNA290926,51,M,32.23850107,USA,North America,White,Healthy,Ann Arbor
+SRR2143884,PRJNA290926,50,M,29.3877551,USA,North America,White,adenoma,Houston
+SRR2143885,PRJNA290926,40,M,29.88769472,USA,North America,White,cancer,Ann Arbor
+SRR2143886,PRJNA290926,40,M,34.47809627,USA,North America,White,cancer,Houston
+SRR2143888,PRJNA290926,51,M,26.49302563,USA,North America,White,Healthy,Houston
+SRR2143889,PRJNA290926,51,M,26.49302563,USA,North America,White,Healthy,Houston
+SRR2143890,PRJNA290926,46,F,29.43213296,USA,North America,White,cancer,Houston
+SRR2143891,PRJNA290926,50,F,19.605192,USA,North America,White,Healthy,Houston
+SRR2143892,PRJNA290926,36,F,22.40587695,USA,North America,Black,adenoma,Houston
+SRR2143893,PRJNA290926,54,M,31.60011491,USA,North America,White,Healthy,Houston
+SRR2143894,PRJNA290926,44,F,25.96952909,USA,North America,White,Healthy,Houston
+SRR2143895,PRJNA290926,40,M,24.67702134,USA,North America,White,Healthy,Houston
+SRR2143896,PRJNA290926,86,F,27.60945176,Canada,North America,White,adenoma,Toronto
+SRR2143897,PRJNA290926,75,F,49.30966469,Canada,North America,White,cancer,Toronto
+SRR2143898,PRJNA290926,52,F,20.56932966,USA,North America,Asian,Healthy,Houston
+SRR2143899,PRJNA290926,49,F,20.19509221,USA,North America,White,Healthy,Houston
+SRR2143900,PRJNA290926,51,F,28.40818411,USA,North America,White,Healthy,Houston
+SRR2143901,PRJNA290926,59,F,26.21882086,USA,North America,Black,Healthy,Houston
+SRR2143902,PRJNA290926,59,F,26.21882086,USA,North America,Black,Healthy,Houston
+SRR2143903,PRJNA290926,50,F,33.9100346,USA,North America,White,Healthy,Houston
+SRR2143904,PRJNA290926,75,M,25.25951557,USA,North America,Asian,Healthy,Houston
+SRR2143905,PRJNA290926,75,M,25.25951557,USA,North America,Asian,Healthy,Houston
+SRR2143906,PRJNA290926,52,M,24.76756592,USA,North America,Asian,Healthy,Houston
+SRR2143907,PRJNA290926,60,M,35.13930223,USA,North America,Black,cancer,Houston
+SRR2143908,PRJNA290926,72,F,20.2020202,USA,North America,White,Healthy,Houston
+SRR2143909,PRJNA290926,55,F,25.85463947,USA,North America,White,Healthy,Boston
+SRR2143910,PRJNA290926,35,F,35.49786654,USA,North America,White,Healthy,Houston
+SRR2143911,PRJNA290926,53,M,28.25484765,USA,North America,White,cancer,Boston
+SRR2143912,PRJNA290926,57,F,20.52892163,USA,North America,White,Healthy,Boston
+SRR2143922,PRJNA290926,51,M,25.0995016,USA,North America,White,Healthy,Houston
+SRR2143924,PRJNA290926,62,F,25.29937595,USA,North America,White,Healthy,Houston
+SRR2143925,PRJNA290926,57,M,32.52595156,USA,North America,White,Healthy,Houston
+SRR2143926,PRJNA290926,85,F,25.390625,USA,North America,White,cancer,Boston
+SRR2143927,PRJNA290926,45,F,21.1552942,USA,North America,White,Healthy,Boston
+SRR2143928,PRJNA290926,61,F,24.97704316,USA,North America,White,Healthy,Houston
+SRR2143929,PRJNA290926,60,F,27.43484225,USA,North America,White,adenoma,Houston
+SRR2143930,PRJNA290926,72,F,28.13365651,USA,North America,White,adenoma,Boston
+SRR2143931,PRJNA290926,72,F,22.58955144,USA,North America,White,Healthy,Boston
+SRR2143932,PRJNA290926,55,F,35.29554952,USA,North America,White,Healthy,Boston
+SRR2143933,PRJNA290926,79,M,20.67901235,Canada,North America,White,adenoma,Toronto
+SRR2143934,PRJNA290926,88,F,30.83653053,USA,North America,White,cancer,Boston
+SRR2143935,PRJNA290926,48,M,32.90665379,USA,North America,White,cancer,Houston
+SRR2143936,PRJNA290926,55,F,37.78272346,USA,North America,Asian,Healthy,Houston
+SRR2143937,PRJNA290926,62,M,26.37023814,USA,North America,Asian,Healthy,Houston
+SRR2143938,PRJNA290926,54,F,24.74093729,USA,North America,White,adenoma,Houston
+SRR2143939,PRJNA290926,50,F,23.828125,Canada,North America,White,adenoma,Toronto
+SRR2143940,PRJNA290926,52,F,19.26530612,Canada,North America,White,adenoma,Toronto
+SRR2143941,PRJNA290926,68,F,31.58861341,Canada,North America,White,adenoma,Toronto
+SRR2143942,PRJNA290926,74,F,23.93606231,Canada,North America,Asian,cancer,Toronto
+SRR2143943,PRJNA290926,59,M,24.16326531,USA,North America,White,Healthy,Ann Arbor
+SRR2143944,PRJNA290926,31,F,19.47340663,Canada,North America,Asian,adenoma,Toronto
+SRR2143945,PRJNA290926,64,M,25.05736022,Canada,North America,White,adenoma,Toronto
+SRR2143946,PRJNA290926,72,M,28.73563218,Canada,North America,White,adenoma,Toronto
+SRR2143947,PRJNA290926,82,F,18.61149584,Canada,North America,White,adenoma,Toronto
+SRR2143948,PRJNA290926,58,M,27.16049383,USA,North America,White,adenoma,Ann Arbor
+SRR2143949,PRJNA290926,64,M,30.10380623,Canada,North America,White,adenoma,Toronto
+SRR2143950,PRJNA290926,54,M,29.36576335,USA,North America,White,cancer,Boston
+SRR2143951,PRJNA290926,51,F,21.4532872,USA,North America,White,Healthy,Boston
+SRR2143952,PRJNA290926,56,F,25.71166208,Canada,North America,White,adenoma,Toronto
+SRR2143953,PRJNA290926,56,F,25.71166208,Canada,North America,White,adenoma,Toronto
+SRR2143954,PRJNA290926,81,F,22.66589506,USA,North America,White,adenoma,Ann Arbor
+SRR2143955,PRJNA290926,74,M,26.56683975,Canada,North America,White,adenoma,Toronto
+SRR2143956,PRJNA290926,74,M,26.56683975,Canada,North America,White,adenoma,Toronto
+SRR2143957,PRJNA290926,51,F,23.66524436,Canada,North America,White,adenoma,Toronto
+SRR2143958,PRJNA290926,80,M,22.22222222,USA,North America,White,Healthy,Ann Arbor
+SRR2143959,PRJNA290926,58,F,27.60945176,USA,North America,White,Healthy,Houston
+SRR2143960,PRJNA290926,58,F,27.60945176,USA,North America,White,Healthy,Houston
+SRR2143961,PRJNA290926,56,F,17.09927841,USA,North America,White,adenoma,Boston
+SRR2143962,PRJNA290926,51,F,35.92451524,USA,North America,White,adenoma,Boston
+SRR2143963,PRJNA290926,36,F,21.87755102,USA,North America,White,Healthy,Boston
+SRR2143964,PRJNA290926,83,F,27.77670615,Canada,North America,White,cancer,Toronto
+SRR2143965,PRJNA290926,76,M,31.48148148,Canada,North America,White,cancer,Toronto
+SRR2143966,PRJNA290926,61,F,36.328125,USA,North America,White,Healthy,Houston
+SRR2143967,PRJNA290926,51,F,30.42184965,USA,North America,White,Healthy,Ann Arbor
+SRR2143968,PRJNA290926,44,M,29.74580855,USA,North America,White,cancer,Ann Arbor
+SRR2143969,PRJNA290926,67,F,25.5588462,Canada,North America,White,adenoma,Toronto
+SRR2143970,PRJNA290926,55,F,22.49134948,USA,North America,White,Healthy,Boston
+SRR2143972,PRJNA290926,48,F,23.63403301,USA,North America,White,Healthy,Boston
+SRR2143973,PRJNA290926,75,F,24.609375,Canada,North America,White,adenoma,Toronto
+SRR2143974,PRJNA290926,68,F,30.10211858,Canada,North America,White,adenoma,Toronto
+SRR2143975,PRJNA290926,79,M,25.61728395,Canada,North America,White,adenoma,Toronto
+SRR2143976,PRJNA290926,79,M,25.61728395,Canada,North America,White,adenoma,Toronto
+SRR2143977,PRJNA290926,71,M,28.08899103,Canada,North America,White,adenoma,Toronto
+SRR2143978,PRJNA290926,52,M,35.06208912,USA,North America,White,Healthy,Houston
+SRR2143979,PRJNA290926,45,F,33.15043439,USA,North America,Black,Healthy,Ann Arbor
+SRR2143980,PRJNA290926,52,F,17.52781588,USA,North America,White,adenoma,Boston
+SRR2143981,PRJNA290926,47,F,21.1552942,USA,North America,White,Healthy,Houston
+SRR2143982,PRJNA290926,51,F,21.33821064,USA,North America,White,Healthy,Ann Arbor
+SRR2143983,PRJNA290926,62,M,26.70362358,USA,North America,White,adenoma,Houston
+SRR2143984,PRJNA290926,57,F,23.80540166,USA,North America,Other,Healthy,Houston
+SRR2143985,PRJNA290926,65,M,33.05785124,USA,North America,White,Healthy,Ann Arbor
+SRR2143986,PRJNA290926,78,M,29.88769472,USA,North America,White,cancer,Boston
+SRR2143987,PRJNA290926,61,M,24.38237298,USA,North America,White,cancer,Boston
+SRR2143988,PRJNA290926,49,M,25.61728395,USA,North America,White,Healthy,Houston
+SRR2143989,PRJNA290926,49,M,25.61728395,USA,North America,White,Healthy,Houston
+SRR2143990,PRJNA290926,63,F,27.33564014,Canada,North America,White,adenoma,Toronto
+SRR2143991,PRJNA290926,63,F,27.33564014,Canada,North America,White,adenoma,Toronto
+SRR2143992,PRJNA290926,76,F,23.30668005,Canada,North America,White,adenoma,Toronto
+SRR2143993,PRJNA290926,76,F,23.30668005,Canada,North America,White,adenoma,Toronto
+SRR2143994,PRJNA290926,67,M,22.59143813,USA,North America,White,adenoma,Ann Arbor
+SRR2143995,PRJNA290926,67,M,22.59143813,USA,North America,White,adenoma,Ann Arbor
+SRR2143996,PRJNA290926,75,F,49.75543937,USA,North America,White,cancer,Ann Arbor
+SRR2143997,PRJNA290926,52,F,20.23950076,Canada,North America,Asian,adenoma,Toronto
+SRR2143998,PRJNA290926,79,F,23.93606231,USA,North America,White,cancer,Ann Arbor
+SRR2143999,PRJNA290926,63,F,32.8125,USA,North America,Black,Healthy,Boston
+SRR2144001,PRJNA290926,52,F,32.00731596,USA,North America,White,Healthy,Houston
+SRR2144002,PRJNA290926,52,F,32.00731596,USA,North America,White,Healthy,Houston
+SRR2144003,PRJNA290926,71,F,26.953125,USA,North America,White,cancer,Boston
+SRR2144004,PRJNA290926,55,F,22.94811574,USA,North America,White,cancer,Boston
+SRR2144005,PRJNA290926,50,M,28.08163265,USA,North America,White,Healthy,Ann Arbor
+SRR2144006,PRJNA290926,73,F,25.224089,USA,North America,White,cancer,Ann Arbor
+SRR2144007,PRJNA290926,68,F,23.61275089,USA,North America,error,cancer,Boston
+SRR2144008,PRJNA290926,68,F,23.61275089,USA,North America,error,cancer,Boston
+SRR2144009,PRJNA290926,65,F,21.87242282,USA,North America,White,cancer,Boston
+SRR2144010,PRJNA290926,31,F,23.51020408,USA,North America,White,adenoma,Ann Arbor
+SRR2144011,PRJNA290926,84,F,20.703125,USA,North America,White,cancer,Ann Arbor
+SRR2144012,PRJNA290926,53,F,28.07631929,USA,North America,White,Healthy,Ann Arbor
+SRR2144013,PRJNA290926,54,F,26.07897153,USA,North America,White,Healthy,Ann Arbor
+SRR2144014,PRJNA290926,53,F,25.4580659,USA,North America,White,Healthy,Boston
+SRR2144015,PRJNA290926,58,M,31.79012346,USA,North America,White,cancer,Houston
+SRR2144016,PRJNA290926,54,F,33.56401384,USA,North America,White,Healthy,Ann Arbor
+SRR2144017,PRJNA290926,75,F,23.52941176,USA,North America,White,Healthy,Ann Arbor
+SRR2144018,PRJNA290926,51,F,27.43484225,Canada,North America,White,adenoma,Toronto
+SRR2144019,PRJNA290926,55,F,29.75778547,USA,North America,White,Healthy,Houston
+SRR2144020,PRJNA290926,55,F,29.75778547,USA,North America,White,Healthy,Houston
+SRR2144021,PRJNA290926,61,M,24.81632653,USA,North America,Asian,Healthy,Houston
+SRR2144022,PRJNA290926,61,F,20.74755019,USA,North America,White,Healthy,Boston
+SRR2144023,PRJNA290926,63,M,29.38475666,Canada,North America,White,adenoma,Toronto
+SRR2144024,PRJNA290926,58,M,29.04657027,USA,North America,White,Healthy,Houston
+SRR2144025,PRJNA290926,52,M,30.3871439,Canada,North America,White,adenoma,Toronto
+SRR2144026,PRJNA290926,52,M,30.3871439,Canada,North America,White,adenoma,Toronto
+SRR2144027,PRJNA290926,56,F,21.1552942,USA,North America,White,Healthy,Houston
+SRR2144028,PRJNA290926,66,F,23.12467037,USA,North America,White,adenoma,Ann Arbor
+SRR2144029,PRJNA290926,80,F,28.71972318,Canada,North America,White,cancer,Toronto
+SRR2144030,PRJNA290926,61,F,27.43484225,Canada,North America,White,adenoma,Toronto
+SRR2144031,PRJNA290926,61,M,28.02768166,USA,North America,White,Healthy,Houston
+SRR2144032,PRJNA290926,69,M,35.83017847,USA,North America,White,cancer,Ann Arbor
+SRR2144033,PRJNA290926,45,F,30.44982699,USA,North America,White,cancer,Boston
+SRR2144034,PRJNA290926,88,M,27.16049383,USA,North America,White,cancer,Boston
+SRR2144035,PRJNA290926,74,M,28.32658037,USA,North America,White,cancer,Ann Arbor
+SRR2144036,PRJNA290926,50,M,31.67346939,Canada,North America,White,adenoma,Toronto
+SRR2144037,PRJNA290926,45,F,31.62627648,Canada,North America,White,adenoma,Toronto
+SRR2144038,PRJNA290926,56,F,25.91068435,USA,North America,White,adenoma,Boston
+SRR2144039,PRJNA290926,51,M,21.10726644,USA,North America,Asian,Healthy,Houston
+SRR2144040,PRJNA290926,51,M,21.10726644,USA,North America,Asian,Healthy,Houston
+SRR2144043,PRJNA290926,42,M,27.71768524,USA,North America,White,Healthy,Houston
+SRR2144070,PRJNA290926,49,M,24.93074792,USA,North America,White,Healthy,Houston
+SRR2144071,PRJNA290926,56,M,21.70512943,USA,North America,White,cancer,Ann Arbor
+SRR2144072,PRJNA290926,77,M,23.50780533,Canada,North America,White,adenoma,Toronto
+SRR2144073,PRJNA290926,62,F,28.80441397,USA,North America,White,Healthy,Houston
+SRR2144074,PRJNA290926,74,M,25.81663021,Canada,North America,White,adenoma,Toronto
+SRR2144089,PRJNA290926,69,M,26.49302563,Canada,North America,White,adenoma,Toronto
+SRR2144090,PRJNA290926,51,F,17.52781588,USA,North America,Asian,Healthy,Houston
+SRR2144091,PRJNA290926,51,F,17.52781588,USA,North America,Asian,Healthy,Houston
+SRR2144092,PRJNA290926,60,M,30.31256256,USA,North America,White,Healthy,Houston
+SRR2144093,PRJNA290926,32,M,31.48148148,USA,North America,White,Healthy,Houston
+SRR2144094,PRJNA290926,50,M,27.76979795,USA,North America,White,cancer,Boston
+SRR2144095,PRJNA290926,74,M,26.6727633,USA,North America,White,Healthy,Boston
+SRR2144096,PRJNA290926,59,F,22.10028959,USA,North America,White,cancer,Boston
+SRR2144097,PRJNA290926,63,M,38.19632234,USA,North America,White,adenoma,Houston
+SRR2144098,PRJNA290926,53,F,21.67125803,USA,North America,White,Healthy,Boston
+SRR2144099,PRJNA290926,67,F,21.87242282,USA,North America,White,adenoma,Boston
+SRR2144100,PRJNA290926,51,F,33.15043439,USA,North America,White,adenoma,Boston
+SRR2144101,PRJNA290926,47,M,26.44897959,USA,North America,White,cancer,Boston
+SRR2144102,PRJNA290926,48,M,29.74580855,USA,North America,White,adenoma,Boston
+SRR2144103,PRJNA290926,49,F,37.29068808,USA,North America,White,cancer,Ann Arbor
+SRR2144104,PRJNA290926,44,M,35.83017847,USA,North America,White,adenoma,Ann Arbor
+SRR2144105,PRJNA290926,56,F,24.89706023,USA,North America,White,Healthy,Houston
+SRR2144106,PRJNA290926,55,M,33.05785124,USA,North America,Other,Healthy,Houston
+SRR2144107,PRJNA290926,61,F,20.90419501,Canada,North America,White,Healthy,Toronto
+SRR2144108,PRJNA290926,67,M,28.65013774,Canada,North America,White,Healthy,Toronto
+SRR2144109,PRJNA290926,62,M,27.16691927,USA,North America,White,Healthy,Houston
+SRR2144110,PRJNA290926,49,F,31.02040816,USA,North America,White,cancer,Boston
+SRR2144111,PRJNA290926,52,F,22.64737696,Canada,North America,White,Healthy,Toronto
+SRR2144112,PRJNA290926,55,F,25.1486054,Canada,North America,White,Healthy,Toronto
+SRR2144113,PRJNA290926,57,M,30.83653053,Canada,North America,White,adenoma,Toronto
+SRR2144114,PRJNA290926,57,M,30.83653053,Canada,North America,White,adenoma,Toronto
+SRR2144115,PRJNA290926,46,F,21.33821064,USA,North America,White,Healthy,Boston
+SRR2144116,PRJNA290926,50,F,30.86419753,USA,North America,Black,Healthy,Boston
+SRR2144117,PRJNA290926,74,M,24.07407407,Canada,North America,White,cancer,Toronto
+SRR2144118,PRJNA290926,74,M,24.38271605,Canada,North America,White,adenoma,Toronto
+SRR2144119,PRJNA290926,53,F,21.09619051,Canada,North America,White,Healthy,Toronto
+SRR2144120,PRJNA290926,53,M,26.56683975,Canada,North America,White,Healthy,Toronto
+SRR2144121,PRJNA290926,56,M,20.52892163,Canada,North America,White,Healthy,Toronto
+SRR2144122,PRJNA290926,58,F,35.49786654,USA,North America,Black,Healthy,Ann Arbor
+SRR2144123,PRJNA290926,55,M,19.28414901,USA,North America,White,adenoma,Boston
+SRR2144124,PRJNA290926,66,M,21.60493827,USA,North America,White,adenoma,Ann Arbor
+SRR2144125,PRJNA290926,77,M,31.79012346,USA,North America,White,Healthy,Boston
+SRR2144126,PRJNA290926,51,F,27.43484225,USA,North America,White,Healthy,Boston
+SRR2144127,PRJNA290926,53,F,33.59375,USA,North America,White,Healthy,Boston
+SRR2144128,PRJNA290926,75,M,27.17311907,USA,North America,White,adenoma,Ann Arbor
+SRR2144129,PRJNA290926,56,F,26.953125,USA,North America,White,Healthy,Ann Arbor
+SRR2144130,PRJNA290926,77,M,23.73530842,USA,North America,White,adenoma,Boston
+SRR2144131,PRJNA290926,51,F,25.4580659,USA,North America,White,Healthy,Ann Arbor
+SRR2144132,PRJNA290926,NA,,NA,,uncalculated,mock,mock,NA
+SRR2144133,PRJNA290926,NA,,NA,,North America,mock,mock,NA
+SRR2144134,PRJNA290926,NA,,NA,,North America,mock,mock,NA
+SRR2144135,PRJNA290926,NA,,NA,,North America,mock,mock,NA
+SRR2144136,PRJNA290926,NA,,NA,,uncalculated,mock,mock,NA

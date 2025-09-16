@@ -1,2 +1,0 @@
-"0","# Now try combining again with standardized columns"
-"0","re_combined_metadata <- do.call(rbind, re_md_list)"
