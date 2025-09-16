@@ -38,7 +38,7 @@ The overarching goal is to:
 This project is organized into the following directories and files:  
 
 ```bash
-├── data/                          # Metadata files and processed datasets (no raw FASTQ)  
+├── data/                          # Metadata files and Organization
 ├── scripts/                       # Data cleaning, preprocessing, and analysis scripts  
 │   └── preprocessing and analysis/  
 │       ├── DADA Analysis.R        # Processing raw sequencing data using DADA2 (QC, denoising, chimera removal, ASV table generation)  
